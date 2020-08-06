@@ -1,0 +1,1600 @@
+TP53	tumor protein p53	17p13.1	protein_coding	355 / 986 (36.00%)	3,956 / 10,188	232	Cancer Gene Census	
+PIK3CA	phosphatidylinositol-4,5-bisphosphate 3-kinase, catalytic subunit alpha	3q26.32	protein_coding	337 / 986 (34.18%)	1,388 / 10,188	81	Cancer Gene Census	
+TTN	titin	2q31.2	protein_coding	243 / 986 (24.65%)	3,852 / 10,188	472		
+MUC4	mucin 4, cell surface associated	3q29	protein_coding	197 / 986 (19.98%)	1,300 / 10,188	141		
+MUC16	mucin 16, cell surface associated	19p13.2	protein_coding	149 / 986 (15.11%)	2,459 / 10,188	204		
+CDH1	cadherin 1, type 1, E-cadherin (epithelial)	16q22.1	protein_coding	145 / 986 (14.71%)	372 / 10,188	129	Cancer Gene Census	
+GATA3	GATA binding protein 3	10p14	protein_coding	137 / 986 (13.89%)	356 / 10,188	102	Cancer Gene Census	
+MUC2	mucin 2, oligomeric mucus/gel-forming	11p15.5	processed_transcript	114 / 986 (11.56%)	696 / 10,188	58		
+KMT2C	lysine (K)-specific methyltransferase 2C	7q36.1	protein_coding	99 / 986 (10.04%)	981 / 10,188	124	Cancer Gene Census	
+RYR2	ryanodine receptor 2 (cardiac)	1q43	protein_coding	89 / 986 (9.03%)	1,573 / 10,188	115		
+MAP3K1	mitogen-activated protein kinase kinase kinase 1, E3 ubiquitin protein ligase	5q11.2	protein_coding	86 / 986 (8.72%)	318 / 10,188	123	Cancer Gene Census	
+SYNE1	spectrin repeat containing, nuclear envelope 1	6q25.2	protein_coding	81 / 986 (8.22%)	1,583 / 10,188	110		
+HMCN1	hemicentin 1	1q25.3, 1q31.1	protein_coding	79 / 986 (8.01%)	1,144 / 10,188	101		
+USH2A	Usher syndrome 2A (autosomal recessive, mild)	1q41	protein_coding	77 / 986 (7.81%)	1,391 / 10,188	88		
+SPTA1	spectrin, alpha, erythrocytic 1	1q23.1	protein_coding	73 / 986 (7.40%)	1,124 / 10,188	79		
+FLG	filaggrin	1q21.3	protein_coding	71 / 986 (7.20%)	1,422 / 10,188	86		
+DST	dystonin	6p12.1	protein_coding	69 / 986 (7.00%)	1,175 / 10,188	112		
+RYR3	ryanodine receptor 3	15q13.3, 15q14	protein_coding	67 / 986 (6.80%)	1,058 / 10,188	75		
+DMD	dystrophin	Xp21.2, Xp21.1	protein_coding	64 / 986 (6.49%)	940 / 10,188	87		
+ZFHX4	zinc finger homeobox 4	8q21.13	protein_coding	63 / 986 (6.39%)	1,286 / 10,188	69		
+OBSCN	obscurin, cytoskeletal calmodulin and titin-interacting RhoGEF	1q42.13	protein_coding	62 / 986 (6.29%)	1,314 / 10,188	82		
+NEB	nebulin	2q23.3	protein_coding	61 / 986 (6.19%)	1,037 / 10,188	77		
+PTEN	phosphatase and tensin homolog	10q23.31	protein_coding	60 / 986 (6.09%)	916 / 10,188	59	Cancer Gene Census	
+MUC17	mucin 17, cell surface associated	7q22.1	protein_coding	59 / 986 (5.98%)	1,104 / 10,188	65		
+SYNE2	spectrin repeat containing, nuclear envelope 2	14q23.2	protein_coding	57 / 986 (5.78%)	890 / 10,188	76		
+MACF1	microtubule-actin crosslinking factor 1	1p34.3	protein_coding	57 / 986 (5.78%)	1,018 / 10,188	69		
+NCOR1	nuclear receptor corepressor 1	17p12, 17p11.2	protein_coding	56 / 986 (5.68%)	501 / 10,188	59	Cancer Gene Census	
+APOB	apolipoprotein B	2p24.1	protein_coding	55 / 986 (5.58%)	1,083 / 10,188	68		
+NF1	neurofibromin 1	17q11.2	protein_coding	54 / 986 (5.48%)	761 / 10,188	61	Cancer Gene Census	
+MUC5B	mucin 5B, oligomeric mucus/gel-forming	11p15.5	protein_coding	54 / 986 (5.48%)	978 / 10,188	59		
+PKHD1L1	polycystic kidney and hepatic disease 1 (autosomal recessive)-like 1	8q23.1, 8q23.2	protein_coding	54 / 986 (5.48%)	946 / 10,188	64		
+CSMD1	CUB and Sushi multiple domains 1	8p23.2	protein_coding	53 / 986 (5.38%)	1,188 / 10,188	60		
+ABCA13	ATP-binding cassette, sub-family A (ABC1), member 13	7p12.3	protein_coding	53 / 986 (5.38%)	955 / 10,188	66		
+CCDC168	coiled-coil domain containing 168	13q33.1	protein_coding	52 / 986 (5.27%)	360 / 10,188	86		
+CSMD3	CUB and Sushi multiple domains 3	8q23.3	protein_coding	51 / 986 (5.17%)	1,631 / 10,188	59		
+GOLGA6L6	golgin A6 family-like 6	15q11.2	protein_coding	51 / 986 (5.17%)	242 / 10,188	19		
+FAT3	FAT atypical cadherin 3	11q14.3	protein_coding	51 / 986 (5.17%)	1,167 / 10,188	65		
+HUWE1	HECT, UBA and WWE domain containing 1, E3 ubiquitin protein ligase	Xp11.22	protein_coding	49 / 986 (4.97%)	712 / 10,188	59		
+RYR1	ryanodine receptor 1 (skeletal)	19q13.2	protein_coding	49 / 986 (4.97%)	1,089 / 10,188	54		
+DNAH11	dynein, axonemal, heavy chain 11	7p15.3	protein_coding	48 / 986 (4.87%)	928 / 10,188	56		
+CACNA1E	calcium channel, voltage-dependent, R type, alpha 1E subunit	1q25.3	protein_coding	47 / 986 (4.77%)	844 / 10,188	55		
+XIRP2	xin actin-binding repeat containing 2	2q24.3	protein_coding	47 / 986 (4.77%)	1,180 / 10,188	66		
+RUNX1	runt-related transcription factor 1	21q22.12	protein_coding	47 / 986 (4.77%)	222 / 10,188	43	Cancer Gene Census	
+LRP1B	low density lipoprotein receptor-related protein 1B	2q22.1, 2q22.2	protein_coding	47 / 986 (4.77%)	1,520 / 10,188	54		
+ARID1A	AT rich interactive domain 1A (SWI-like)	1p36.11	protein_coding	46 / 986 (4.67%)	912 / 10,188	46	Cancer Gene Census	
+PCLO	piccolo presynaptic cytomatrix protein	7q21.11	protein_coding	45 / 986 (4.56%)	1,327 / 10,188	57		
+LRP2	low density lipoprotein receptor-related protein 2	2q31.1	protein_coding	45 / 986 (4.56%)	1,003 / 10,188	52		
+ADGRV1	adhesion G protein-coupled receptor V1	5q14.3	protein_coding	44 / 986 (4.46%)	1,002 / 10,188	59		
+DNAH17	dynein, axonemal, heavy chain 17	17q25.3	protein_coding	44 / 986 (4.46%)	816 / 10,188	52		
+RNF213	ring finger protein 213	17q25.3	protein_coding	44 / 986 (4.46%)	754 / 10,188	57	Cancer Gene Census	
+PIK3R1	phosphoinositide-3-kinase, regulatory subunit 1 (alpha)	5q13.1	protein_coding	44 / 986 (4.46%)	503 / 10,188	46	Cancer Gene Census	
+MDN1	MDN1, midasin homolog (yeast)	6q15	protein_coding	43 / 986 (4.36%)	703 / 10,188	55		
+HYDIN	HYDIN, axonemal central pair apparatus protein	16q22.2	protein_coding	43 / 986 (4.36%)	865 / 10,188	51		
+PRUNE2	prune homolog 2 (Drosophila)	9q21.2	protein_coding	42 / 986 (4.26%)	657 / 10,188	52		
+DCHS2	dachsous cadherin-related 2	4q31.3	protein_coding	42 / 986 (4.26%)	737 / 10,188	50		
+CSMD2	CUB and Sushi multiple domains 2	1p35.1	protein_coding	41 / 986 (4.16%)	949 / 10,188	45		
+PRKDC	protein kinase, DNA-activated, catalytic polypeptide	8q11.21	protein_coding	41 / 986 (4.16%)	633 / 10,188	49		
+AHNAK	AHNAK nucleoprotein	11q12.3	protein_coding	41 / 986 (4.16%)	853 / 10,188	59		
+AHNAK2	AHNAK nucleoprotein 2	14q32.33	protein_coding	41 / 986 (4.16%)	1,015 / 10,188	51		
+FAT1	FAT atypical cadherin 1	4q35.2	protein_coding	40 / 986 (4.06%)	868 / 10,188	43	Cancer Gene Census	
+MAP2K4	mitogen-activated protein kinase kinase 4	17p12	protein_coding	40 / 986 (4.06%)	202 / 10,188	38	Cancer Gene Census	
+XKR4	XK, Kell blood group complex subunit-related family, member 4	8q12.1	protein_coding	40 / 986 (4.06%)	646 / 10,188	43		
+SPEN	spen family transcriptional repressor	1p36.21, 1p36.13	protein_coding	40 / 986 (4.06%)	584 / 10,188	56	Cancer Gene Census	
+SVEP1	sushi, von Willebrand factor type A, EGF and pentraxin domain containing 1	9q31.3	protein_coding	40 / 986 (4.06%)	661 / 10,188	44		
+MXRA5	matrix-remodelling associated 5	Xp22.33	protein_coding	40 / 986 (4.06%)	776 / 10,188	48		
+TENM1	teneurin transmembrane protein 1	Xq25	protein_coding	40 / 986 (4.06%)	806 / 10,188	44		
+BIRC6	baculoviral IAP repeat containing 6	2p22.3	protein_coding	40 / 986 (4.06%)	673 / 10,188	47		
+ASPM	asp (abnormal spindle) homolog, microcephaly associated (Drosophila)	1q31.3	protein_coding	40 / 986 (4.06%)	617 / 10,188	51		
+CHD6	chromodomain helicase DNA binding protein 6	20q12	protein_coding	39 / 986 (3.96%)	541 / 10,188	39		
+DNAH9	dynein, axonemal, heavy chain 9	17p12	protein_coding	39 / 986 (3.96%)	992 / 10,188	45		
+KMT2D	lysine (K)-specific methyltransferase 2D	12q13.12	protein_coding	39 / 986 (3.96%)	1,106 / 10,188	44	Cancer Gene Census	
+DNAH8	dynein, axonemal, heavy chain 8	6p21.2	protein_coding	39 / 986 (3.96%)	980 / 10,188	52		
+GON4L	gon-4-like (C. elegans)	1q22	protein_coding	39 / 986 (3.96%)	473 / 10,188	46		
+SACS	sacsin molecular chaperone	13q12.12	protein_coding	38 / 986 (3.85%)	749 / 10,188	50		
+MYH9	myosin, heavy chain 9, non-muscle	22q12.3	protein_coding	38 / 986 (3.85%)	445 / 10,188	39	Cancer Gene Census	
+NBPF12	neuroblastoma breakpoint family, member 12	1q21.1	protein_coding	38 / 986 (3.85%)	307 / 10,188	29		
+FMN2	formin 2	1q43	protein_coding	38 / 986 (3.85%)	724 / 10,188	40		
+AKAP9	A kinase (PRKA) anchor protein 9	7q21.2	protein_coding	38 / 986 (3.85%)	604 / 10,188	52	Cancer Gene Census	
+ST6GALNAC3	ST6 (alpha-N-acetyl-neuraminyl-2,3-beta-galactosyl-1,3)-N-acetylgalactosaminide alpha-2,6-sialyltransferase 3	1p31.1	protein_coding	38 / 986 (3.85%)	268 / 10,188	8		
+LYST	lysosomal trafficking regulator	1q42.3	protein_coding	38 / 986 (3.85%)	588 / 10,188	46		
+DNAH5	dynein, axonemal, heavy chain 5	5p15.2	protein_coding	38 / 986 (3.85%)	1,257 / 10,188	52		
+DNAH3	dynein, axonemal, heavy chain 3	16p12.3	protein_coding	38 / 986 (3.85%)	883 / 10,188	39		
+CUBN	cubilin (intrinsic factor-cobalamin receptor)	10p13	protein_coding	38 / 986 (3.85%)	833 / 10,188	44		
+LRP1	low density lipoprotein receptor-related protein 1	12q13.3	protein_coding	37 / 986 (3.75%)	736 / 10,188	46		
+DNAH14	dynein, axonemal, heavy chain 14	1q42.12	protein_coding	37 / 986 (3.75%)	321 / 10,188	47		
+VPS13B	vacuolar protein sorting 13 homolog B (yeast)	8q22.2	protein_coding	37 / 986 (3.75%)	722 / 10,188	43		
+LAMA1	laminin, alpha 1	18p11.31	protein_coding	37 / 986 (3.75%)	747 / 10,188	39		
+RELN	reelin	7q22.1	protein_coding	37 / 986 (3.75%)	858 / 10,188	42		
+USP34	ubiquitin specific peptidase 34	2p15	protein_coding	37 / 986 (3.75%)	492 / 10,188	39		
+ANK2	ankyrin 2, neuronal	4q25, 4q26	protein_coding	36 / 986 (3.65%)	871 / 10,188	48		
+FCGBP	Fc fragment of IgG binding protein	19q13.2	protein_coding	36 / 986 (3.65%)	827 / 10,188	44		
+ALMS1	Alstrom syndrome 1	2p13.1	protein_coding	36 / 986 (3.65%)	628 / 10,188	47		
+PTPRD	protein tyrosine phosphatase, receptor type, D	9p24.1, 9p23	protein_coding	36 / 986 (3.65%)	689 / 10,188	38		
+HERC2	HECT and RLD domain containing E3 ubiquitin protein ligase 2	15q13.1	protein_coding	36 / 986 (3.65%)	784 / 10,188	44		
+TBX3	T-box 3	12q24.21	protein_coding	36 / 986 (3.65%)	261 / 10,188	40	Cancer Gene Census	
+MED12	mediator complex subunit 12	Xq13.1	protein_coding	36 / 986 (3.65%)	471 / 10,188	37	Cancer Gene Census	
+DNM1P47	DNM1 pseudogene 47	15q26.3	transcribed_unprocessed_pseudogene	36 / 986 (3.65%)	424 / 10,188	38		
+SRCAP	Snf2-related CREBBP activator protein	16p11.2	protein_coding	36 / 986 (3.65%)	574 / 10,188	40		
+ASH1L	ash1 (absent, small, or homeotic)-like (Drosophila)	1q22	protein_coding	36 / 986 (3.65%)	583 / 10,188	45		
+COL6A5	collagen, type VI, alpha 5	3q22.1	protein_coding	35 / 986 (3.55%)	413 / 10,188	41		
+CDH23	cadherin-related 23	10q22.1	protein_coding	35 / 986 (3.55%)	639 / 10,188	36		
+CACNA1C	calcium channel, voltage-dependent, L type, alpha 1C subunit	12p13.33	protein_coding	35 / 986 (3.55%)	697 / 10,188	36		
+MYCBP2	MYC binding protein 2, E3 ubiquitin protein ligase	13q22.3	protein_coding	35 / 986 (3.55%)	618 / 10,188	43		
+UTRN	utrophin	6q24.2	protein_coding	35 / 986 (3.55%)	549 / 10,188	39		
+ANK3	ankyrin 3, node of Ranvier (ankyrin G)	10q21.2	protein_coding	35 / 986 (3.55%)	815 / 10,188	54		
+FBN1	fibrillin 1	15q21.1	protein_coding	35 / 986 (3.55%)	552 / 10,188	40		
+KIAA1109	KIAA1109	4q27	protein_coding	35 / 986 (3.55%)	708 / 10,188	41		
+DNAH10	dynein, axonemal, heavy chain 10	12q24.31	protein_coding	35 / 986 (3.55%)	775 / 10,188	47		
+FOXA1	forkhead box A1	14q21.1	protein_coding	34 / 986 (3.45%)	201 / 10,188	34	Cancer Gene Census	
+ERBB2	erb-b2 receptor tyrosine kinase 2	17q12	protein_coding	34 / 986 (3.45%)	353 / 10,188	30	Cancer Gene Census	
+PTPRB	protein tyrosine phosphatase, receptor type, B	12q15	protein_coding	34 / 986 (3.45%)	599 / 10,188	35	Cancer Gene Census	
+TG	thyroglobulin	8q24.22	protein_coding	34 / 986 (3.45%)	721 / 10,188	37		
+DNAH6	dynein, axonemal, heavy chain 6	2p11.2	protein_coding	34 / 986 (3.45%)	358 / 10,188	45		
+DYNC2H1	dynein, cytoplasmic 2, heavy chain 1	11q22.3	protein_coding	34 / 986 (3.45%)	556 / 10,188	41		
+UBR4	ubiquitin protein ligase E3 component n-recognin 4	1p36.13	protein_coding	34 / 986 (3.45%)	705 / 10,188	44		
+USP9X	ubiquitin specific peptidase 9, X-linked	Xp11.4	protein_coding	33 / 986 (3.35%)	431 / 10,188	34		
+ATM	ATM serine/threonine kinase	11q22.3	protein_coding	33 / 986 (3.35%)	602 / 10,188	35	Cancer Gene Census	
+SSPO	SCO-spondin	7q36.1	protein_coding	33 / 986 (3.35%)	787 / 10,188	36		
+COL6A3	collagen, type VI, alpha 3	2q37.3	protein_coding	33 / 986 (3.35%)	833 / 10,188	35		
+EYS	eyes shut homolog (Drosophila)	6q12	protein_coding	33 / 986 (3.35%)	669 / 10,188	37		
+F5	coagulation factor V (proaccelerin, labile factor)	1q24.2	protein_coding	33 / 986 (3.35%)	479 / 10,188	42		
+KIAA2022	KIAA2022	Xq13.3	protein_coding	33 / 986 (3.35%)	562 / 10,188	34		
+MYLK	myosin light chain kinase	3q21.1	protein_coding	33 / 986 (3.35%)	492 / 10,188	36		
+TEX15	testis expressed 15	8p12	protein_coding	33 / 986 (3.35%)	528 / 10,188	44		
+TPR	translocated promoter region, nuclear basket protein	1q31.1	protein_coding	33 / 986 (3.35%)	441 / 10,188	36	Cancer Gene Census	
+COL12A1	collagen, type XII, alpha 1	6q13, 6q14.1	protein_coding	33 / 986 (3.35%)	660 / 10,188	38		
+ZAN	zonadhesin (gene/pseudogene)	7q22.1	protein_coding	33 / 986 (3.35%)	657 / 10,188	34		
+DYNC1H1	dynein, cytoplasmic 1, heavy chain 1	14q32.31	protein_coding	33 / 986 (3.35%)	609 / 10,188	36		
+IGHG1	immunoglobulin heavy constant gamma 1 (G1m marker)	14q32.33	IG_C_gene	33 / 986 (3.35%)	693 / 10,188	38		
+KMT2A	lysine (K)-specific methyltransferase 2A	11q23.3	protein_coding	33 / 986 (3.35%)	585 / 10,188	36	Cancer Gene Census	
+PKHD1	polycystic kidney and hepatic disease 1 (autosomal recessive)	6p12.3, 6p12.2	protein_coding	33 / 986 (3.35%)	858 / 10,188	37		
+ADGRG4	adhesion G protein-coupled receptor G4	Xq26.3	protein_coding	32 / 986 (3.25%)	732 / 10,188	38		
+F8	coagulation factor VIII, procoagulant component	Xq28	protein_coding	32 / 986 (3.25%)	530 / 10,188	34		
+MAP1A	microtubule-associated protein 1A	15q15.3	protein_coding	32 / 986 (3.25%)	448 / 10,188	37		
+HRNR	hornerin	1q21.3	protein_coding	32 / 986 (3.25%)	735 / 10,188	34		
+AKT1	v-akt murine thymoma viral oncogene homolog 1	14q32.33	protein_coding	32 / 986 (3.25%)	151 / 10,188	8	Cancer Gene Census	
+FRAS1	Fraser extracellular matrix complex subunit 1	4q21.21	protein_coding	32 / 986 (3.25%)	693 / 10,188	37		
+QSER1	glutamine and serine rich 1	11p13	protein_coding	32 / 986 (3.25%)	297 / 10,188	39		
+VPS13C	vacuolar protein sorting 13 homolog C (S. cerevisiae)	15q22.2	protein_coding	32 / 986 (3.25%)	505 / 10,188	37		
+TMEM132D	transmembrane protein 132D	12q24.33	protein_coding	32 / 986 (3.25%)	622 / 10,188	36		
+HERC1	HECT and RLD domain containing E3 ubiquitin protein ligase family member 1	15q22.31	protein_coding	32 / 986 (3.25%)	543 / 10,188	43		
+CEP350	centrosomal protein 350kDa	1q25.2	protein_coding	32 / 986 (3.25%)	437 / 10,188	39		
+WDFY3	WD repeat and FYVE domain containing 3	4q21.23	protein_coding	32 / 986 (3.25%)	627 / 10,188	35		
+CENPE	centromere protein E, 312kDa	4q24	protein_coding	32 / 986 (3.25%)	407 / 10,188	37		
+REXO1L1P	REX1, RNA exonuclease 1 homolog (S. cerevisiae)-like 1, pseudogene	8q21.2	transcribed_processed_pseudogene	32 / 986 (3.25%)	227 / 10,188	30		
+CHD7	chromodomain helicase DNA binding protein 7	8q12.2	protein_coding	32 / 986 (3.25%)	571 / 10,188	32		
+TSHZ3	teashirt zinc finger homeobox 3	19q12	protein_coding	32 / 986 (3.25%)	575 / 10,188	33		
+ATRX	alpha thalassemia/mental retardation syndrome X-linked	Xq21.1	protein_coding	31 / 986 (3.14%)	731 / 10,188	51	Cancer Gene Census	
+MGAM	maltase-glucoamylase (alpha-glucosidase)	7q34	protein_coding	31 / 986 (3.14%)	703 / 10,188	34		
+AHCTF1	AT hook containing transcription factor 1	1q44	protein_coding	31 / 986 (3.14%)	377 / 10,188	38		
+CHD4	chromodomain helicase DNA binding protein 4	12p13.31	protein_coding	31 / 986 (3.14%)	483 / 10,188	36	Cancer Gene Census	
+UBR5	ubiquitin protein ligase E3 component n-recognin 5	8q22.3	protein_coding	31 / 986 (3.14%)	481 / 10,188	35	Cancer Gene Census	
+DNAH7	dynein, axonemal, heavy chain 7	2q32.3	protein_coding	31 / 986 (3.14%)	886 / 10,188	36		
+UNC13C	unc-13 homolog C (C. elegans)	15q21.3	protein_coding	31 / 986 (3.14%)	713 / 10,188	38		
+PKD1L1	polycystic kidney disease 1 like 1	7p12.3	protein_coding	31 / 986 (3.14%)	563 / 10,188	36		
+CACNA1A	calcium channel, voltage-dependent, P/Q type, alpha 1A subunit	19p13.13	protein_coding	31 / 986 (3.14%)	525 / 10,188	32		
+PREX2	phosphatidylinositol-3,4,5-trisphosphate-dependent Rac exchange factor 2	8q13.2	protein_coding	30 / 986 (3.04%)	593 / 10,188	34		
+LCT	lactase	2q21.3	protein_coding	30 / 986 (3.04%)	561 / 10,188	32		
+CMYA5	cardiomyopathy associated 5	5q14.1	protein_coding	30 / 986 (3.04%)	648 / 10,188	45		
+MYO10	myosin X	5p15.1	protein_coding	30 / 986 (3.04%)	401 / 10,188	32		
+ZNF292	zinc finger protein 292	6q14.3	protein_coding	30 / 986 (3.04%)	442 / 10,188	37		
+COL14A1	collagen, type XIV, alpha 1	8q24.12	protein_coding	30 / 986 (3.04%)	510 / 10,188	40		
+SDK1	sidekick cell adhesion molecule 1	7p22.2	protein_coding	30 / 986 (3.04%)	681 / 10,188	34		
+ITPR3	inositol 1,4,5-trisphosphate receptor, type 3	6p21.31	protein_coding	30 / 986 (3.04%)	464 / 10,188	34		
+FLNC	filamin C, gamma	7q32.1	protein_coding	30 / 986 (3.04%)	656 / 10,188	30		
+FRMPD4	FERM and PDZ domain containing 4	Xp22.2	protein_coding	30 / 986 (3.04%)	433 / 10,188	32		
+DNAH2	dynein, axonemal, heavy chain 2	17p13.1	protein_coding	30 / 986 (3.04%)	721 / 10,188	38		
+ARID1B	AT rich interactive domain 1B (SWI1-like)	6q25.3	protein_coding	30 / 986 (3.04%)	471 / 10,188	30	Cancer Gene Census	
+DNAH1	dynein, axonemal, heavy chain 1	3p21.1	protein_coding	30 / 986 (3.04%)	569 / 10,188	34		
+FLG2	filaggrin family member 2	1q21.3	protein_coding	30 / 986 (3.04%)	669 / 10,188	36		
+ASTN1	astrotactin 1	1q25.2	protein_coding	30 / 986 (3.04%)	602 / 10,188	32		
+FREM1	FRAS1 related extracellular matrix 1	9p22.3	protein_coding	30 / 986 (3.04%)	511 / 10,188	31		
+PDZD2	PDZ domain containing 2	5p13.3	protein_coding	30 / 986 (3.04%)	609 / 10,188	34		
+MYO18B	myosin XVIIIB	22q12.1	protein_coding	30 / 986 (3.04%)	674 / 10,188	31		
+WDFY4	WDFY family member 4	10q11.23	protein_coding	29 / 986 (2.94%)	316 / 10,188	34		
+SMG1	SMG1 phosphatidylinositol 3-kinase-related kinase	16p12.3	protein_coding	29 / 986 (2.94%)	446 / 10,188	35		
+RIMS2	regulating synaptic membrane exocytosis 2	8q22.3	protein_coding	29 / 986 (2.94%)	735 / 10,188	32		
+CNTNAP5	contactin associated protein-like 5	2q14.3	protein_coding	29 / 986 (2.94%)	711 / 10,188	32		
+VPS13D	vacuolar protein sorting 13 homolog D (S. cerevisiae)	1p36.22, 1p36.21	protein_coding	29 / 986 (2.94%)	610 / 10,188	36		
+ZNF536	zinc finger protein 536	19q12	protein_coding	29 / 986 (2.94%)	824 / 10,188	31		
+MTOR	mechanistic target of rapamycin (serine/threonine kinase)	1p36.22	protein_coding	29 / 986 (2.94%)	441 / 10,188	30	Cancer Gene Census	
+AFF2	AF4/FMR2 family, member 2	Xq28	protein_coding	29 / 986 (2.94%)	544 / 10,188	32		
+OPRM1	opioid receptor, mu 1	6q25.2	protein_coding	29 / 986 (2.94%)	286 / 10,188	19		
+SHANK2	SH3 and multiple ankyrin repeat domains 2	11q13.3, 11q13.4	protein_coding	29 / 986 (2.94%)	463 / 10,188	44		
+PLXNA4	plexin A4	7q32.3	protein_coding	29 / 986 (2.94%)	709 / 10,188	33		
+SCN2A	sodium channel, voltage gated, type II alpha subunit	2q24.3	protein_coding	29 / 986 (2.94%)	581 / 10,188	35		
+MYO15A	myosin XVA	17p11.2	protein_coding	29 / 986 (2.94%)	593 / 10,188	28		
+SETD2	SET domain containing 2	3p21.31	protein_coding	29 / 986 (2.94%)	485 / 10,188	34	Cancer Gene Census	
+BRWD1	bromodomain and WD repeat domain containing 1	21q22.2	protein_coding	29 / 986 (2.94%)	374 / 10,188	31		
+PCNT	pericentrin	21q22.3	protein_coding	29 / 986 (2.94%)	507 / 10,188	33		
+CR1	complement component (3b/4b) receptor 1 (Knops blood group)	1q32.2	protein_coding	29 / 986 (2.94%)	469 / 10,188	33		
+NOTCH2	notch 2	1p12	protein_coding	29 / 986 (2.94%)	395 / 10,188	31	Cancer Gene Census	
+CACNA1F	calcium channel, voltage-dependent, L type, alpha 1F subunit	Xp11.23	protein_coding	29 / 986 (2.94%)	385 / 10,188	30		
+SCN10A	sodium channel, voltage gated, type X alpha subunit	3p22.2	protein_coding	29 / 986 (2.94%)	610 / 10,188	35		
+TCHH	trichohyalin	1q21.3	protein_coding	29 / 986 (2.94%)	458 / 10,188	34		
+PXDNL	peroxidasin-like	8q11.22, 8q11.23	protein_coding	29 / 986 (2.94%)	655 / 10,188	33		
+FREM2	FRAS1 related extracellular matrix protein 2	13q13.3	protein_coding	28 / 986 (2.84%)	630 / 10,188	31		
+PCDH15	protocadherin-related 15	10q21.1	protein_coding	28 / 986 (2.84%)	1,001 / 10,188	31		
+BRCA1	breast cancer 1, early onset	17q21.31	protein_coding	28 / 986 (2.84%)	329 / 10,188	28	Cancer Gene Census	
+HECW1	HECT, C2 and WW domain containing E3 ubiquitin protein ligase 1	7p14.1, 7p13	protein_coding	28 / 986 (2.84%)	615 / 10,188	30		
+ANK1	ankyrin 1, erythrocytic	8p11.21	protein_coding	28 / 986 (2.84%)	607 / 10,188	28		
+KIF4A	kinesin family member 4A	Xq13.1	protein_coding	28 / 986 (2.84%)	248 / 10,188	28		
+MROH2B	maestro heat-like repeat family member 2B	5p13.1	protein_coding	28 / 986 (2.84%)	632 / 10,188	33		
+THSD7B	thrombospondin, type I, domain containing 7B	2q22.1	protein_coding	28 / 986 (2.84%)	676 / 10,188	29		
+ABCA8	ATP-binding cassette, sub-family A (ABC1), member 8	17q24.2	protein_coding	28 / 986 (2.84%)	401 / 10,188	33		
+DNHD1	dynein heavy chain domain 1	11p15.4	protein_coding	28 / 986 (2.84%)	417 / 10,188	32		
+HSPG2	heparan sulfate proteoglycan 2	1p36.12	protein_coding	28 / 986 (2.84%)	594 / 10,188	29		
+CACNA1B	calcium channel, voltage-dependent, N type, alpha 1B subunit	9q34.3	protein_coding	28 / 986 (2.84%)	522 / 10,188	28		
+SPHKAP	SPHK1 interactor, AKAP domain containing	2q36.3	protein_coding	28 / 986 (2.84%)	703 / 10,188	32		
+PAPPA2	pappalysin 2	1q25.2	protein_coding	28 / 986 (2.84%)	815 / 10,188	33		
+RP1	retinitis pigmentosa 1 (autosomal dominant)	8q11.23, 8q12.1	protein_coding	28 / 986 (2.84%)	736 / 10,188	30		
+NIPBL	Nipped-B homolog (Drosophila)	5p13.2	protein_coding	28 / 986 (2.84%)	527 / 10,188	32		
+ZDBF2	zinc finger, DBF-type containing 2	2q33.3	protein_coding	28 / 986 (2.84%)	537 / 10,188	36		
+DOCK11	dedicator of cytokinesis 11	Xq24	protein_coding	28 / 986 (2.84%)	395 / 10,188	32		
+DNAH12	dynein, axonemal, heavy chain 12	3p14.3	protein_coding	28 / 986 (2.84%)	253 / 10,188	31		
+GRIN2A	glutamate receptor, ionotropic, N-methyl D-aspartate 2A	16p13.2	protein_coding	28 / 986 (2.84%)	679 / 10,188	29	Cancer Gene Census	
+PLXNA2	plexin A2	1q32.2	protein_coding	28 / 986 (2.84%)	416 / 10,188	30		
+TLN1	talin 1	9p13.3	protein_coding	28 / 986 (2.84%)	374 / 10,188	31		
+FLNB	filamin B, beta	3p14.3	protein_coding	28 / 986 (2.84%)	471 / 10,188	29		
+BOD1L1	biorientation of chromosomes in cell division 1-like 1	4p15.33	protein_coding	28 / 986 (2.84%)	462 / 10,188	32		
+LRRC7	leucine rich repeat containing 7	1p31.1	protein_coding	28 / 986 (2.84%)	692 / 10,188	32		
+ADAMTSL3	ADAMTS-like 3	15q25.2	protein_coding	28 / 986 (2.84%)	454 / 10,188	31		
+KIF26B	kinesin family member 26B	1q44	protein_coding	28 / 986 (2.84%)	463 / 10,188	31		
+ASXL3	additional sex combs like transcriptional regulator 3	18q12.1	protein_coding	28 / 986 (2.84%)	629 / 10,188	28		
+C5orf42	chromosome 5 open reading frame 42	5p13.2	protein_coding	27 / 986 (2.74%)	425 / 10,188	35		
+HIVEP2	human immunodeficiency virus type I enhancer binding protein 2	6q24.2	protein_coding	27 / 986 (2.74%)	446 / 10,188	29		
+COL22A1	collagen, type XXII, alpha 1	8q24.23, 8q24.3	protein_coding	27 / 986 (2.74%)	695 / 10,188	30		
+RUNX1T1	runt-related transcription factor 1; translocated to, 1 (cyclin D-related)	8q21.3	protein_coding	27 / 986 (2.74%)	514 / 10,188	29	Cancer Gene Census	
+FAT4	FAT atypical cadherin 4	4q28.1	protein_coding	27 / 986 (2.74%)	1,166 / 10,188	32	Cancer Gene Census	
+CFH	complement factor H	1q31.3	protein_coding	27 / 986 (2.74%)	460 / 10,188	27		
+CBFB	core-binding factor, beta subunit	16q22.1	protein_coding	27 / 986 (2.74%)	95 / 10,188	27	Cancer Gene Census	
+TAF1L	TAF1 RNA polymerase II, TATA box binding protein (TBP)-associated factor, 210kDa-like	9p21.1	protein_coding	27 / 986 (2.74%)	622 / 10,188	31		
+ERBB3	erb-b2 receptor tyrosine kinase 3	12q13.2	protein_coding	27 / 986 (2.74%)	396 / 10,188	26	Cancer Gene Census	
+PCNXL2	pecanex-like 2 (Drosophila)	1q42.2	protein_coding	27 / 986 (2.74%)	476 / 10,188	29		
+LRBA	LPS-responsive vesicle trafficking, beach and anchor containing	4q31.3	protein_coding	27 / 986 (2.74%)	444 / 10,188	29		
+MEGF8	multiple EGF-like-domains 8	19q13.2	protein_coding	27 / 986 (2.74%)	454 / 10,188	29		
+TET1	tet methylcytosine dioxygenase 1	10q21.3	protein_coding	27 / 986 (2.74%)	453 / 10,188	34	Cancer Gene Census	
+RB1	retinoblastoma 1	13q14.2	protein_coding	27 / 986 (2.74%)	485 / 10,188	30	Cancer Gene Census	
+FLNA	filamin A, alpha	Xq28	protein_coding	27 / 986 (2.74%)	500 / 10,188	33		
+NAV3	neuron navigator 3	12q21.2	protein_coding	27 / 986 (2.74%)	819 / 10,188	30		
+FN1	fibronectin 1	2q35	protein_coding	27 / 986 (2.74%)	529 / 10,188	33		
+DSCAM	Down syndrome cell adhesion molecule	21q22.2	protein_coding	27 / 986 (2.74%)	750 / 10,188	28		
+COL6A6	collagen, type VI, alpha 6	3q22.1	protein_coding	26 / 986 (2.64%)	601 / 10,188	26		
+COL4A5	collagen, type IV, alpha 5	Xq22.3	protein_coding	26 / 986 (2.64%)	473 / 10,188	29		
+HECTD4	HECT domain containing E3 ubiquitin protein ligase 4	12q24.13	protein_coding	26 / 986 (2.64%)	600 / 10,188	31		
+LRRK2	leucine-rich repeat kinase 2	12q12	protein_coding	26 / 986 (2.64%)	666 / 10,188	28		
+TENM4	teneurin transmembrane protein 4	11q14.1	protein_coding	26 / 986 (2.64%)	591 / 10,188	28		
+PEG3	paternally expressed 3	19q13.43	protein_coding	26 / 986 (2.64%)	702 / 10,188	28		
+HIVEP1	human immunodeficiency virus type I enhancer binding protein 1	6p24.1	protein_coding	26 / 986 (2.64%)	437 / 10,188	32		
+FAT2	FAT atypical cadherin 2	5q33.1	protein_coding	26 / 986 (2.64%)	729 / 10,188	34		
+MAP2	microtubule-associated protein 2	2q34	protein_coding	26 / 986 (2.64%)	535 / 10,188	28		
+SF3B1	splicing factor 3b, subunit 1, 155kDa	2q33.1	protein_coding	26 / 986 (2.64%)	314 / 10,188	18	Cancer Gene Census	
+MLLT4	myeloid/lymphoid or mixed-lineage leukemia (trithorax homolog, Drosophila); translocated to, 4	6q27	protein_coding	26 / 986 (2.64%)	411 / 10,188	31	Cancer Gene Census	
+FBN3	fibrillin 3	19p13.2	protein_coding	26 / 986 (2.64%)	609 / 10,188	28		
+CFAP47	cilia and flagella associated protein 47	Xp21.1	protein_coding	26 / 986 (2.64%)	537 / 10,188	30		
+THSD7A	thrombospondin, type I, domain containing 7A	7p21.3	protein_coding	26 / 986 (2.64%)	513 / 10,188	30		
+CRB1	crumbs family member 1, photoreceptor morphogenesis associated	1q31.3	protein_coding	26 / 986 (2.64%)	625 / 10,188	27		
+NCOA6	nuclear receptor coactivator 6	20q11.22	protein_coding	26 / 986 (2.64%)	361 / 10,188	27		
+ATR	ATR serine/threonine kinase	3q23	protein_coding	26 / 986 (2.64%)	471 / 10,188	31	Cancer Gene Census	
+ITPR2	inositol 1,4,5-trisphosphate receptor, type 2	12p11.23	protein_coding	26 / 986 (2.64%)	486 / 10,188	27		
+MGA	MGA, MAX dimerization protein	15q15.1	protein_coding	26 / 986 (2.64%)	532 / 10,188	31		
+UNC5D	unc-5 homolog D (C. elegans)	8p12	protein_coding	26 / 986 (2.64%)	470 / 10,188	28		
+CHD8	chromodomain helicase DNA binding protein 8	14q11.2	protein_coding	26 / 986 (2.64%)	417 / 10,188	29		
+ATP10B	ATPase, class V, type 10B	5q34	protein_coding	26 / 986 (2.64%)	430 / 10,188	28		
+CDC42BPA	CDC42 binding protein kinase alpha (DMPK-like)	1q42.13	protein_coding	26 / 986 (2.64%)	327 / 10,188	26		
+FAM230B	family with sequence similarity 230, member B (non-protein coding)	22q11.21	processed_transcript	26 / 986 (2.64%)	163 / 10,188	20		
+TENM2	teneurin transmembrane protein 2	5q34	protein_coding	26 / 986 (2.64%)	601 / 10,188	27		
+HTT	huntingtin	4p16.3	protein_coding	25 / 986 (2.54%)	471 / 10,188	27		
+AMER1	APC membrane recruitment protein 1	Xq11.2	protein_coding	25 / 986 (2.54%)	433 / 10,188	25	Cancer Gene Census	
+TRIO	trio Rho guanine nucleotide exchange factor	5p15.2	protein_coding	25 / 986 (2.54%)	532 / 10,188	30		
+ARFGEF1	ADP-ribosylation factor guanine nucleotide-exchange factor 1 (brefeldin A-inhibited)	8q13.2	protein_coding	25 / 986 (2.54%)	373 / 10,188	31		
+FER1L6	fer-1-like family member 6	8q24.13	protein_coding	25 / 986 (2.54%)	568 / 10,188	28		
+BAZ2B	bromodomain adjacent to zinc finger domain, 2B	2q24.2	protein_coding	25 / 986 (2.54%)	411 / 10,188	31		
+LAMA2	laminin, alpha 2	6q22.33	protein_coding	25 / 986 (2.54%)	691 / 10,188	28		
+OTOGL	otogelin-like	12q21.31	protein_coding	25 / 986 (2.54%)	504 / 10,188	29		
+DMXL2	Dmx-like 2	15q21.2	protein_coding	25 / 986 (2.54%)	471 / 10,188	32		
+AK9	adenylate kinase 9	6q21	protein_coding	25 / 986 (2.54%)	315 / 10,188	30		
+ZNF462	zinc finger protein 462	9q31.2	protein_coding	25 / 986 (2.54%)	448 / 10,188	28		
+LOXHD1	lipoxygenase homology domains 1	18q21.1	protein_coding	25 / 986 (2.54%)	227 / 10,188	25		
+FAM135B	family with sequence similarity 135, member B	8q24.23	protein_coding	25 / 986 (2.54%)	838 / 10,188	26		
+BRCA2	breast cancer 2, early onset	13q13.1	protein_coding	25 / 986 (2.54%)	511 / 10,188	29	Cancer Gene Census	
+STAG2	stromal antigen 2	Xq25	protein_coding	25 / 986 (2.54%)	362 / 10,188	30	Cancer Gene Census	
+ARHGEF11	Rho guanine nucleotide exchange factor (GEF) 11	1q23.1	protein_coding	25 / 986 (2.54%)	338 / 10,188	28		
+SCN8A	sodium channel, voltage gated, type VIII alpha subunit	12q13.13	protein_coding	25 / 986 (2.54%)	370 / 10,188	25		
+PCDH19	protocadherin 19	Xq22.1	protein_coding	25 / 986 (2.54%)	409 / 10,188	27		
+TRRAP	transformation/transcription domain-associated protein	7q22.1	protein_coding	25 / 986 (2.54%)	682 / 10,188	31	Cancer Gene Census	
+MYO5B	myosin VB	18q21.1	protein_coding	25 / 986 (2.54%)	356 / 10,188	25		
+BPTF	bromodomain PHD finger transcription factor	17q24.2	protein_coding	25 / 986 (2.54%)	406 / 10,188	25		
+ATP2B1	ATPase, Ca++ transporting, plasma membrane 1	12q21.33	protein_coding	25 / 986 (2.54%)	264 / 10,188	30		
+TDRD6	tudor domain containing 6	6p12.3	protein_coding	25 / 986 (2.54%)	407 / 10,188	30		
+POM121	POM121 transmembrane nucleoporin	7q11.23	protein_coding	25 / 986 (2.54%)	338 / 10,188	23		
+TAF1	TAF1 RNA polymerase II, TATA box binding protein (TBP)-associated factor, 250kDa	Xq13.1	protein_coding	25 / 986 (2.54%)	391 / 10,188	27		
+PDE4DIP	phosphodiesterase 4D interacting protein	1q21.2	protein_coding	25 / 986 (2.54%)	470 / 10,188	30	Cancer Gene Census	
+DCC	DCC netrin 1 receptor	18q21.2	protein_coding	25 / 986 (2.54%)	656 / 10,188	26		
+MYO7A	myosin VIIA	11q13.5	protein_coding	25 / 986 (2.54%)	400 / 10,188	26		
+MYH1	myosin, heavy chain 1, skeletal muscle, adult	17p13.1	protein_coding	25 / 986 (2.54%)	656 / 10,188	26		
+MYH8	myosin, heavy chain 8, skeletal muscle, perinatal	17p13.1	protein_coding	25 / 986 (2.54%)	621 / 10,188	26		
+KIAA1210	KIAA1210	Xq24	protein_coding	25 / 986 (2.54%)	399 / 10,188	29		
+GOLGB1	golgin B1	3q13.33	protein_coding	25 / 986 (2.54%)	456 / 10,188	33		
+MYH7	myosin, heavy chain 7, cardiac muscle, beta	14q11.2	protein_coding	25 / 986 (2.54%)	588 / 10,188	27		
+SCN4A	sodium channel, voltage gated, type IV alpha subunit	17q23.3	protein_coding	25 / 986 (2.54%)	445 / 10,188	31		
+CREBBP	CREB binding protein	16p13.3	protein_coding	25 / 986 (2.54%)	569 / 10,188	27	Cancer Gene Census	
+CNOT1	CCR4-NOT transcription complex, subunit 1	16q21	protein_coding	25 / 986 (2.54%)	438 / 10,188	32		
+JMJD1C	jumonji domain containing 1C	10q21.3	protein_coding	25 / 986 (2.54%)	400 / 10,188	34		
+MYO16	myosin XVI	13q33.3	protein_coding	25 / 986 (2.54%)	533 / 10,188	30		
+PLEC	plectin	8q24.3	protein_coding	24 / 986 (2.43%)	742 / 10,188	29		
+BSN	bassoon presynaptic cytomatrix protein	3p21.31	protein_coding	24 / 986 (2.43%)	574 / 10,188	29		
+MRC1	mannose receptor, C type 1	10p12.33	protein_coding	24 / 986 (2.43%)	493 / 10,188	25		
+BRWD3	bromodomain and WD repeat domain containing 3	Xq21.1	protein_coding	24 / 986 (2.43%)	423 / 10,188	26		
+SCN7A	sodium channel, voltage gated, type VII alpha subunit	2q24.3	protein_coding	24 / 986 (2.43%)	452 / 10,188	26		
+NBAS	neuroblastoma amplified sequence	2p24.3	protein_coding	24 / 986 (2.43%)	434 / 10,188	27		
+ABCA12	ATP-binding cassette, sub-family A (ABC1), member 12	2q35	protein_coding	24 / 986 (2.43%)	596 / 10,188	25		
+TNRC6B	trinucleotide repeat containing 6B	22q13.1	protein_coding	24 / 986 (2.43%)	402 / 10,188	25		
+MAGEA12	melanoma antigen family A12	Xq28	protein_coding	24 / 986 (2.43%)	276 / 10,188	24		
+YLPM1	YLP motif containing 1	14q24.3	protein_coding	24 / 986 (2.43%)	364 / 10,188	29		
+HEATR1	HEAT repeat containing 1	1q43	protein_coding	24 / 986 (2.43%)	359 / 10,188	28		
+SI	sucrase-isomaltase (alpha-glucosidase)	3q26.1	protein_coding	24 / 986 (2.43%)	747 / 10,188	25		
+DMXL1	Dmx-like 1	5q23.1	protein_coding	24 / 986 (2.43%)	427 / 10,188	29		
+TRPM3	transient receptor potential cation channel, subfamily M, member 3	9q21.12, 9q21.13	protein_coding	24 / 986 (2.43%)	486 / 10,188	26		
+NAV2	neuron navigator 2	11p15.1	protein_coding	24 / 986 (2.43%)	503 / 10,188	25		
+TENM3	teneurin transmembrane protein 3	4q34.3, 4q35.1	protein_coding	24 / 986 (2.43%)	704 / 10,188	26		
+NBEAL1	neurobeachin-like 1	2q33.2	protein_coding	24 / 986 (2.43%)	323 / 10,188	29		
+MYH10	myosin, heavy chain 10, non-muscle	17p13.1	protein_coding	24 / 986 (2.43%)	344 / 10,188	25		
+CIT	citron rho-interacting serine/threonine kinase	12q24.23	protein_coding	24 / 986 (2.43%)	426 / 10,188	25		
+KIF1B	kinesin family member 1B	1p36.22	protein_coding	24 / 986 (2.43%)	424 / 10,188	22		
+ANKRD11	ankyrin repeat domain 11	16q24.3	protein_coding	24 / 986 (2.43%)	480 / 10,188	29		
+MYH11	myosin, heavy chain 11, smooth muscle	16p13.11	protein_coding	24 / 986 (2.43%)	502 / 10,188	28	Cancer Gene Census	
+ANKRD12	ankyrin repeat domain 12	18p11.22	protein_coding	24 / 986 (2.43%)	363 / 10,188	25		
+RIMBP2	RIMS binding protein 2	12q24.33	protein_coding	24 / 986 (2.43%)	474 / 10,188	25		
+HDAC6	histone deacetylase 6	Xp11.23	protein_coding	24 / 986 (2.43%)	272 / 10,188	24		
+TACC2	transforming, acidic coiled-coil containing protein 2	10q26.13	protein_coding	24 / 986 (2.43%)	531 / 10,188	32		
+REV3L	REV3-like, polymerase (DNA directed), zeta, catalytic subunit	6q21	protein_coding	24 / 986 (2.43%)	427 / 10,188	29		
+SNRNP200	small nuclear ribonucleoprotein 200kDa (U5)	2q11.2	protein_coding	24 / 986 (2.43%)	387 / 10,188	25		
+CDH12	cadherin 12, type 2 (N-cadherin 2)	5p14.3	protein_coding	24 / 986 (2.43%)	542 / 10,188	23		
+MALAT1	metastasis associated lung adenocarcinoma transcript 1 (non-protein coding)	11q13.1	protein_coding	24 / 986 (2.43%)	493 / 10,188	29		
+MKI67	marker of proliferation Ki-67	10q26.2	protein_coding	24 / 986 (2.43%)	585 / 10,188	29		
+NUP188	nucleoporin 188kDa	9q34.11	protein_coding	24 / 986 (2.43%)	277 / 10,188	28		
+CPAMD8	C3 and PZP-like, alpha-2-macroglobulin domain containing 8	19p13.11	protein_coding	24 / 986 (2.43%)	487 / 10,188	26		
+VPS13A	vacuolar protein sorting 13 homolog A (S. cerevisiae)	9q21.2	protein_coding	24 / 986 (2.43%)	448 / 10,188	30		
+PHKA2	phosphorylase kinase, alpha 2 (liver)	Xp22.13	protein_coding	24 / 986 (2.43%)	304 / 10,188	26		
+PIWIL1	piwi-like RNA-mediated gene silencing 1	12q24.33	protein_coding	24 / 986 (2.43%)	333 / 10,188	23		
+KIF13A	kinesin family member 13A	6p22.3	protein_coding	24 / 986 (2.43%)	324 / 10,188	27		
+ADAMTSL1	ADAMTS-like 1	9p22.2, 9p22.1	protein_coding	24 / 986 (2.43%)	445 / 10,188	26		
+ARHGAP35	Rho GTPase activating protein 35	19q13.32	protein_coding	24 / 986 (2.43%)	399 / 10,188	26		
+DNAJC13	DnaJ (Hsp40) homolog, subfamily C, member 13	3q22.1	protein_coding	23 / 986 (2.33%)	335 / 10,188	26		
+SCN5A	sodium channel, voltage gated, type V alpha subunit	3p22.2	protein_coding	23 / 986 (2.33%)	598 / 10,188	25		
+CPS1	carbamoyl-phosphate synthase 1, mitochondrial	2q34	protein_coding	23 / 986 (2.33%)	468 / 10,188	26		
+PCDHA9	protocadherin alpha 9	5q31.3	protein_coding	23 / 986 (2.33%)	562 / 10,188	26		
+ERICH3	glutamate-rich 3	1p31.1	protein_coding	23 / 986 (2.33%)	693 / 10,188	27		
+DIDO1	death inducer-obliterator 1	20q13.33	protein_coding	23 / 986 (2.33%)	557 / 10,188	31		
+ST18	suppression of tumorigenicity 18, zinc finger	8q11.23	protein_coding	23 / 986 (2.33%)	463 / 10,188	23		
+IGSF10	immunoglobulin superfamily, member 10	3q25.1	protein_coding	23 / 986 (2.33%)	527 / 10,188	25		
+CTCF	CCCTC-binding factor (zinc finger protein)	16q22.1	protein_coding	23 / 986 (2.33%)	326 / 10,188	23	Cancer Gene Census	
+C2orf16	chromosome 2 open reading frame 16	2p23.3	protein_coding	23 / 986 (2.33%)	384 / 10,188	29		
+CENPF	centromere protein F, 350/400kDa	1q41	protein_coding	23 / 986 (2.33%)	520 / 10,188	26		
+NCKAP5	NCK-associated protein 5	2q21.2	protein_coding	23 / 986 (2.33%)	552 / 10,188	24		
+MIA3	melanoma inhibitory activity family, member 3	1q41	protein_coding	23 / 986 (2.33%)	326 / 10,188	26		
+SEMA3D	sema domain, immunoglobulin domain (Ig), short basic domain, secreted, (semaphorin) 3D	7q21.11	protein_coding	23 / 986 (2.33%)	319 / 10,188	24		
+CSPP1	centrosome and spindle pole associated protein 1	8q13.1, 8q13.2	protein_coding	23 / 986 (2.33%)	268 / 10,188	29		
+PCDHB6	protocadherin beta 6	5q31.3	protein_coding	23 / 986 (2.33%)	620 / 10,188	23		
+MYOM2	myomesin 2	8p23.3	protein_coding	23 / 986 (2.33%)	469 / 10,188	25		
+RBBP6	retinoblastoma binding protein 6	16p12.1	protein_coding	23 / 986 (2.33%)	343 / 10,188	24		
+TJP1	tight junction protein 1	15q13.1	protein_coding	23 / 986 (2.33%)	312 / 10,188	25		
+CASP8	caspase 8, apoptosis-related cysteine peptidase	2q33.1	protein_coding	23 / 986 (2.33%)	278 / 10,188	24	Cancer Gene Census	
+AC215219.2	AC215219.2		miRNA	23 / 986 (2.33%)	214 / 10,188	16		
+TNIK	TRAF2 and NCK interacting kinase	3q26.2, 3q26.31	protein_coding	23 / 986 (2.33%)	390 / 10,188	23		
+DOCK10	dedicator of cytokinesis 10	2q36.2	protein_coding	23 / 986 (2.33%)	429 / 10,188	26		
+LAMA3	laminin, alpha 3	18q11.2	protein_coding	23 / 986 (2.33%)	536 / 10,188	23		
+EHMT1	euchromatic histone-lysine N-methyltransferase 1	9q34.3	protein_coding	23 / 986 (2.33%)	316 / 10,188	24		
+ATP2B3	ATPase, Ca++ transporting, plasma membrane 3	Xq28	protein_coding	23 / 986 (2.33%)	384 / 10,188	24	Cancer Gene Census	
+MED13	mediator complex subunit 13	17q23.2	protein_coding	23 / 986 (2.33%)	392 / 10,188	29		
+ZFPM2	zinc finger protein, FOG family member 2	8q22.3, 8q23.1	protein_coding	23 / 986 (2.33%)	487 / 10,188	24		
+KIAA2018	KIAA2018	3q13.2	protein_coding	23 / 986 (2.33%)	376 / 10,188	24		
+SCN9A	sodium channel, voltage gated, type IX alpha subunit	2q24.3	protein_coding	23 / 986 (2.33%)	531 / 10,188	29		
+ANKRD30A	ankyrin repeat domain 30A	10p11.21	protein_coding	23 / 986 (2.33%)	602 / 10,188	24		
+COL5A1	collagen, type V, alpha 1	9q34.3	protein_coding	23 / 986 (2.33%)	601 / 10,188	24		
+NUP210L	nucleoporin 210kDa-like	1q21.3	protein_coding	23 / 986 (2.33%)	401 / 10,188	24		
+ZFHX3	zinc finger homeobox 3	16q22.2, 16q22.3	protein_coding	23 / 986 (2.33%)	694 / 10,188	29	Cancer Gene Census	
+ABCC9	ATP-binding cassette, sub-family C (CFTR/MRP), member 9	12p12.1	protein_coding	23 / 986 (2.33%)	474 / 10,188	24		
+PLCH1	phospholipase C, eta 1	3q25.31	protein_coding	23 / 986 (2.33%)	472 / 10,188	27		
+ANKRD36	ankyrin repeat domain 36	2q11.2	protein_coding	23 / 986 (2.33%)	253 / 10,188	30		
+KMT2E	lysine (K)-specific methyltransferase 2E	7q22.3	protein_coding	23 / 986 (2.33%)	351 / 10,188	23		
+MYH13	myosin, heavy chain 13, skeletal muscle	17p13.1	protein_coding	23 / 986 (2.33%)	570 / 10,188	23		
+FRY	furry homolog (Drosophila)	13q13.1	protein_coding	23 / 986 (2.33%)	555 / 10,188	24		
+WNK3	WNK lysine deficient protein kinase 3	Xp11.22	protein_coding	23 / 986 (2.33%)	366 / 10,188	31		
+CADPS	Ca++-dependent secretion activator	3p14.2	protein_coding	23 / 986 (2.33%)	401 / 10,188	24		
+TNC	tenascin C	9q33.1	protein_coding	23 / 986 (2.33%)	469 / 10,188	29		
+EP300	E1A binding protein p300	22q13.2	protein_coding	23 / 986 (2.33%)	500 / 10,188	23	Cancer Gene Census	
+COL7A1	collagen, type VII, alpha 1	3p21.31	protein_coding	23 / 986 (2.33%)	555 / 10,188	24		
+BACH2	BTB and CNC homology 1, basic leucine zipper transcription factor 2	6q15	protein_coding	23 / 986 (2.33%)	307 / 10,188	22		
+SVIL	supervillin	10p11.23	protein_coding	22 / 986 (2.23%)	478 / 10,188	23		
+ACACA	acetyl-CoA carboxylase alpha	17q12	protein_coding	22 / 986 (2.23%)	426 / 10,188	25		
+CNTN4	contactin 4	3p26.3, 3p26.2	protein_coding	22 / 986 (2.23%)	439 / 10,188	25		
+NEDD9	neural precursor cell expressed, developmentally down-regulated 9	6p24.2	protein_coding	22 / 986 (2.23%)	221 / 10,188	21		
+ICE1	interactor of little elongation complex ELL subunit 1	5p15.32	protein_coding	22 / 986 (2.23%)	413 / 10,188	26		
+GRIA3	glutamate receptor, ionotropic, AMPA 3	Xq25	protein_coding	22 / 986 (2.23%)	350 / 10,188	23		
+IGF2R	insulin-like growth factor 2 receptor	6q25.3	protein_coding	22 / 986 (2.23%)	453 / 10,188	23		
+MYH6	myosin, heavy chain 6, cardiac muscle, alpha	14q11.2	protein_coding	22 / 986 (2.23%)	547 / 10,188	23		
+SPEG	SPEG complex locus	2q35	protein_coding	22 / 986 (2.23%)	593 / 10,188	22		
+KIAA1549L	KIAA1549-like	11p13	protein_coding	22 / 986 (2.23%)	416 / 10,188	25		
+ZNF208	zinc finger protein 208	19p12	protein_coding	22 / 986 (2.23%)	534 / 10,188	25		
+RAPGEF6	Rap guanine nucleotide exchange factor (GEF) 6	5q31.1	protein_coding	22 / 986 (2.23%)	274 / 10,188	22		
+PIEZO2	piezo-type mechanosensitive ion channel component 2	18p11.22, 18p11.21	protein_coding	22 / 986 (2.23%)	321 / 10,188	23		
+OGT	O-linked N-acetylglucosamine (GlcNAc) transferase	Xq13.1	protein_coding	22 / 986 (2.23%)	264 / 10,188	26		
+ARHGAP31	Rho GTPase activating protein 31	3q13.32, 3q13.33	protein_coding	22 / 986 (2.23%)	354 / 10,188	22		
+CEP162	centrosomal protein 162kDa	6q14.2, 6q14.3	protein_coding	22 / 986 (2.23%)	250 / 10,188	24		
+DOCK4	dedicator of cytokinesis 4	7q31.1	protein_coding	22 / 986 (2.23%)	476 / 10,188	23		
+ROS1	ROS proto-oncogene 1 , receptor tyrosine kinase	6q22.1	protein_coding	22 / 986 (2.23%)	549 / 10,188	25	Cancer Gene Census	
+PLCB4	phospholipase C, beta 4	20p12.3, 20p12.2	protein_coding	22 / 986 (2.23%)	422 / 10,188	29		
+TNXB	tenascin XB	6p21.33, 6p21.32	protein_coding	22 / 986 (2.23%)	667 / 10,188	26		
+ARID4B	AT rich interactive domain 4B (RBP1-like)	1q42.3	protein_coding	22 / 986 (2.23%)	306 / 10,188	23		
+SPTB	spectrin, beta, erythrocytic	14q23.3	protein_coding	22 / 986 (2.23%)	469 / 10,188	22		
+SETX	senataxin	9q34.13	protein_coding	22 / 986 (2.23%)	394 / 10,188	30		
+TRPC5	transient receptor potential cation channel, subfamily C, member 5	Xq23	protein_coding	22 / 986 (2.23%)	341 / 10,188	23		
+FER1L5	fer-1-like family member 5	2q11.2	protein_coding	22 / 986 (2.23%)	243 / 10,188	23		
+HDLBP	high density lipoprotein binding protein	2q37.3	protein_coding	22 / 986 (2.23%)	311 / 10,188	23		
+EPHB1	EPH receptor B1	3q22.2	protein_coding	22 / 986 (2.23%)	454 / 10,188	23		
+RLF	rearranged L-myc fusion	1p34.2	protein_coding	22 / 986 (2.23%)	281 / 10,188	24		
+KALRN	kalirin, RhoGEF kinase	3q21.1, 3q21.2	protein_coding	22 / 986 (2.23%)	615 / 10,188	29		
+FAM47C	family with sequence similarity 47, member C	Xp21.1	protein_coding	22 / 986 (2.23%)	541 / 10,188	23		
+OR2L13	olfactory receptor, family 2, subfamily L, member 13	1q44	protein_coding	22 / 986 (2.23%)	425 / 10,188	23		
+MICAL2	microtubule associated monooxygenase, calponin and LIM domain containing 2	11p15.3	protein_coding	22 / 986 (2.23%)	290 / 10,188	24		
+MED12L	mediator complex subunit 12-like	3q25.1	protein_coding	22 / 986 (2.23%)	497 / 10,188	24		
+ANKRD17	ankyrin repeat domain 17	4q13.3	protein_coding	22 / 986 (2.23%)	375 / 10,188	26		
+XRN1	5'-3' exoribonuclease 1	3q23	protein_coding	22 / 986 (2.23%)	332 / 10,188	23		
+PLCE1	phospholipase C, epsilon 1	10q23.33	protein_coding	22 / 986 (2.23%)	495 / 10,188	24		
+AKAP13	A kinase (PRKA) anchor protein 13	15q25.3	protein_coding	22 / 986 (2.23%)	467 / 10,188	27		
+RAB3GAP2	RAB3 GTPase activating protein subunit 2 (non-catalytic)	1q41	protein_coding	22 / 986 (2.23%)	346 / 10,188	24		
+SLIT2	slit homolog 2 (Drosophila)	4p15.31	protein_coding	22 / 986 (2.23%)	541 / 10,188	24		
+SIPA1L1	signal-induced proliferation-associated 1 like 1	14q24.2	protein_coding	22 / 986 (2.23%)	415 / 10,188	22		
+TRPM6	transient receptor potential cation channel, subfamily M, member 6	9q21.13	protein_coding	22 / 986 (2.23%)	476 / 10,188	25		
+CDK5RAP2	CDK5 regulatory subunit associated protein 2	9q33.2	protein_coding	22 / 986 (2.23%)	305 / 10,188	22		
+KDM6A	lysine (K)-specific demethylase 6A	Xp11.3	protein_coding	22 / 986 (2.23%)	405 / 10,188	23	Cancer Gene Census	
+NALCN	sodium leak channel, non selective	13q32.3, 13q33.1	protein_coding	22 / 986 (2.23%)	657 / 10,188	25		
+SIPA1L2	signal-induced proliferation-associated 1 like 2	1q42.2	protein_coding	22 / 986 (2.23%)	438 / 10,188	26		
+DSP	desmoplakin	6p24.3	protein_coding	22 / 986 (2.23%)	562 / 10,188	28		
+LAMB1	laminin, beta 1	7q31.1	protein_coding	22 / 986 (2.23%)	397 / 10,188	23		
+TRPS1	trichorhinophalangeal syndrome I	8q23.3	protein_coding	22 / 986 (2.23%)	546 / 10,188	23		
+CHD9	chromodomain helicase DNA binding protein 9	16q12.2	protein_coding	22 / 986 (2.23%)	401 / 10,188	26		
+EGFR	epidermal growth factor receptor	7p11.2	protein_coding	22 / 986 (2.23%)	545 / 10,188	22	Cancer Gene Census	
+PTPRQ	protein tyrosine phosphatase, receptor type, Q	12q21.31	protein_coding	22 / 986 (2.23%)	181 / 10,188	28		
+KDM5B	lysine (K)-specific demethylase 5B	1q32.1	protein_coding	22 / 986 (2.23%)	316 / 10,188	27		
+VWF	von Willebrand factor	12p13.31	protein_coding	22 / 986 (2.23%)	575 / 10,188	20		
+NRXN3	neurexin 3	14q24.3, 14q31.1	protein_coding	22 / 986 (2.23%)	602 / 10,188	25		
+ALPK2	alpha-kinase 2	18q21.31, 18q21.32	protein_coding	22 / 986 (2.23%)	492 / 10,188	26		
+CFAP44	cilia and flagella associated protein 44	3q13.2	protein_coding	22 / 986 (2.23%)	251 / 10,188	26		
+AFF3	AF4/FMR2 family, member 3	2q11.2	protein_coding	22 / 986 (2.23%)	402 / 10,188	23	Cancer Gene Census	
+KAT6B	K(lysine) acetyltransferase 6B	10q22.2	protein_coding	22 / 986 (2.23%)	316 / 10,188	26	Cancer Gene Census	
+TRAPPC9	trafficking protein particle complex 9	8q24.3	protein_coding	22 / 986 (2.23%)	279 / 10,188	23		
+ATP7A	ATPase, Cu++ transporting, alpha polypeptide	Xq21.1	protein_coding	22 / 986 (2.23%)	322 / 10,188	24		
+DYSF	dysferlin	2p13.2	protein_coding	22 / 986 (2.23%)	612 / 10,188	26		
+MYH14	myosin, heavy chain 14, non-muscle	19q13.33	protein_coding	22 / 986 (2.23%)	369 / 10,188	22		
+SRRM2	serine/arginine repetitive matrix 2	16p13.3	protein_coding	22 / 986 (2.23%)	480 / 10,188	30		
+ITPR1	inositol 1,4,5-trisphosphate receptor, type 1	3p26.1	protein_coding	22 / 986 (2.23%)	447 / 10,188	25		
+RALGAPA2	Ral GTPase activating protein, alpha subunit 2 (catalytic)	20p11.23	protein_coding	21 / 986 (2.13%)	324 / 10,188	23		
+TET3	tet methylcytosine dioxygenase 3	2p13.1	protein_coding	21 / 986 (2.13%)	330 / 10,188	22		
+EML5	echinoderm microtubule associated protein like 5	14q31.3	protein_coding	21 / 986 (2.13%)	296 / 10,188	22		
+DSCAML1	Down syndrome cell adhesion molecule like 1	11q23.3	protein_coding	21 / 986 (2.13%)	566 / 10,188	22		
+NIN	ninein (GSK3B interacting protein)	14q22.1	protein_coding	21 / 986 (2.13%)	358 / 10,188	26	Cancer Gene Census	
+PPP1R3A	protein phosphatase 1, regulatory subunit 3A	7q31.1	protein_coding	21 / 986 (2.13%)	509 / 10,188	23		
+EPG5	ectopic P-granules autophagy protein 5 homolog (C. elegans)	18q12.3, 18q21.1	protein_coding	21 / 986 (2.13%)	407 / 10,188	24		
+NFASC	neurofascin	1q32.1	protein_coding	21 / 986 (2.13%)	499 / 10,188	23		
+ASXL2	additional sex combs like transcriptional regulator 2	2p23.3	protein_coding	21 / 986 (2.13%)	325 / 10,188	25		
+KIF5C	kinesin family member 5C	2q23.1, 2q23.2	protein_coding	21 / 986 (2.13%)	255 / 10,188	22		
+PLEKHH2	pleckstrin homology domain containing, family H (with MyTH4 domain) member 2	2p21	protein_coding	21 / 986 (2.13%)	337 / 10,188	22		
+CTNNA2	catenin (cadherin-associated protein), alpha 2	2p12	protein_coding	21 / 986 (2.13%)	562 / 10,188	21		
+DIP2A	DIP2 disco-interacting protein 2 homolog A (Drosophila)	21q22.3	protein_coding	21 / 986 (2.13%)	337 / 10,188	22		
+GRIK1	glutamate receptor, ionotropic, kainate 1	21q21.3	protein_coding	21 / 986 (2.13%)	324 / 10,188	22		
+MADD	MAP-kinase activating death domain	11p11.2	protein_coding	21 / 986 (2.13%)	315 / 10,188	22		
+MRC2	mannose receptor, C type 2	17q23.2	protein_coding	21 / 986 (2.13%)	311 / 10,188	22		
+CEP250	centrosomal protein 250kDa	20q11.22	protein_coding	21 / 986 (2.13%)	349 / 10,188	22		
+CFTR	cystic fibrosis transmembrane conductance regulator (ATP-binding cassette sub-family C, member 7)	7q31.2, 7q31.31	protein_coding	21 / 986 (2.13%)	360 / 10,188	24		
+PHF20L1	PHD finger protein 20-like 1	8q24.22	protein_coding	21 / 986 (2.13%)	289 / 10,188	22		
+PTPRF	protein tyrosine phosphatase, receptor type, F	1p34.2	protein_coding	21 / 986 (2.13%)	389 / 10,188	23		
+COL4A4	collagen, type IV, alpha 4	2q36.3	protein_coding	21 / 986 (2.13%)	491 / 10,188	22		
+CCNB3	cyclin B3	Xp11.22	protein_coding	21 / 986 (2.13%)	355 / 10,188	25		
+CEP170	centrosomal protein 170kDa	1q43	protein_coding	21 / 986 (2.13%)	329 / 10,188	21		
+HELZ	helicase with zinc finger	17q24.2	protein_coding	21 / 986 (2.13%)	335 / 10,188	26		
+PAPPA	pregnancy-associated plasma protein A, pappalysin 1	9q33.1	protein_coding	21 / 986 (2.13%)	472 / 10,188	22		
+ARID2	AT rich interactive domain 2 (ARID, RFX-like)	12q12	protein_coding	21 / 986 (2.13%)	492 / 10,188	24	Cancer Gene Census	
+PCDH11X	protocadherin 11 X-linked	Xq21.31	protein_coding	21 / 986 (2.13%)	704 / 10,188	21		
+FAM186A	family with sequence similarity 186, member A	12q13.12	protein_coding	21 / 986 (2.13%)	155 / 10,188	27		
+AKAP6	A kinase (PRKA) anchor protein 6	14q12	protein_coding	21 / 986 (2.13%)	515 / 10,188	25		
+HECW2	HECT, C2 and WW domain containing E3 ubiquitin protein ligase 2	2q32.3	protein_coding	21 / 986 (2.13%)	436 / 10,188	24		
+SON	SON DNA binding protein	21q22.11	protein_coding	21 / 986 (2.13%)	364 / 10,188	26		
+TRPM2	transient receptor potential cation channel, subfamily M, member 2	21q22.3	protein_coding	21 / 986 (2.13%)	419 / 10,188	22		
+IQGAP3	IQ motif containing GTPase activating protein 3	1q22	protein_coding	21 / 986 (2.13%)	307 / 10,188	22		
+CNTNAP2	contactin associated protein-like 2	7q35, 7q36.1	protein_coding	21 / 986 (2.13%)	704 / 10,188	22		
+SCN1A	sodium channel, voltage gated, type I alpha subunit	2q24.3	protein_coding	21 / 986 (2.13%)	629 / 10,188	23		
+KIAA0232	KIAA0232	4p16.1	protein_coding	21 / 986 (2.13%)	249 / 10,188	25		
+NBEA	neurobeachin	13q13.3	protein_coding	21 / 986 (2.13%)	603 / 10,188	26		
+WNK1	WNK lysine deficient protein kinase 1	12p13.33	protein_coding	21 / 986 (2.13%)	407 / 10,188	24		
+ADGRB3	adhesion G protein-coupled receptor B3	6q12, 6q13	protein_coding	21 / 986 (2.13%)	649 / 10,188	24		
+NAV1	neuron navigator 1	1q32.1	protein_coding	21 / 986 (2.13%)	350 / 10,188	22		
+KCNT2	potassium channel, sodium activated subfamily T, member 2	1q31.3	protein_coding	21 / 986 (2.13%)	478 / 10,188	23		
+SPTBN2	spectrin, beta, non-erythrocytic 2	11q13.2	protein_coding	21 / 986 (2.13%)	383 / 10,188	21		
+UMODL1	uromodulin-like 1	21q22.3	protein_coding	21 / 986 (2.13%)	323 / 10,188	25		
+SCN3A	sodium channel, voltage gated, type III alpha subunit	2q24.3	protein_coding	21 / 986 (2.13%)	560 / 10,188	22		
+WDR87	WD repeat domain 87	19q13.13	protein_coding	21 / 986 (2.13%)	245 / 10,188	29		
+SZT2	seizure threshold 2 homolog (mouse)	1p34.2	protein_coding	21 / 986 (2.13%)	527 / 10,188	30		
+RPGR	retinitis pigmentosa GTPase regulator	Xp11.4	protein_coding	21 / 986 (2.13%)	214 / 10,188	24		
+RANBP2	RAN binding protein 2	2q13	protein_coding	21 / 986 (2.13%)	500 / 10,188	25	Cancer Gene Census	
+SEC16B	SEC16 homolog B (S. cerevisiae)	1q25.2	protein_coding	21 / 986 (2.13%)	270 / 10,188	23		
+ITGAX	integrin, alpha X (complement component 3 receptor 4 subunit)	16p11.2	protein_coding	21 / 986 (2.13%)	391 / 10,188	24		
+FCRL5	Fc receptor-like 5	1q23.1	protein_coding	21 / 986 (2.13%)	418 / 10,188	21		
+LAMA4	laminin, alpha 4	6q21	protein_coding	21 / 986 (2.13%)	434 / 10,188	24		
+ABCA9	ATP-binding cassette, sub-family A (ABC1), member 9	17q24.2	protein_coding	21 / 986 (2.13%)	362 / 10,188	24		
+MAGI1	membrane associated guanylate kinase, WW and PDZ domain containing 1	3p14.1	protein_coding	21 / 986 (2.13%)	396 / 10,188	22		
+GCC2	GRIP and coiled-coil domain containing 2	2q12.3	protein_coding	21 / 986 (2.13%)	268 / 10,188	22		
+URB1	URB1 ribosome biogenesis 1 homolog (S. cerevisiae)	21q22.11	protein_coding	21 / 986 (2.13%)	180 / 10,188	22		
+SPATA31D1	SPATA31 subfamily D, member 1	9q21.32	protein_coding	21 / 986 (2.13%)	473 / 10,188	23		
+NPHP4	nephronophthisis 4	1p36.31	protein_coding	21 / 986 (2.13%)	306 / 10,188	23		
+C2orf71	chromosome 2 open reading frame 71	2p23.2	protein_coding	21 / 986 (2.13%)	331 / 10,188	22		
+ANXA8	annexin A8	10q11.22	protein_coding	21 / 986 (2.13%)	204 / 10,188	11		
+TANC2	tetratricopeptide repeat, ankyrin repeat and coiled-coil containing 2	17q23.2, 17q23.3	protein_coding	21 / 986 (2.13%)	323 / 10,188	23		
+MYO3A	myosin IIIA	10p12.1	protein_coding	21 / 986 (2.13%)	540 / 10,188	29		
+UGGT2	UDP-glucose glycoprotein glucosyltransferase 2	13q32.1	protein_coding	21 / 986 (2.13%)	309 / 10,188	23		
+SLC4A4	solute carrier family 4 (sodium bicarbonate cotransporter), member 4	4q13.3	protein_coding	21 / 986 (2.13%)	322 / 10,188	25		
+CNTRL	centriolin	9q33.2	protein_coding	20 / 986 (2.03%)	321 / 10,188	26	Cancer Gene Census	
+SCN11A	sodium channel, voltage gated, type XI alpha subunit	3p22.2	protein_coding	20 / 986 (2.03%)	545 / 10,188	22		
+WWP2	WW domain containing E3 ubiquitin protein ligase 2	16q22.1	protein_coding	20 / 986 (2.03%)	212 / 10,188	21		
+NRK	Nik related kinase	Xq22.3	protein_coding	20 / 986 (2.03%)	452 / 10,188	20		
+LRRK1	leucine-rich repeat kinase 1	15q26.3	protein_coding	20 / 986 (2.03%)	392 / 10,188	23		
+TET2	tet methylcytosine dioxygenase 2	4q24	protein_coding	20 / 986 (2.03%)	374 / 10,188	23	Cancer Gene Census	
+RAD54B	RAD54 homolog B (S. cerevisiae)	8q22.1	protein_coding	20 / 986 (2.03%)	175 / 10,188	22		
+CAMSAP1	calmodulin regulated spectrin-associated protein 1	9q34.3	protein_coding	20 / 986 (2.03%)	279 / 10,188	26		
+GRIN2B	glutamate receptor, ionotropic, N-methyl D-aspartate 2B	12p13.1	protein_coding	20 / 986 (2.03%)	561 / 10,188	20		
+EXPH5	exophilin 5	11q22.3	protein_coding	20 / 986 (2.03%)	381 / 10,188	21		
+RBFOX1	RNA binding protein, fox-1 homolog (C. elegans) 1	16p13.3	protein_coding	20 / 986 (2.03%)	381 / 10,188	20		
+TSHZ2	teashirt zinc finger homeobox 2	20q13.2	protein_coding	20 / 986 (2.03%)	443 / 10,188	20		
+DLG1	discs, large homolog 1 (Drosophila)	3q29	protein_coding	20 / 986 (2.03%)	194 / 10,188	22		
+DLC1	DLC1 Rho GTPase activating protein	8p22	protein_coding	20 / 986 (2.03%)	457 / 10,188	21		
+CDH9	cadherin 9, type 2 (T1-cadherin)	5p14.1	protein_coding	20 / 986 (2.03%)	596 / 10,188	21		
+SEC31A	SEC31 homolog A (S. cerevisiae)	4q21.22	protein_coding	20 / 986 (2.03%)	247 / 10,188	19		
+NID1	nidogen 1	1q42.3	protein_coding	20 / 986 (2.03%)	335 / 10,188	21		
+SPTBN1	spectrin, beta, non-erythrocytic 1	2p16.2	protein_coding	20 / 986 (2.03%)	445 / 10,188	20		
+ANO4	anoctamin 4	12q23.1	protein_coding	20 / 986 (2.03%)	418 / 10,188	23		
+GOLGA6L9	golgin A6 family-like 9	15q25.2	protein_coding	20 / 986 (2.03%)	136 / 10,188	16		
+RB1CC1	RB1-inducible coiled-coil 1	8q11.23	protein_coding	20 / 986 (2.03%)	328 / 10,188	24		
+C2CD3	C2 calcium-dependent domain containing 3	11q13.4	protein_coding	20 / 986 (2.03%)	337 / 10,188	21		
+WDR44	WD repeat domain 44	Xq24	protein_coding	20 / 986 (2.03%)	237 / 10,188	21		
+MYO7B	myosin VIIB	2q14.3	protein_coding	20 / 986 (2.03%)	478 / 10,188	21		
+CECR2	cat eye syndrome chromosome region, candidate 2	22q11.1, 22q11.21	protein_coding	20 / 986 (2.03%)	305 / 10,188	23		
+TNN	tenascin N	1q25.1	protein_coding	20 / 986 (2.03%)	551 / 10,188	22		
+MAP3K4	mitogen-activated protein kinase kinase kinase 4	6q26	protein_coding	20 / 986 (2.03%)	338 / 10,188	21		
+ADGB	androglobin	6q24.3	protein_coding	20 / 986 (2.03%)	262 / 10,188	23		
+KCNB2	potassium channel, voltage gated Shab related subfamily B, member 2	8q21.11	protein_coding	20 / 986 (2.03%)	514 / 10,188	20		
+PTPRT	protein tyrosine phosphatase, receptor type, T	20q12, 20q13.11	protein_coding	20 / 986 (2.03%)	719 / 10,188	23		
+TEP1	telomerase-associated protein 1	14q11.2	protein_coding	20 / 986 (2.03%)	416 / 10,188	21		
+ADCY10	adenylate cyclase 10 (soluble)	1q24.2	protein_coding	20 / 986 (2.03%)	368 / 10,188	22		
+MYH4	myosin, heavy chain 4, skeletal muscle	17p13.1	protein_coding	20 / 986 (2.03%)	613 / 10,188	22		
+POGZ	pogo transposable element with ZNF domain	1q21.3	protein_coding	20 / 986 (2.03%)	255 / 10,188	20		
+ANKHD1-EIF4EBP3	ANKHD1-EIF4EBP3 readthrough	5q31.3	protein_coding	20 / 986 (2.03%)	383 / 10,188	21		
+ADAMTS20	ADAM metallopeptidase with thrombospondin type 1 motif, 20	12q12	protein_coding	20 / 986 (2.03%)	550 / 10,188	24		
+ROBO1	roundabout, axon guidance receptor, homolog 1 (Drosophila)	3p12.3	protein_coding	20 / 986 (2.03%)	490 / 10,188	24		
+ERBB4	erb-b2 receptor tyrosine kinase 4	2q34	protein_coding	20 / 986 (2.03%)	592 / 10,188	22	Cancer Gene Census	
+PCNX	pecanex homolog (Drosophila)	14q24.2	protein_coding	20 / 986 (2.03%)	383 / 10,188	23		
+GOLGA6L10	golgin A6 family-like 10	15q25.2	protein_coding	20 / 986 (2.03%)	180 / 10,188	13		
+ZSWIM8	zinc finger, SWIM-type containing 8	10q22.2	protein_coding	20 / 986 (2.03%)	295 / 10,188	22		
+NLGN4X	neuroligin 4, X-linked	Xp22.32, Xp22.31	protein_coding	20 / 986 (2.03%)	432 / 10,188	19		
+NOS1	nitric oxide synthase 1 (neuronal)	12q24.22	protein_coding	20 / 986 (2.03%)	561 / 10,188	23		
+TNRC6A	trinucleotide repeat containing 6A	16p12.1	protein_coding	20 / 986 (2.03%)	407 / 10,188	24		
+SPAG17	sperm associated antigen 17	1p12	protein_coding	20 / 986 (2.03%)	522 / 10,188	24		
+SRGAP2	SLIT-ROBO Rho GTPase activating protein 2	1q32.1	protein_coding	20 / 986 (2.03%)	181 / 10,188	19		
+FASN	fatty acid synthase	17q25.3	protein_coding	20 / 986 (2.03%)	349 / 10,188	24		
+POLQ	polymerase (DNA directed), theta	3q13.33	protein_coding	20 / 986 (2.03%)	490 / 10,188	20		
+PKDREJ	polycystin (PKD) family receptor for egg jelly	22q13.31	protein_coding	20 / 986 (2.03%)	389 / 10,188	32		
+CNTLN	centlein, centrosomal protein	9p22.2	protein_coding	20 / 986 (2.03%)	319 / 10,188	21		
+ADCY8	adenylate cyclase 8 (brain)	8q24.22	protein_coding	20 / 986 (2.03%)	576 / 10,188	20		
+DOCK9	dedicator of cytokinesis 9	13q32.3	protein_coding	20 / 986 (2.03%)	333 / 10,188	24		
+SBF2	SET binding factor 2	11p15.4	protein_coding	20 / 986 (2.03%)	321 / 10,188	22		
+PDE3A	phosphodiesterase 3A, cGMP-inhibited	12p12.2	protein_coding	20 / 986 (2.03%)	404 / 10,188	21		
+CYFIP1	cytoplasmic FMR1 interacting protein 1	15q11.2	protein_coding	20 / 986 (2.03%)	271 / 10,188	20		
+NWD1	NACHT and WD repeat domain containing 1	19p13.11	protein_coding	20 / 986 (2.03%)	395 / 10,188	20		
+UNC13A	unc-13 homolog A (C. elegans)	19p13.11	protein_coding	20 / 986 (2.03%)	366 / 10,188	21		
+TTC28	tetratricopeptide repeat domain 28	22q12.1	protein_coding	20 / 986 (2.03%)	181 / 10,188	23		
+LAMB4	laminin, beta 4	7q31.1	protein_coding	20 / 986 (2.03%)	421 / 10,188	21		
+COPA	coatomer protein complex, subunit alpha	1q23.2	protein_coding	20 / 986 (2.03%)	298 / 10,188	22		
+FBXW7	F-box and WD repeat domain containing 7, E3 ubiquitin protein ligase	4q31.3	protein_coding	20 / 986 (2.03%)	555 / 10,188	19	Cancer Gene Census	
+EP400	E1A binding protein p400	12q24.33	protein_coding	20 / 986 (2.03%)	532 / 10,188	20		
+TECTA	tectorin alpha	11q23.3	protein_coding	20 / 986 (2.03%)	570 / 10,188	20		
+GRID1	glutamate receptor, ionotropic, delta 1	10q23.1, 10q23.2	protein_coding	20 / 986 (2.03%)	448 / 10,188	22		
+ATAD2B	ATPase family, AAA domain containing 2B	2p24.1, 2p23.3	protein_coding	20 / 986 (2.03%)	225 / 10,188	22		
+PRKG2	protein kinase, cGMP-dependent, type II	4q21.21	protein_coding	20 / 986 (2.03%)	237 / 10,188	20		
+SORCS1	sortilin-related VPS10 domain containing receptor 1	10q25.1	protein_coding	20 / 986 (2.03%)	556 / 10,188	21		
+DIP2C	DIP2 disco-interacting protein 2 homolog C (Drosophila)	10p15.3	protein_coding	20 / 986 (2.03%)	365 / 10,188	23		
+GREB1L	growth regulation by estrogen in breast cancer-like	18q11.1, 18q11.2	protein_coding	20 / 986 (2.03%)	144 / 10,188	21		
+SMARCA4	SWI/SNF related, matrix associated, actin dependent regulator of chromatin, subfamily a, member 4	19p13.2	protein_coding	20 / 986 (2.03%)	483 / 10,188	20	Cancer Gene Census	
+GRM3	glutamate receptor, metabotropic 3	7q21.11, 7q21.12	protein_coding	20 / 986 (2.03%)	512 / 10,188	22		
+FBN2	fibrillin 2	5q23.3	protein_coding	20 / 986 (2.03%)	686 / 10,188	24		
+FMNL3	formin-like 3	12q13.12	protein_coding	20 / 986 (2.03%)	260 / 10,188	20		
+BRINP3	bone morphogenetic protein/retinoic acid inducible neural-specific 3	1q31.1	protein_coding	20 / 986 (2.03%)	569 / 10,188	21		
+SHANK1	SH3 and multiple ankyrin repeat domains 1	19q13.33	protein_coding	20 / 986 (2.03%)	413 / 10,188	23		
+SDK2	sidekick cell adhesion molecule 2	17q25.1	protein_coding	20 / 986 (2.03%)	434 / 10,188	25		
+ZC3H12B	zinc finger CCCH-type containing 12B	Xq11.2, Xq12	protein_coding	20 / 986 (2.03%)	248 / 10,188	18		
+ZNFX1	zinc finger, NFX1-type containing 1	20q13.13	protein_coding	20 / 986 (2.03%)	342 / 10,188	23		
+TLR4	toll-like receptor 4	9q33.1	protein_coding	20 / 986 (2.03%)	410 / 10,188	23		
+ABCA3	ATP-binding cassette, sub-family A (ABC1), member 3	16p13.3	protein_coding	20 / 986 (2.03%)	367 / 10,188	24		
+FANCD2	Fanconi anemia, complementation group D2	3p25.3	protein_coding	20 / 986 (2.03%)	300 / 10,188	21	Cancer Gene Census	
+ANKRD26	ankyrin repeat domain 26	10p12.1	protein_coding	20 / 986 (2.03%)	316 / 10,188	22		
+FNDC1	fibronectin type III domain containing 1	6q25.3	protein_coding	20 / 986 (2.03%)	486 / 10,188	22		
+HIVEP3	human immunodeficiency virus type I enhancer binding protein 3	1p34.2	protein_coding	20 / 986 (2.03%)	477 / 10,188	25		
+UNC79	unc-79 homolog (C. elegans)	14q32.12	protein_coding	20 / 986 (2.03%)	667 / 10,188	23		
+HECTD1	HECT domain containing E3 ubiquitin protein ligase 1	14q12	protein_coding	20 / 986 (2.03%)	343 / 10,188	23		
+PTPRZ1	protein tyrosine phosphatase, receptor-type, Z polypeptide 1	7q31.32	protein_coding	20 / 986 (2.03%)	535 / 10,188	22		
+CACNA1D	calcium channel, voltage-dependent, L type, alpha 1D subunit	3p21.1	protein_coding	20 / 986 (2.03%)	455 / 10,188	22	Cancer Gene Census	
+UNC80	unc-80 homolog (C. elegans)	2q34	protein_coding	20 / 986 (2.03%)	356 / 10,188	21		
+OTOF	otoferlin	2p23.3	protein_coding	20 / 986 (2.03%)	488 / 10,188	20		
+RIF1	replication timing regulatory factor 1	2q23.3	protein_coding	20 / 986 (2.03%)	382 / 10,188	20		
+IGSF1	immunoglobulin superfamily, member 1	Xq26.1, Xq26.2	protein_coding	20 / 986 (2.03%)	449 / 10,188	23		
+TBC1D4	TBC1 domain family, member 4	13q22.2	protein_coding	20 / 986 (2.03%)	261 / 10,188	20		
+CCDC150	coiled-coil domain containing 150	2q33.1	protein_coding	19 / 986 (1.93%)	247 / 10,188	22		
+KIAA0430	KIAA0430	16p13.11	protein_coding	19 / 986 (1.93%)	307 / 10,188	21		
+ESPL1	extra spindle pole bodies homolog 1 (S. cerevisiae)	12q13.13	protein_coding	19 / 986 (1.93%)	346 / 10,188	19		
+UTP20	UTP20, small subunit (SSU) processome component, homolog (yeast)	12q23.2	protein_coding	19 / 986 (1.93%)	400 / 10,188	19		
+RTL1	retrotransposon-like 1	14q32.2	protein_coding	19 / 986 (1.93%)	291 / 10,188	23		
+EML6	echinoderm microtubule associated protein like 6	2p16.1	protein_coding	19 / 986 (1.93%)	165 / 10,188	21		
+CCDC180	coiled-coil domain containing 180	9q22.33	protein_coding	19 / 986 (1.93%)	293 / 10,188	21		
+MTUS2	microtubule associated tumor suppressor candidate 2	13q12.3	protein_coding	19 / 986 (1.93%)	525 / 10,188	20		
+DNMBP	dynamin binding protein	10q24.2	protein_coding	19 / 986 (1.93%)	268 / 10,188	18		
+ATP11C	ATPase, class VI, type 11C	Xq27.1	protein_coding	19 / 986 (1.93%)	297 / 10,188	19		
+BCORL1	BCL6 corepressor-like 1	Xq26.1	protein_coding	19 / 986 (1.93%)	413 / 10,188	19		
+CAD	carbamoyl-phosphate synthetase 2, aspartate transcarbamylase, and dihydroorotase	2p23.3	protein_coding	19 / 986 (1.93%)	376 / 10,188	22		
+STAG1	stromal antigen 1	3q22.3	protein_coding	19 / 986 (1.93%)	305 / 10,188	27		
+LTBP1	latent transforming growth factor beta binding protein 1	2p22.3	protein_coding	19 / 986 (1.93%)	434 / 10,188	19		
+COL4A6	collagen, type IV, alpha 6	Xq22.3	protein_coding	19 / 986 (1.93%)	380 / 10,188	21		
+SAMD9	sterile alpha motif domain containing 9	7q21.2	protein_coding	19 / 986 (1.93%)	427 / 10,188	20		
+MCTP2	multiple C2 domains, transmembrane 2	15q26.2	protein_coding	19 / 986 (1.93%)	297 / 10,188	19		
+COL5A3	collagen, type V, alpha 3	19p13.2	protein_coding	19 / 986 (1.93%)	437 / 10,188	21		
+USP32	ubiquitin specific peptidase 32	17q23.1, 17q23.2	protein_coding	19 / 986 (1.93%)	252 / 10,188	22		
+ROBO2	roundabout, axon guidance receptor, homolog 2 (Drosophila)	3p12.3	protein_coding	19 / 986 (1.93%)	536 / 10,188	21		
+SUCO	SUN domain containing ossification factor	1q24.3	protein_coding	19 / 986 (1.93%)	267 / 10,188	24		
+PTCH1	patched 1	9q22.32	protein_coding	19 / 986 (1.93%)	356 / 10,188	21	Cancer Gene Census	
+SPTBN4	spectrin, beta, non-erythrocytic 4	19q13.2	protein_coding	19 / 986 (1.93%)	449 / 10,188	20		
+CDC42BPB	CDC42 binding protein kinase beta (DMPK-like)	14q32.32	protein_coding	19 / 986 (1.93%)	319 / 10,188	20		
+NBPF14	neuroblastoma breakpoint family, member 14	1q21.2	protein_coding	19 / 986 (1.93%)	131 / 10,188	10		
+APC	adenomatous polyposis coli	5q22.2	protein_coding	19 / 986 (1.93%)	883 / 10,188	31	Cancer Gene Census	
+PKD1L2	polycystic kidney disease 1-like 2 (gene/pseudogene)	16q23.2	polymorphic_pseudogene	19 / 986 (1.93%)	442 / 10,188	20		
+TNR	tenascin R	1q25.1	protein_coding	19 / 986 (1.93%)	643 / 10,188	21		
+HCFC1	host cell factor C1	Xq28	protein_coding	19 / 986 (1.93%)	350 / 10,188	21		
+CELSR1	cadherin, EGF LAG seven-pass G-type receptor 1	22q13.31	protein_coding	19 / 986 (1.93%)	513 / 10,188	21		
+SYBU	syntabulin (syntaxin-interacting)	8q23.2	protein_coding	19 / 986 (1.93%)	217 / 10,188	20		
+CRYBG3	beta-gamma crystallin domain containing 3	3q11.2	protein_coding	19 / 986 (1.93%)	231 / 10,188	21		
+MAP4K4	mitogen-activated protein kinase kinase kinase kinase 4	2q11.2	protein_coding	19 / 986 (1.93%)	266 / 10,188	21		
+SPEF2	sperm flagellar 2	5p13.2	protein_coding	19 / 986 (1.93%)	506 / 10,188	24		
+CACNA1S	calcium channel, voltage-dependent, L type, alpha 1S subunit	1q32.1	protein_coding	19 / 986 (1.93%)	514 / 10,188	22		
+VCAN	versican	5q14.2, 5q14.3	protein_coding	19 / 986 (1.93%)	660 / 10,188	24		
+SYCP2	synaptonemal complex protein 2	20q13.33	protein_coding	19 / 986 (1.93%)	320 / 10,188	20		
+TAB3	TGF-beta activated kinase 1/MAP3K7 binding protein 3	Xp21.2	protein_coding	19 / 986 (1.93%)	230 / 10,188	21		
+MYO9A	myosin IXA	15q23	protein_coding	19 / 986 (1.93%)	415 / 10,188	22		
+CDH10	cadherin 10, type 2 (T2-cadherin)	5p14.2, 5p14.1	protein_coding	19 / 986 (1.93%)	644 / 10,188	20		
+C5	complement component 5	9q33.2	protein_coding	19 / 986 (1.93%)	267 / 10,188	22		
+ABCA6	ATP-binding cassette, sub-family A (ABC1), member 6	17q24.2, 17q24.3	protein_coding	19 / 986 (1.93%)	330 / 10,188	22		
+ACTN2	actinin, alpha 2	1q43	protein_coding	19 / 986 (1.93%)	340 / 10,188	21		
+MYH7B	myosin, heavy chain 7B, cardiac muscle, beta	20q11.22	protein_coding	19 / 986 (1.93%)	355 / 10,188	24		
+BDP1	B double prime 1, subunit of RNA polymerase III transcription initiation factor IIIB	5q13.2	protein_coding	19 / 986 (1.93%)	374 / 10,188	20		
+CCDC88A	coiled-coil domain containing 88A	2p16.1	protein_coding	19 / 986 (1.93%)	316 / 10,188	27		
+MED23	mediator complex subunit 23	6q23.2	protein_coding	19 / 986 (1.93%)	260 / 10,188	18		
+MROH9	maestro heat-like repeat family member 9	1q24.3	protein_coding	19 / 986 (1.93%)	278 / 10,188	16		
+BLM	Bloom syndrome, RecQ helicase-like	15q26.1	protein_coding	19 / 986 (1.93%)	232 / 10,188	24	Cancer Gene Census	
+CHD5	chromodomain helicase DNA binding protein 5	1p36.31	protein_coding	19 / 986 (1.93%)	478 / 10,188	20		
+DNMT1	DNA (cytosine-5-)-methyltransferase 1	19p13.2	protein_coding	19 / 986 (1.93%)	286 / 10,188	20		
+PHIP	pleckstrin homology domain interacting protein	6q14.1	protein_coding	19 / 986 (1.93%)	289 / 10,188	20		
+PCDHB7	protocadherin beta 7	5q31.3	protein_coding	19 / 986 (1.93%)	522 / 10,188	22		
+THADA	thyroid adenoma associated	2p21	protein_coding	19 / 986 (1.93%)	287 / 10,188	23		
+GCN1L1	GCN1 general control of amino-acid synthesis 1-like 1 (yeast)	12q24.23	protein_coding	19 / 986 (1.93%)	444 / 10,188	23		
+POTEH	POTE ankyrin domain family, member H	22q11.1	protein_coding	19 / 986 (1.93%)	451 / 10,188	19		
+MYT1L	myelin transcription factor 1-like	2p25.3	protein_coding	19 / 986 (1.93%)	520 / 10,188	21		
+MAP3K5	mitogen-activated protein kinase kinase kinase 5	6q23.3	protein_coding	19 / 986 (1.93%)	281 / 10,188	22		
+ABI3BP	ABI family, member 3 (NESH) binding protein	3q12.2	protein_coding	19 / 986 (1.93%)	304 / 10,188	22		
+ADGRL3	adhesion G protein-coupled receptor L3	4q13.1	protein_coding	19 / 986 (1.93%)	560 / 10,188	20		
+BRINP1	bone morphogenetic protein/retinoic acid inducible neural-specific 1	9q33.1	protein_coding	19 / 986 (1.93%)	445 / 10,188	19		
+CELSR2	cadherin, EGF LAG seven-pass G-type receptor 2	1p13.3	protein_coding	19 / 986 (1.93%)	451 / 10,188	28		
+AFF1	AF4/FMR2 family, member 1	4q21.3, 4q22.1	protein_coding	19 / 986 (1.93%)	275 / 10,188	20	Cancer Gene Census	
+AIM1	absent in melanoma 1	6q21	protein_coding	19 / 986 (1.93%)	334 / 10,188	21		
+LAMA5	laminin, alpha 5	20q13.33	protein_coding	19 / 986 (1.93%)	509 / 10,188	20		
+CACNA1G	calcium channel, voltage-dependent, T type, alpha 1G subunit	17q21.33	protein_coding	19 / 986 (1.93%)	478 / 10,188	27		
+PIK3C2B	phosphatidylinositol-4-phosphate 3-kinase, catalytic subunit type 2 beta	1q32.1	protein_coding	19 / 986 (1.93%)	340 / 10,188	23		
+PTPRG	protein tyrosine phosphatase, receptor type, G	3p14.2	protein_coding	19 / 986 (1.93%)	338 / 10,188	22		
+RIMS1	regulating synaptic membrane exocytosis 1	6q13	protein_coding	19 / 986 (1.93%)	557 / 10,188	24		
+PIKFYVE	phosphoinositide kinase, FYVE finger containing	2q34	protein_coding	19 / 986 (1.93%)	386 / 10,188	20		
+DGKD	diacylglycerol kinase, delta 130kDa	2q37.1	protein_coding	19 / 986 (1.93%)	271 / 10,188	20		
+SPATA31D5P	SPATA31 subfamily D, member 5, pseudogene	9q21.32	transcribed_unprocessed_pseudogene	19 / 986 (1.93%)	374 / 10,188	19		
+ZNF318	zinc finger protein 318	6p21.1	protein_coding	19 / 986 (1.93%)	377 / 10,188	20		
+COL11A1	collagen, type XI, alpha 1	1p21.1	protein_coding	19 / 986 (1.93%)	828 / 10,188	20		
+BCL9	B-cell CLL/lymphoma 9	1q21.2	protein_coding	19 / 986 (1.93%)	328 / 10,188	21	Cancer Gene Census	
+ZFP36L1	ZFP36 ring finger protein-like 1	14q24.1	protein_coding	19 / 986 (1.93%)	255 / 10,188	19		
+ZP4	zona pellucida glycoprotein 4	1q43	protein_coding	19 / 986 (1.93%)	283 / 10,188	21		
+STAB2	stabilin 2	12q23.3	protein_coding	19 / 986 (1.93%)	624 / 10,188	22		
+WWC3	WWC family member 3	Xp22.2	protein_coding	19 / 986 (1.93%)	316 / 10,188	19		
+ARAP3	ArfGAP with RhoGAP domain, ankyrin repeat and PH domain 3	5q31.3	protein_coding	19 / 986 (1.93%)	299 / 10,188	19		
+DCHS1	dachsous cadherin-related 1	11p15.4	protein_coding	19 / 986 (1.93%)	517 / 10,188	26		
+CABIN1	calcineurin binding protein 1	22q11.23	protein_coding	19 / 986 (1.93%)	326 / 10,188	20		
+TP53BP1	tumor protein p53 binding protein 1	15q15.3	protein_coding	19 / 986 (1.93%)	342 / 10,188	22		
+WSCD2	WSC domain containing 2	12q23.3	protein_coding	19 / 986 (1.93%)	302 / 10,188	21		
+SMCHD1	structural maintenance of chromosomes flexible hinge domain containing 1	18p11.32	protein_coding	19 / 986 (1.93%)	293 / 10,188	22		
+PLXNA3	plexin A3	Xq28	protein_coding	19 / 986 (1.93%)	357 / 10,188	22		
+MYO5A	myosin VA (heavy chain 12, myoxin)	15q21.2	protein_coding	18 / 986 (1.83%)	318 / 10,188	19	Cancer Gene Census	
+ASXL1	additional sex combs like transcriptional regulator 1	20q11.21	protein_coding	18 / 986 (1.83%)	338 / 10,188	23	Cancer Gene Census	
+RBMXL3	RNA binding motif protein, X-linked-like 3	Xq23	protein_coding	18 / 986 (1.83%)	189 / 10,188	18		
+FOCAD	focadhesin	9p21.3	protein_coding	18 / 986 (1.83%)	276 / 10,188	23		
+SALL1	spalt-like transcription factor 1	16q12.1	protein_coding	18 / 986 (1.83%)	545 / 10,188	20		
+CNTN1	contactin 1	12q12	protein_coding	18 / 986 (1.83%)	387 / 10,188	17		
+GRIK2	glutamate receptor, ionotropic, kainate 2	6q16.3	protein_coding	18 / 986 (1.83%)	418 / 10,188	17		
+FAM171A1	family with sequence similarity 171, member A1	10p13	protein_coding	18 / 986 (1.83%)	289 / 10,188	20		
+WDR33	WD repeat domain 33	2q14.3	protein_coding	18 / 986 (1.83%)	340 / 10,188	22		
+ZNF841	zinc finger protein 841	19q13.41	protein_coding	18 / 986 (1.83%)	193 / 10,188	19		
+ADAMTS13	ADAM metallopeptidase with thrombospondin type 1 motif, 13	9q34.2	protein_coding	18 / 986 (1.83%)	274 / 10,188	18		
+GUCY2C	guanylate cyclase 2C	12p12.3	protein_coding	18 / 986 (1.83%)	330 / 10,188	18		
+KANK1	KN motif and ankyrin repeat domains 1	9p24.3	protein_coding	18 / 986 (1.83%)	304 / 10,188	20		
+KCNH7	potassium channel, voltage gated eag related subfamily H, member 7	2q24.2	protein_coding	18 / 986 (1.83%)	446 / 10,188	18		
+COL19A1	collagen, type XIX, alpha 1	6q13	protein_coding	18 / 986 (1.83%)	425 / 10,188	18		
+NLGN3	neuroligin 3	Xq13.1	protein_coding	18 / 986 (1.83%)	241 / 10,188	18		
+TRIOBP	TRIO and F-actin binding protein	22q13.1	protein_coding	18 / 986 (1.83%)	455 / 10,188	18		
+NLRC5	NLR family, CARD domain containing 5	16q13	protein_coding	18 / 986 (1.83%)	381 / 10,188	19		
+TTC21A	tetratricopeptide repeat domain 21A	3p22.2	protein_coding	18 / 986 (1.83%)	255 / 10,188	20		
+CCDC108	coiled-coil domain containing 108	2q35	protein_coding	18 / 986 (1.83%)	458 / 10,188	18		
+IFT122	intraflagellar transport 122	3q21.3, 3q22.1	protein_coding	18 / 986 (1.83%)	249 / 10,188	20		
+SORBS2	sorbin and SH3 domain containing 2	4q35.1	protein_coding	18 / 986 (1.83%)	323 / 10,188	19		
+ATP10A	ATPase, class V, type 10A	15q12	protein_coding	18 / 986 (1.83%)	496 / 10,188	17		
+DENND5B	DENN/MADD domain containing 5B	12p11.21	protein_coding	18 / 986 (1.83%)	244 / 10,188	21		
+PTPRC	protein tyrosine phosphatase, receptor type, C	1q31.3, 1q32.1	protein_coding	18 / 986 (1.83%)	454 / 10,188	19	Cancer Gene Census	
+LRRIQ1	leucine-rich repeats and IQ motif containing 1	12q21.31	protein_coding	18 / 986 (1.83%)	484 / 10,188	19		
+TNKS1BP1	tankyrase 1 binding protein 1, 182kDa	11q12.1	protein_coding	18 / 986 (1.83%)	304 / 10,188	20		
+DENND4B	DENN/MADD domain containing 4B	1q21.3	protein_coding	18 / 986 (1.83%)	277 / 10,188	18		
+CAMSAP2	calmodulin regulated spectrin-associated protein family, member 2	1q32.1	protein_coding	18 / 986 (1.83%)	303 / 10,188	23		
+ZNF440	zinc finger protein 440	19p13.2	protein_coding	18 / 986 (1.83%)	233 / 10,188	19		
+FGD5	FYVE, RhoGEF and PH domain containing 5	3p25.1	protein_coding	18 / 986 (1.83%)	326 / 10,188	20		
+GPR179	G protein-coupled receptor 179	17q12	protein_coding	18 / 986 (1.83%)	393 / 10,188	21		
+CDH8	cadherin 8, type 2	16q21	protein_coding	18 / 986 (1.83%)	508 / 10,188	18		
+ATP1A4	ATPase, Na+/K+ transporting, alpha 4 polypeptide	1q23.2	protein_coding	18 / 986 (1.83%)	321 / 10,188	21		
+CACHD1	cache domain containing 1	1p31.3	protein_coding	18 / 986 (1.83%)	254 / 10,188	18		
+SMARCC1	SWI/SNF related, matrix associated, actin dependent regulator of chromatin, subfamily c, member 1	3p21.31	protein_coding	18 / 986 (1.83%)	192 / 10,188	19		
+SUPT5H	suppressor of Ty 5 homolog (S. cerevisiae)	19q13.2	protein_coding	18 / 986 (1.83%)	272 / 10,188	18		
+COL1A2	collagen, type I, alpha 2	7q21.3	protein_coding	18 / 986 (1.83%)	476 / 10,188	20		
+SIGLEC1	sialic acid binding Ig-like lectin 1, sialoadhesin	20p13	protein_coding	18 / 986 (1.83%)	424 / 10,188	18		
+MUC6	mucin 6, oligomeric mucus/gel-forming	11p15.5	protein_coding	18 / 986 (1.83%)	399 / 10,188	23		
+NHS	Nance-Horan syndrome (congenital cataracts and dental anomalies)	Xp22.2, Xp22.13	protein_coding	18 / 986 (1.83%)	368 / 10,188	20		
+ADGRF5	adhesion G protein-coupled receptor F5	6p12.3	protein_coding	18 / 986 (1.83%)	330 / 10,188	20		
+DOCK2	dedicator of cytokinesis 2	5q35.1	protein_coding	18 / 986 (1.83%)	607 / 10,188	19		
+CLCN5	chloride channel, voltage-sensitive 5	Xp11.23	protein_coding	18 / 986 (1.83%)	269 / 10,188	21		
+PPP1R12A	protein phosphatase 1, regulatory subunit 12A	12q21.2, 12q21.31	protein_coding	18 / 986 (1.83%)	190 / 10,188	18		
+ZNF532	zinc finger protein 532	18q21.32	protein_coding	18 / 986 (1.83%)	264 / 10,188	18		
+NUP205	nucleoporin 205kDa	7q33	protein_coding	18 / 986 (1.83%)	369 / 10,188	21		
+PRRC2B	proline-rich coiled-coil 2B	9q34.13	protein_coding	18 / 986 (1.83%)	354 / 10,188	19		
+MYH15	myosin, heavy chain 15	3q13.13	protein_coding	18 / 986 (1.83%)	474 / 10,188	22		
+PMFBP1	polyamine modulated factor 1 binding protein 1	16q22.2	protein_coding	18 / 986 (1.83%)	291 / 10,188	18		
+DGKG	diacylglycerol kinase, gamma 90kDa	3q27.2, 3q27.3	protein_coding	18 / 986 (1.83%)	268 / 10,188	18		
+AAK1	AP2 associated kinase 1	2p13.3	protein_coding	18 / 986 (1.83%)	213 / 10,188	19		
+CASP8AP2	caspase 8 associated protein 2	6q15	protein_coding	18 / 986 (1.83%)	284 / 10,188	19		
+KIF16B	kinesin family member 16B	20p12.1	protein_coding	18 / 986 (1.83%)	350 / 10,188	19		
+NLRP2	NLR family, pyrin domain containing 2	19q13.42	protein_coding	18 / 986 (1.83%)	374 / 10,188	19		
+HEG1	heart development protein with EGF-like domains 1	3q21.2	protein_coding	18 / 986 (1.83%)	233 / 10,188	20		
+SLC12A5	solute carrier family 12 (potassium/chloride transporter), member 5	20q13.12	protein_coding	18 / 986 (1.83%)	403 / 10,188	19		
+BCR	breakpoint cluster region	22q11.23	protein_coding	18 / 986 (1.83%)	321 / 10,188	17	Cancer Gene Census	
+CHD3	chromodomain helicase DNA binding protein 3	17p13.1	protein_coding	18 / 986 (1.83%)	361 / 10,188	22		
+ERCC6	excision repair cross-complementation group 6	10q11.23	protein_coding	18 / 986 (1.83%)	291 / 10,188	24		
+CNTNAP3	contactin associated protein-like 3	9p12	protein_coding	18 / 986 (1.83%)	363 / 10,188	19		
+CD163L1	CD163 molecule-like 1	12p13.31	protein_coding	18 / 986 (1.83%)	440 / 10,188	19		
+CTTNBP2	cortactin binding protein 2	7q31.31	protein_coding	18 / 986 (1.83%)	364 / 10,188	19		
+SETDB1	SET domain, bifurcated 1	1q21.3	protein_coding	18 / 986 (1.83%)	261 / 10,188	19		
+ZEB2	zinc finger E-box binding homeobox 2	2q22.3	protein_coding	18 / 986 (1.83%)	440 / 10,188	19		
+NSD1	nuclear receptor binding SET domain protein 1	5q35.3	protein_coding	18 / 986 (1.83%)	469 / 10,188	22	Cancer Gene Census	
+NBPF9	neuroblastoma breakpoint family, member 9	1q21.2	protein_coding	18 / 986 (1.83%)	196 / 10,188	18		
+PCDHGA3	protocadherin gamma subfamily A, 3	5q31.3	protein_coding	18 / 986 (1.83%)	390 / 10,188	18		
+LPA	lipoprotein, Lp(a)	6q25.3, 6q26	protein_coding	18 / 986 (1.83%)	496 / 10,188	18		
+PCDHA10	protocadherin alpha 10	5q31.3	protein_coding	18 / 986 (1.83%)	497 / 10,188	22		
+NRXN2	neurexin 2	11q13.1	protein_coding	18 / 986 (1.83%)	373 / 10,188	18		
+PKD1	polycystic kidney disease 1 (autosomal dominant)	16p13.3	protein_coding	18 / 986 (1.83%)	452 / 10,188	19		
+POTEM	POTE ankyrin domain family, member M	14q11.2	protein_coding	18 / 986 (1.83%)	216 / 10,188	11		
+IQSEC2	IQ motif and Sec7 domain 2	Xp11.22	protein_coding	18 / 986 (1.83%)	254 / 10,188	20		
+PHF12	PHD finger protein 12	17q11.2	protein_coding	18 / 986 (1.83%)	204 / 10,188	20		
+PZP	pregnancy-zone protein	12p13.31	protein_coding	18 / 986 (1.83%)	402 / 10,188	19		
+PCDHGA7	protocadherin gamma subfamily A, 7	5q31.3	protein_coding	18 / 986 (1.83%)	284 / 10,188	18		
+ABCA10	ATP-binding cassette, sub-family A (ABC1), member 10	17q24.3	protein_coding	18 / 986 (1.83%)	340 / 10,188	21		
+KAT6A	K(lysine) acetyltransferase 6A	8p11.21	protein_coding	18 / 986 (1.83%)	388 / 10,188	18	Cancer Gene Census	
+GSE1	Gse1 coiled-coil protein	16q24.1	protein_coding	18 / 986 (1.83%)	231 / 10,188	18		
+MICAL3	microtubule associated monooxygenase, calponin and LIM domain containing 3	22q11.21	protein_coding	18 / 986 (1.83%)	368 / 10,188	20		
+ATXN2	ataxin 2	12q24.12	protein_coding	18 / 986 (1.83%)	245 / 10,188	20		
+LRP12	low density lipoprotein receptor-related protein 12	8q22.3	protein_coding	18 / 986 (1.83%)	315 / 10,188	18		
+SLITRK2	SLIT and NTRK-like family, member 2	Xq27.3	protein_coding	18 / 986 (1.83%)	399 / 10,188	20		
+CHD2	chromodomain helicase DNA binding protein 2	15q26.1	protein_coding	18 / 986 (1.83%)	340 / 10,188	22		
+KIF21B	kinesin family member 21B	1q32.1	protein_coding	18 / 986 (1.83%)	471 / 10,188	21		
+GOLGA3	golgin A3	12q24.33	protein_coding	18 / 986 (1.83%)	321 / 10,188	20		
+MAP2K6	mitogen-activated protein kinase kinase 6	17q24.3	protein_coding	18 / 986 (1.83%)	166 / 10,188	18		
+SRGAP1	SLIT-ROBO Rho GTPase activating protein 1	12q14.2	protein_coding	18 / 986 (1.83%)	270 / 10,188	21		
+ANKRD36C	ankyrin repeat domain 36C	2q11.1	protein_coding	18 / 986 (1.83%)	202 / 10,188	19		
+C10orf12	chromosome 10 open reading frame 12		protein_coding	18 / 986 (1.83%)	251 / 10,188	21		
+TMEM131	transmembrane protein 131	2q11.2	protein_coding	18 / 986 (1.83%)	294 / 10,188	20		
+PCDH10	protocadherin 10	4q28.3	protein_coding	18 / 986 (1.83%)	576 / 10,188	19		
+COL18A1	collagen, type XVIII, alpha 1	21q22.3	protein_coding	18 / 986 (1.83%)	305 / 10,188	18		
+FTSJ3	FtsJ homolog 3 (E. coli)	17q23.3	protein_coding	18 / 986 (1.83%)	180 / 10,188	20		
+VCPIP1	valosin containing protein (p97)/p47 complex interacting protein 1	8q13.1	protein_coding	18 / 986 (1.83%)	228 / 10,188	20		
+MAGI2	membrane associated guanylate kinase, WW and PDZ domain containing 2	7q21.11	protein_coding	18 / 986 (1.83%)	467 / 10,188	18		
+DMBT1	deleted in malignant brain tumors 1	10q26.13	protein_coding	18 / 986 (1.83%)	525 / 10,188	18		
+FAM208B	family with sequence similarity 208, member B	10p15.1	protein_coding	18 / 986 (1.83%)	310 / 10,188	22		
+NBPF11	neuroblastoma breakpoint family, member 11	1q21.2	protein_coding	18 / 986 (1.83%)	248 / 10,188	16		
+PRRC2C	proline-rich coiled-coil 2C	1q24.3	protein_coding	18 / 986 (1.83%)	371 / 10,188	20		
+TRIP11	thyroid hormone receptor interactor 11	14q32.12	protein_coding	18 / 986 (1.83%)	266 / 10,188	20	Cancer Gene Census	
+ZFC3H1	zinc finger, C3H1-type containing	12q21.1	protein_coding	18 / 986 (1.83%)	342 / 10,188	20		
+IPO8	importin 8	12p11.21	protein_coding	18 / 986 (1.83%)	215 / 10,188	21		
+ZMYM3	zinc finger, MYM-type 3	Xq13.1	protein_coding	18 / 986 (1.83%)	309 / 10,188	19		
+KIAA2026	KIAA2026	9p24.1	protein_coding	18 / 986 (1.83%)	296 / 10,188	21		
+DOCK7	dedicator of cytokinesis 7	1p31.3	protein_coding	18 / 986 (1.83%)	320 / 10,188	21		
+ATAD2	ATPase family, AAA domain containing 2	8q24.13	protein_coding	18 / 986 (1.83%)	345 / 10,188	25		
+IREB2	iron-responsive element binding protein 2	15q25.1	protein_coding	18 / 986 (1.83%)	192 / 10,188	20		
+MCM3AP	minichromosome maintenance complex component 3 associated protein	21q22.3	protein_coding	18 / 986 (1.83%)	363 / 10,188	21		
+CNTN6	contactin 6	3p26.3	protein_coding	18 / 986 (1.83%)	445 / 10,188	21		
+ITIH6	inter-alpha-trypsin inhibitor heavy chain family, member 6	Xp11.22	protein_coding	17 / 986 (1.72%)	350 / 10,188	18		
+ZNF91	zinc finger protein 91	19p12	protein_coding	17 / 986 (1.72%)	340 / 10,188	20		
+RGAG1	retrotransposon gag domain containing 1	Xq23	protein_coding	17 / 986 (1.72%)	338 / 10,188	19		
+ADNP	activity-dependent neuroprotector homeobox	20q13.13	protein_coding	17 / 986 (1.72%)	218 / 10,188	24		
+GRIN3A	glutamate receptor, ionotropic, N-methyl-D-aspartate 3A	9q31.1	protein_coding	17 / 986 (1.72%)	397 / 10,188	17		
+ZGRF1	zinc finger, GRF-type containing 1	4q25	protein_coding	17 / 986 (1.72%)	301 / 10,188	22		
+MYO18A	myosin XVIIIA	17q11.2	protein_coding	17 / 986 (1.72%)	314 / 10,188	21		
+TRPC7	transient receptor potential cation channel, subfamily C, member 7	5q31.1	protein_coding	17 / 986 (1.72%)	332 / 10,188	19		
+MLH3	mutL homolog 3	14q24.3	protein_coding	17 / 986 (1.72%)	228 / 10,188	18		
+NINL	ninein-like	20p11.21	protein_coding	17 / 986 (1.72%)	303 / 10,188	19		
+KMT2B	lysine (K)-specific methyltransferase 2B	19q13.12	protein_coding	17 / 986 (1.72%)	518 / 10,188	19		
+ESR1	estrogen receptor 1	6q25.1, 6q25.2	protein_coding	17 / 986 (1.72%)	217 / 10,188	16	Cancer Gene Census	
+CEP290	centrosomal protein 290kDa	12q21.32	protein_coding	17 / 986 (1.72%)	334 / 10,188	20		
+ZMYM4	zinc finger, MYM-type 4	1p34.3	protein_coding	17 / 986 (1.72%)	260 / 10,188	17		
+DAAM2	dishevelled associated activator of morphogenesis 2	6p21.2	protein_coding	17 / 986 (1.72%)	276 / 10,188	18		
+ZZEF1	zinc finger, ZZ-type with EF-hand domain 1	17p13.2	protein_coding	17 / 986 (1.72%)	411 / 10,188	19		
+NELL1	NEL-like 1 (chicken)	11p15.1	protein_coding	17 / 986 (1.72%)	387 / 10,188	19		
+STAB1	stabilin 1	3p21.1	protein_coding	17 / 986 (1.72%)	477 / 10,188	17		
+ARHGAP5	Rho GTPase activating protein 5	14q12	protein_coding	17 / 986 (1.72%)	301 / 10,188	21		
+SOX6	SRY (sex determining region Y)-box 6	11p15.2	protein_coding	17 / 986 (1.72%)	263 / 10,188	18		
+KCNH1	potassium channel, voltage gated eag related subfamily H, member 1	1q32.2	protein_coding	17 / 986 (1.72%)	399 / 10,188	18		
+FRMPD1	FERM and PDZ domain containing 1	9p13.2	protein_coding	17 / 986 (1.72%)	385 / 10,188	20		
+UHRF1BP1L	UHRF1 binding protein 1-like	12q23.1	protein_coding	17 / 986 (1.72%)	263 / 10,188	18		
+FAM47B	family with sequence similarity 47, member B	Xp21.1	protein_coding	17 / 986 (1.72%)	392 / 10,188	17		
+ABCC12	ATP-binding cassette, sub-family C (CFTR/MRP), member 12	16q12.1	protein_coding	17 / 986 (1.72%)	372 / 10,188	17		
+ATP13A4	ATPase type 13A4	3q29	protein_coding	17 / 986 (1.72%)	327 / 10,188	17		
+APOBR	apolipoprotein B receptor	16p12.1	protein_coding	17 / 986 (1.72%)	198 / 10,188	22		
+NRP2	neuropilin 2	2q33.3	protein_coding	17 / 986 (1.72%)	301 / 10,188	18		
+ZNF804B	zinc finger protein 804B	7q21.13	protein_coding	17 / 986 (1.72%)	529 / 10,188	17		
+RGS7	regulator of G-protein signaling 7	1q43	protein_coding	17 / 986 (1.72%)	306 / 10,188	18		
+TRANK1	tetratricopeptide repeat and ankyrin repeat containing 1	3p22.2	protein_coding	17 / 986 (1.72%)	468 / 10,188	20		
+CH17-140K24.8	CH17-140K24.8	5q31.3	protein_coding	17 / 986 (1.72%)	383 / 10,188	18		
+UBA6	ubiquitin-like modifier activating enzyme 6	4q13.2	protein_coding	17 / 986 (1.72%)	241 / 10,188	17		
+NRCAM	neuronal cell adhesion molecule	7q31.1	protein_coding	17 / 986 (1.72%)	326 / 10,188	19		
+SMARCA1	SWI/SNF related, matrix associated, actin dependent regulator of chromatin, subfamily a, member 1	Xq25, Xq26.1	protein_coding	17 / 986 (1.72%)	250 / 10,188	18		
+ANKS1B	ankyrin repeat and sterile alpha motif domain containing 1B	12q23.1	protein_coding	17 / 986 (1.72%)	382 / 10,188	17		
+KLHL1	kelch-like family member 1	13q21.33	protein_coding	17 / 986 (1.72%)	390 / 10,188	18		
+MAST1	microtubule associated serine/threonine kinase 1	19p13.13	protein_coding	17 / 986 (1.72%)	301 / 10,188	19		
+FHOD3	formin homology 2 domain containing 3	18q12.2	protein_coding	17 / 986 (1.72%)	356 / 10,188	18		
+DLG5	discs, large homolog 5 (Drosophila)	10q22.3	protein_coding	17 / 986 (1.72%)	347 / 10,188	18		
+SHPRH	SNF2 histone linker PHD RING helicase, E3 ubiquitin protein ligase	6q24.3	protein_coding	17 / 986 (1.72%)	335 / 10,188	20		
+SLC9C2	solute carrier family 9, member C2 (putative)	1q25.1	protein_coding	17 / 986 (1.72%)	357 / 10,188	19		
+AGBL1	ATP/GTP binding protein-like 1	15q25.3	protein_coding	17 / 986 (1.72%)	360 / 10,188	17		
+EEF1A1	eukaryotic translation elongation factor 1 alpha 1	6q13	protein_coding	17 / 986 (1.72%)	179 / 10,188	11		
+CDH26	cadherin 26	20q13.33	protein_coding	17 / 986 (1.72%)	270 / 10,188	19		
+PCDHB12	protocadherin beta 12	5q31.3	protein_coding	17 / 986 (1.72%)	421 / 10,188	18		
+RALGAPA1	Ral GTPase activating protein, alpha subunit 1 (catalytic)	14q13.2	protein_coding	17 / 986 (1.72%)	296 / 10,188	21		
+HIST1H3B	histone cluster 1, H3b	6p22.2	protein_coding	17 / 986 (1.72%)	118 / 10,188	17		
+KDM5A	lysine (K)-specific demethylase 5A	12p13.33	protein_coding	17 / 986 (1.72%)	320 / 10,188	17	Cancer Gene Census	
+ADCY9	adenylate cyclase 9	16p13.3	protein_coding	17 / 986 (1.72%)	307 / 10,188	20		
+SPTAN1	spectrin, alpha, non-erythrocytic 1	9q34.11	protein_coding	17 / 986 (1.72%)	439 / 10,188	20		
+PLD5	phospholipase D family, member 5	1q43	protein_coding	17 / 986 (1.72%)	262 / 10,188	17		
+TLR7	toll-like receptor 7	Xp22.2	protein_coding	17 / 986 (1.72%)	268 / 10,188	18		
+CNKSR2	connector enhancer of kinase suppressor of Ras 2	Xp22.12	protein_coding	17 / 986 (1.72%)	279 / 10,188	21		
+NEDD4L	neural precursor cell expressed, developmentally down-regulated 4-like, E3 ubiquitin protein ligase	18q21.31	protein_coding	17 / 986 (1.72%)	206 / 10,188	17		
+LTBP2	latent transforming growth factor beta binding protein 2	14q24.3	protein_coding	17 / 986 (1.72%)	364 / 10,188	18		
+TMPRSS15	transmembrane protease, serine 15	21q21.1	protein_coding	17 / 986 (1.72%)	383 / 10,188	17		
+NLRP3	NLR family, pyrin domain containing 3	1q44	protein_coding	17 / 986 (1.72%)	522 / 10,188	19		
+HTATSF1	HIV-1 Tat specific factor 1	Xq26.3	protein_coding	17 / 986 (1.72%)	215 / 10,188	20		
+C11orf30	chromosome 11 open reading frame 30	11q13.5	protein_coding	17 / 986 (1.72%)	250 / 10,188	23		
+KIAA1217	KIAA1217	10p12.2, 10p12.1	protein_coding	17 / 986 (1.72%)	490 / 10,188	23		
+MYOM1	myomesin 1	18p11.31	protein_coding	17 / 986 (1.72%)	339 / 10,188	17		
+ESRRG	estrogen-related receptor gamma	1q41	protein_coding	17 / 986 (1.72%)	278 / 10,188	18		
+GRIPAP1	GRIP1 associated protein 1	Xp11.23	protein_coding	17 / 986 (1.72%)	181 / 10,188	19		
+TRPA1	transient receptor potential cation channel, subfamily A, member 1	8q21.11	protein_coding	17 / 986 (1.72%)	454 / 10,188	19		
+VWA3A	von Willebrand factor A domain containing 3A	16p12.2	protein_coding	17 / 986 (1.72%)	245 / 10,188	18		
+WDR17	WD repeat domain 17	4q34.2	protein_coding	17 / 986 (1.72%)	354 / 10,188	18		
+ZNF687	zinc finger protein 687	1q21.3	protein_coding	17 / 986 (1.72%)	243 / 10,188	15		
+ARFGEF3	ARFGEF family member 3	6q23.3, 6q24.1	protein_coding	17 / 986 (1.72%)	362 / 10,188	18		
+USP15	ubiquitin specific peptidase 15	12q14.1	protein_coding	17 / 986 (1.72%)	218 / 10,188	17		
+TNRC6C	trinucleotide repeat containing 6C	17q25.3	protein_coding	17 / 986 (1.72%)	260 / 10,188	19		
+BAZ2A	bromodomain adjacent to zinc finger domain, 2A	12q13.3	protein_coding	17 / 986 (1.72%)	280 / 10,188	20		
+TIAM2	T-cell lymphoma invasion and metastasis 2	6q25.2, 6q25.3	protein_coding	17 / 986 (1.72%)	395 / 10,188	19		
+CPSF1	cleavage and polyadenylation specific factor 1, 160kDa	8q24.3	protein_coding	17 / 986 (1.72%)	243 / 10,188	17		
+PARP1	poly (ADP-ribose) polymerase 1	1q42.12	protein_coding	17 / 986 (1.72%)	208 / 10,188	18		
+TNRC18	trinucleotide repeat containing 18	7p22.1	protein_coding	17 / 986 (1.72%)	364 / 10,188	20		
+PHF3	PHD finger protein 3	6q12	protein_coding	17 / 986 (1.72%)	362 / 10,188	20		
+NRIP1	nuclear receptor interacting protein 1	21q11.2, 21q21.1	protein_coding	17 / 986 (1.72%)	278 / 10,188	18		
+FGD6	FYVE, RhoGEF and PH domain containing 6	12q22	protein_coding	17 / 986 (1.72%)	269 / 10,188	20		
+MROH1	maestro heat-like repeat family member 1	8q24.3	protein_coding	17 / 986 (1.72%)	287 / 10,188	21		
+PLEKHA6	pleckstrin homology domain containing, family A member 6	1q32.1	protein_coding	17 / 986 (1.72%)	298 / 10,188	23		
+RALGAPB	Ral GTPase activating protein, beta subunit (non-catalytic)	20q11.23	protein_coding	17 / 986 (1.72%)	301 / 10,188	23		
+WHSC1L1	Wolf-Hirschhorn syndrome candidate 1-like 1	8p11.23	protein_coding	17 / 986 (1.72%)	282 / 10,188	20	Cancer Gene Census	
+ESYT1	extended synaptotagmin-like protein 1	12q13.2	protein_coding	17 / 986 (1.72%)	204 / 10,188	16		
+RICTOR	RPTOR independent companion of MTOR, complex 2	5p13.1	protein_coding	17 / 986 (1.72%)	308 / 10,188	17		
+ALDH1L1	aldehyde dehydrogenase 1 family, member L1	3q21.3	protein_coding	17 / 986 (1.72%)	291 / 10,188	18		
+PCDHB16	protocadherin beta 16	5q31.3	protein_coding	17 / 986 (1.72%)	368 / 10,188	20		
+ASCC3	activating signal cointegrator 1 complex subunit 3	6q16.3	protein_coding	17 / 986 (1.72%)	349 / 10,188	19		
+IKBKE	inhibitor of kappa light polypeptide gene enhancer in B-cells, kinase epsilon	1q32.1	protein_coding	17 / 986 (1.72%)	194 / 10,188	18		
+NLRP1	NLR family, pyrin domain containing 1	17p13.2	protein_coding	17 / 986 (1.72%)	358 / 10,188	18		
+ZNF592	zinc finger protein 592	15q25.3	protein_coding	17 / 986 (1.72%)	233 / 10,188	19		
+IRS4	insulin receptor substrate 4	Xq22.3	protein_coding	17 / 986 (1.72%)	371 / 10,188	18		
+GLI3	GLI family zinc finger 3	7p14.1	protein_coding	17 / 986 (1.72%)	526 / 10,188	19		
+NUP160	nucleoporin 160kDa	11p11.2	protein_coding	17 / 986 (1.72%)	242 / 10,188	23		
+PRKCB	protein kinase C, beta	16p12.2, 16p12.1	protein_coding	17 / 986 (1.72%)	343 / 10,188	18		
+TRDN	triadin	6q22.31	protein_coding	17 / 986 (1.72%)	219 / 10,188	19		
+PCDHGA1	protocadherin gamma subfamily A, 1	5q31.3	protein_coding	17 / 986 (1.72%)	352 / 10,188	21		
+ANO2	anoctamin 2, calcium activated chloride channel	12p13.31	protein_coding	17 / 986 (1.72%)	323 / 10,188	17		
+EIF4A2	eukaryotic translation initiation factor 4A2	3q27.3	protein_coding	17 / 986 (1.72%)	218 / 10,188	18	Cancer Gene Census	
+SHROOM2	shroom family member 2	Xp22.2	protein_coding	17 / 986 (1.72%)	310 / 10,188	23		
+MECOM	MDS1 and EVI1 complex locus	3q26.2	protein_coding	17 / 986 (1.72%)	407 / 10,188	19	Cancer Gene Census	
+GRM1	glutamate receptor, metabotropic 1	6q24.3	protein_coding	17 / 986 (1.72%)	511 / 10,188	18		
+PDE4C	phosphodiesterase 4C, cAMP-specific	19p13.11	protein_coding	17 / 986 (1.72%)	201 / 10,188	17		
+CPED1	cadherin-like and PC-esterase domain containing 1	7q31.31	protein_coding	17 / 986 (1.72%)	359 / 10,188	21		
+PLXNB3	plexin B3	Xq28	protein_coding	17 / 986 (1.72%)	313 / 10,188	19		
+SLC4A5	solute carrier family 4 (sodium bicarbonate cotransporter), member 5	2p13.1	protein_coding	17 / 986 (1.72%)	246 / 10,188	18		
+RTN4	reticulon 4	2p16.1	protein_coding	17 / 986 (1.72%)	199 / 10,188	18		
+PLCL2	phospholipase C-like 2	3p24.3	protein_coding	17 / 986 (1.72%)	264 / 10,188	19		
+ARHGAP29	Rho GTPase activating protein 29	1p22.1	protein_coding	17 / 986 (1.72%)	296 / 10,188	20		
+FCRL3	Fc receptor-like 3	1q23.1	protein_coding	17 / 986 (1.72%)	396 / 10,188	22		
+NUP98	nucleoporin 98kDa	11p15.4	protein_coding	17 / 986 (1.72%)	304 / 10,188	19	Cancer Gene Census	
+CLTC	clathrin, heavy chain (Hc)	17q23.1	protein_coding	17 / 986 (1.72%)	271 / 10,188	24	Cancer Gene Census	
+XPO1	exportin 1	2p15	protein_coding	17 / 986 (1.72%)	209 / 10,188	21	Cancer Gene Census	
+UBR2	ubiquitin protein ligase E3 component n-recognin 2	6p21.1	protein_coding	17 / 986 (1.72%)	263 / 10,188	18		
+RP1L1	retinitis pigmentosa 1-like 1	8p23.1	protein_coding	17 / 986 (1.72%)	624 / 10,188	17		
+THOC2	THO complex 2	Xq25	protein_coding	17 / 986 (1.72%)	357 / 10,188	18		
+LILRB5	leukocyte immunoglobulin-like receptor, subfamily B (with TM and ITIM domains), member 5	19q13.42	protein_coding	17 / 986 (1.72%)	434 / 10,188	17		
+ZNF648	zinc finger protein 648	1q25.3	protein_coding	17 / 986 (1.72%)	226 / 10,188	17		
+CDK12	cyclin-dependent kinase 12	17q12	protein_coding	17 / 986 (1.72%)	328 / 10,188	20	Cancer Gene Census	
+PI4KA	phosphatidylinositol 4-kinase, catalytic, alpha	22q11.21	protein_coding	17 / 986 (1.72%)	354 / 10,188	21		
+CAPRIN2	caprin family member 2	12p11.21	protein_coding	17 / 986 (1.72%)	235 / 10,188	17		
+DPP10	dipeptidyl-peptidase 10 (non-functional)	2q14.1	protein_coding	17 / 986 (1.72%)	439 / 10,188	19		
+COL5A2	collagen, type V, alpha 2	2q32.2	protein_coding	17 / 986 (1.72%)	429 / 10,188	17		
+TLN2	talin 2	15q22.2	protein_coding	17 / 986 (1.72%)	507 / 10,188	19		
+SPG11	spastic paraplegia 11 (autosomal recessive)	15q21.1	protein_coding	17 / 986 (1.72%)	347 / 10,188	17		
+DCDC1	doublecortin domain containing 1	11p14.1, 11p13	protein_coding	17 / 986 (1.72%)	532 / 10,188	18		
+ADAMTS1	ADAM metallopeptidase with thrombospondin type 1 motif, 1	21q21.3	protein_coding	17 / 986 (1.72%)	212 / 10,188	17		
+EPHA7	EPH receptor A7	6q16.1	protein_coding	17 / 986 (1.72%)	422 / 10,188	17		
+SAGE1	sarcoma antigen 1	Xq26.3	protein_coding	17 / 986 (1.72%)	330 / 10,188	18		
+MASP1	mannan-binding lectin serine peptidase 1 (C4/C2 activating component of Ra-reactive factor)	3q27.3	protein_coding	17 / 986 (1.72%)	381 / 10,188	19		
+LRRC16B	leucine rich repeat containing 16B	14q11.2	protein_coding	17 / 986 (1.72%)	309 / 10,188	18		
+TEK	TEK tyrosine kinase, endothelial	9p21.2	protein_coding	17 / 986 (1.72%)	290 / 10,188	20		
+PRX	periaxin	19q13.2	protein_coding	17 / 986 (1.72%)	292 / 10,188	19		
+STAT4	signal transducer and activator of transcription 4	2q32.2, 2q32.3	protein_coding	17 / 986 (1.72%)	222 / 10,188	19		
+TCF4	transcription factor 4	18q21.2	protein_coding	17 / 986 (1.72%)	278 / 10,188	17		
+FRYL	FRY-like	4p11	protein_coding	17 / 986 (1.72%)	431 / 10,188	19		
+CUL7	cullin 7	6p21.1	protein_coding	17 / 986 (1.72%)	247 / 10,188	18		
+KIAA0319	KIAA0319	6p22.3	protein_coding	17 / 986 (1.72%)	304 / 10,188	18		
+PCDHB11	protocadherin beta 11	5q31.3	protein_coding	17 / 986 (1.72%)	357 / 10,188	17		
+TRIP12	thyroid hormone receptor interactor 12	2q36.3	protein_coding	17 / 986 (1.72%)	374 / 10,188	22		
+QRICH2	glutamine rich 2	17q25.1	protein_coding	17 / 986 (1.72%)	286 / 10,188	20		
+INTS3	integrator complex subunit 3	1q21.3	protein_coding	16 / 986 (1.62%)	274 / 10,188	19		
+MCM7	minichromosome maintenance complex component 7	7q22.1	protein_coding	16 / 986 (1.62%)	209 / 10,188	18		
+EEA1	early endosome antigen 1	12q22	protein_coding	16 / 986 (1.62%)	216 / 10,188	18		
+INTS1	integrator complex subunit 1	7p22.3	protein_coding	16 / 986 (1.62%)	343 / 10,188	19		
+AMBRA1	autophagy/beclin-1 regulator 1	11p11.2	protein_coding	16 / 986 (1.62%)	274 / 10,188	17		
+SMG8	SMG8 nonsense mediated mRNA decay factor	17q22	protein_coding	16 / 986 (1.62%)	237 / 10,188	21		
+POLE	polymerase (DNA directed), epsilon, catalytic subunit	12q24.33	protein_coding	16 / 986 (1.62%)	440 / 10,188	17	Cancer Gene Census	
+PLXNA1	plexin A1	3q21.3	protein_coding	16 / 986 (1.62%)	399 / 10,188	16		
+PPP1R9A	protein phosphatase 1, regulatory subunit 9A	7q21.3	protein_coding	16 / 986 (1.62%)	339 / 10,188	17		
+WDR66	WD repeat domain 66	12q24.31	protein_coding	16 / 986 (1.62%)	235 / 10,188	18		
+TEX14	testis expressed 14	17q22	protein_coding	16 / 986 (1.62%)	372 / 10,188	19		
+LEPR	leptin receptor	1p31.3	protein_coding	16 / 986 (1.62%)	345 / 10,188	16		
+MED24	mediator complex subunit 24	17q21.1	protein_coding	16 / 986 (1.62%)	212 / 10,188	19		
+EPHA5	EPH receptor A5	4q13.1, 4q13.2	protein_coding	16 / 986 (1.62%)	493 / 10,188	16		
+ACACB	acetyl-CoA carboxylase beta	12q24.11	protein_coding	16 / 986 (1.62%)	481 / 10,188	18		
+CCDC14	coiled-coil domain containing 14	3q21.1	protein_coding	16 / 986 (1.62%)	176 / 10,188	18		
+MMRN1	multimerin 1	4q22.1	protein_coding	16 / 986 (1.62%)	326 / 10,188	17		
+KIAA0195	KIAA0195	17q25.1	protein_coding	16 / 986 (1.62%)	290 / 10,188	17		
+COL4A1	collagen, type IV, alpha 1	13q34	protein_coding	16 / 986 (1.62%)	429 / 10,188	17		
+NTRK2	neurotrophic tyrosine kinase, receptor, type 2	9q21.33	protein_coding	16 / 986 (1.62%)	277 / 10,188	18		
+CTNND2	catenin (cadherin-associated protein), delta 2	5p15.2	protein_coding	16 / 986 (1.62%)	577 / 10,188	17		
+PXDN	peroxidasin	2p25.3	protein_coding	16 / 986 (1.62%)	496 / 10,188	16		
+COL4A3	collagen, type IV, alpha 3 (Goodpasture antigen)	2q36.3	protein_coding	16 / 986 (1.62%)	353 / 10,188	20		
+CGNL1	cingulin-like 1	15q21.3	protein_coding	16 / 986 (1.62%)	270 / 10,188	17		
+PCSK5	proprotein convertase subtilisin/kexin type 5	9q21.13	protein_coding	16 / 986 (1.62%)	402 / 10,188	17		
+COL27A1	collagen, type XXVII, alpha 1	9q32	protein_coding	16 / 986 (1.62%)	359 / 10,188	17		
+CLIP1	CAP-GLY domain containing linker protein 1	12q24.31	protein_coding	16 / 986 (1.62%)	257 / 10,188	18	Cancer Gene Census	
+PKD1P6	polycystic kidney disease 1 (autosomal dominant) pseudogene 6	16p13.11	processed_transcript	16 / 986 (1.62%)	222 / 10,188	6		
+KIAA0100	KIAA0100	17q11.2	protein_coding	16 / 986 (1.62%)	371 / 10,188	18		
+PTPRM	protein tyrosine phosphatase, receptor type, M	18p11.23	protein_coding	16 / 986 (1.62%)	377 / 10,188	17		
+ITGB2	integrin, beta 2 (complement component 3 receptor 3 and 4 subunit)	21q22.3	protein_coding	16 / 986 (1.62%)	233 / 10,188	17		
+SYMPK	symplekin	19q13.32	protein_coding	16 / 986 (1.62%)	248 / 10,188	16		
+BNC2	basonuclin 2	9p22.3, 9p22.2	protein_coding	16 / 986 (1.62%)	384 / 10,188	16		
+GPRASP2	G protein-coupled receptor associated sorting protein 2	Xq22.1	protein_coding	16 / 986 (1.62%)	213 / 10,188	17		
+ARHGAP24	Rho GTPase activating protein 24	4q21.23, 4q21.3	protein_coding	16 / 986 (1.62%)	198 / 10,188	17		
+PLCG1	phospholipase C, gamma 1	20q12	protein_coding	16 / 986 (1.62%)	233 / 10,188	17	Cancer Gene Census	
+CDH6	cadherin 6, type 2, K-cadherin (fetal kidney)	5p13.3	protein_coding	16 / 986 (1.62%)	389 / 10,188	17		
+RBM33	RNA binding motif protein 33	7q36.3	protein_coding	16 / 986 (1.62%)	227 / 10,188	16		
+ABCB1	ATP-binding cassette, sub-family B (MDR/TAP), member 1	7q21.12	protein_coding	16 / 986 (1.62%)	441 / 10,188	16		
+DDX5	DEAD (Asp-Glu-Ala-Asp) box helicase 5	17q23.3	protein_coding	16 / 986 (1.62%)	146 / 10,188	19	Cancer Gene Census	
+TPTE	transmembrane phosphatase with tensin homology	21p11.2	protein_coding	16 / 986 (1.62%)	612 / 10,188	18		
+CKAP5	cytoskeleton associated protein 5	11p11.2	protein_coding	16 / 986 (1.62%)	299 / 10,188	16		
+PAXBP1	PAX3 and PAX7 binding protein 1	21q22.11	protein_coding	16 / 986 (1.62%)	233 / 10,188	16		
+KCNU1	potassium channel, subfamily U, member 1	8p11.23	protein_coding	16 / 986 (1.62%)	388 / 10,188	16		
+SNCAIP	synuclein, alpha interacting protein	5q23.2	protein_coding	16 / 986 (1.62%)	326 / 10,188	16		
+RARB	retinoic acid receptor, beta	3p24.2	protein_coding	16 / 986 (1.62%)	181 / 10,188	16		
+TDRD5	tudor domain containing 5	1q25.2	protein_coding	16 / 986 (1.62%)	373 / 10,188	16		
+STAG3	stromal antigen 3	7q22.1	protein_coding	16 / 986 (1.62%)	290 / 10,188	15		
+STXBP5	syntaxin binding protein 5 (tomosyn)	6q24.3	protein_coding	16 / 986 (1.62%)	217 / 10,188	17		
+CPT1C	carnitine palmitoyltransferase 1C	19q13.33	protein_coding	16 / 986 (1.62%)	249 / 10,188	17		
+PCDHB1	protocadherin beta 1	5q31.3	protein_coding	16 / 986 (1.62%)	311 / 10,188	16		
+GLI3	GLI family zinc finger 3	7p14.1	protein_coding	17 / 986 (1.72%)	526 / 10,188	19		
+NUP160	nucleoporin 160kDa	11p11.2	protein_coding	17 / 986 (1.72%)	242 / 10,188	23		
+PRKCB	protein kinase C, beta	16p12.2, 16p12.1	protein_coding	17 / 986 (1.72%)	343 / 10,188	18		
+TRDN	triadin	6q22.31	protein_coding	17 / 986 (1.72%)	219 / 10,188	19		
+PCDHGA1	protocadherin gamma subfamily A, 1	5q31.3	protein_coding	17 / 986 (1.72%)	352 / 10,188	21		
+ANO2	anoctamin 2, calcium activated chloride channel	12p13.31	protein_coding	17 / 986 (1.72%)	323 / 10,188	17		
+EIF4A2	eukaryotic translation initiation factor 4A2	3q27.3	protein_coding	17 / 986 (1.72%)	218 / 10,188	18	Cancer Gene Census	
+SHROOM2	shroom family member 2	Xp22.2	protein_coding	17 / 986 (1.72%)	310 / 10,188	23		
+MECOM	MDS1 and EVI1 complex locus	3q26.2	protein_coding	17 / 986 (1.72%)	407 / 10,188	19	Cancer Gene Census	
+GRM1	glutamate receptor, metabotropic 1	6q24.3	protein_coding	17 / 986 (1.72%)	511 / 10,188	18		
+PDE4C	phosphodiesterase 4C, cAMP-specific	19p13.11	protein_coding	17 / 986 (1.72%)	201 / 10,188	17		
+CPED1	cadherin-like and PC-esterase domain containing 1	7q31.31	protein_coding	17 / 986 (1.72%)	359 / 10,188	21		
+PLXNB3	plexin B3	Xq28	protein_coding	17 / 986 (1.72%)	313 / 10,188	19		
+SLC4A5	solute carrier family 4 (sodium bicarbonate cotransporter), member 5	2p13.1	protein_coding	17 / 986 (1.72%)	246 / 10,188	18		
+RTN4	reticulon 4	2p16.1	protein_coding	17 / 986 (1.72%)	199 / 10,188	18		
+PLCL2	phospholipase C-like 2	3p24.3	protein_coding	17 / 986 (1.72%)	264 / 10,188	19		
+ARHGAP29	Rho GTPase activating protein 29	1p22.1	protein_coding	17 / 986 (1.72%)	296 / 10,188	20		
+FCRL3	Fc receptor-like 3	1q23.1	protein_coding	17 / 986 (1.72%)	396 / 10,188	22		
+NUP98	nucleoporin 98kDa	11p15.4	protein_coding	17 / 986 (1.72%)	304 / 10,188	19	Cancer Gene Census	
+CLTC	clathrin, heavy chain (Hc)	17q23.1	protein_coding	17 / 986 (1.72%)	271 / 10,188	24	Cancer Gene Census	
+XPO1	exportin 1	2p15	protein_coding	17 / 986 (1.72%)	209 / 10,188	21	Cancer Gene Census	
+UBR2	ubiquitin protein ligase E3 component n-recognin 2	6p21.1	protein_coding	17 / 986 (1.72%)	263 / 10,188	18		
+RP1L1	retinitis pigmentosa 1-like 1	8p23.1	protein_coding	17 / 986 (1.72%)	624 / 10,188	17		
+THOC2	THO complex 2	Xq25	protein_coding	17 / 986 (1.72%)	357 / 10,188	18		
+LILRB5	leukocyte immunoglobulin-like receptor, subfamily B (with TM and ITIM domains), member 5	19q13.42	protein_coding	17 / 986 (1.72%)	434 / 10,188	17		
+ZNF648	zinc finger protein 648	1q25.3	protein_coding	17 / 986 (1.72%)	226 / 10,188	17		
+CDK12	cyclin-dependent kinase 12	17q12	protein_coding	17 / 986 (1.72%)	328 / 10,188	20	Cancer Gene Census	
+PI4KA	phosphatidylinositol 4-kinase, catalytic, alpha	22q11.21	protein_coding	17 / 986 (1.72%)	354 / 10,188	21		
+CAPRIN2	caprin family member 2	12p11.21	protein_coding	17 / 986 (1.72%)	235 / 10,188	17		
+DPP10	dipeptidyl-peptidase 10 (non-functional)	2q14.1	protein_coding	17 / 986 (1.72%)	439 / 10,188	19		
+COL5A2	collagen, type V, alpha 2	2q32.2	protein_coding	17 / 986 (1.72%)	429 / 10,188	17		
+TLN2	talin 2	15q22.2	protein_coding	17 / 986 (1.72%)	507 / 10,188	19		
+SPG11	spastic paraplegia 11 (autosomal recessive)	15q21.1	protein_coding	17 / 986 (1.72%)	347 / 10,188	17		
+DCDC1	doublecortin domain containing 1	11p14.1, 11p13	protein_coding	17 / 986 (1.72%)	532 / 10,188	18		
+ADAMTS1	ADAM metallopeptidase with thrombospondin type 1 motif, 1	21q21.3	protein_coding	17 / 986 (1.72%)	212 / 10,188	17		
+EPHA7	EPH receptor A7	6q16.1	protein_coding	17 / 986 (1.72%)	422 / 10,188	17		
+SAGE1	sarcoma antigen 1	Xq26.3	protein_coding	17 / 986 (1.72%)	330 / 10,188	18		
+MASP1	mannan-binding lectin serine peptidase 1 (C4/C2 activating component of Ra-reactive factor)	3q27.3	protein_coding	17 / 986 (1.72%)	381 / 10,188	19		
+LRRC16B	leucine rich repeat containing 16B	14q11.2	protein_coding	17 / 986 (1.72%)	309 / 10,188	18		
+TEK	TEK tyrosine kinase, endothelial	9p21.2	protein_coding	17 / 986 (1.72%)	290 / 10,188	20		
+PRX	periaxin	19q13.2	protein_coding	17 / 986 (1.72%)	292 / 10,188	19		
+STAT4	signal transducer and activator of transcription 4	2q32.2, 2q32.3	protein_coding	17 / 986 (1.72%)	222 / 10,188	19		
+TCF4	transcription factor 4	18q21.2	protein_coding	17 / 986 (1.72%)	278 / 10,188	17		
+FRYL	FRY-like	4p11	protein_coding	17 / 986 (1.72%)	431 / 10,188	19		
+CUL7	cullin 7	6p21.1	protein_coding	17 / 986 (1.72%)	247 / 10,188	18		
+KIAA0319	KIAA0319	6p22.3	protein_coding	17 / 986 (1.72%)	304 / 10,188	18		
+PCDHB11	protocadherin beta 11	5q31.3	protein_coding	17 / 986 (1.72%)	357 / 10,188	17		
+TRIP12	thyroid hormone receptor interactor 12	2q36.3	protein_coding	17 / 986 (1.72%)	374 / 10,188	22		
+QRICH2	glutamine rich 2	17q25.1	protein_coding	17 / 986 (1.72%)	286 / 10,188	20		
+INTS3	integrator complex subunit 3	1q21.3	protein_coding	16 / 986 (1.62%)	274 / 10,188	19		
+MCM7	minichromosome maintenance complex component 7	7q22.1	protein_coding	16 / 986 (1.62%)	209 / 10,188	18		
+EEA1	early endosome antigen 1	12q22	protein_coding	16 / 986 (1.62%)	216 / 10,188	18		
+INTS1	integrator complex subunit 1	7p22.3	protein_coding	16 / 986 (1.62%)	343 / 10,188	19		
+AMBRA1	autophagy/beclin-1 regulator 1	11p11.2	protein_coding	16 / 986 (1.62%)	274 / 10,188	17		
+SMG8	SMG8 nonsense mediated mRNA decay factor	17q22	protein_coding	16 / 986 (1.62%)	237 / 10,188	21		
+POLE	polymerase (DNA directed), epsilon, catalytic subunit	12q24.33	protein_coding	16 / 986 (1.62%)	440 / 10,188	17	Cancer Gene Census	
+PLXNA1	plexin A1	3q21.3	protein_coding	16 / 986 (1.62%)	399 / 10,188	16		
+PPP1R9A	protein phosphatase 1, regulatory subunit 9A	7q21.3	protein_coding	16 / 986 (1.62%)	339 / 10,188	17		
+WDR66	WD repeat domain 66	12q24.31	protein_coding	16 / 986 (1.62%)	235 / 10,188	18		
+TEX14	testis expressed 14	17q22	protein_coding	16 / 986 (1.62%)	372 / 10,188	19		
+LEPR	leptin receptor	1p31.3	protein_coding	16 / 986 (1.62%)	345 / 10,188	16		
+MED24	mediator complex subunit 24	17q21.1	protein_coding	16 / 986 (1.62%)	212 / 10,188	19		
+EPHA5	EPH receptor A5	4q13.1, 4q13.2	protein_coding	16 / 986 (1.62%)	493 / 10,188	16		
+ACACB	acetyl-CoA carboxylase beta	12q24.11	protein_coding	16 / 986 (1.62%)	481 / 10,188	18		
+CCDC14	coiled-coil domain containing 14	3q21.1	protein_coding	16 / 986 (1.62%)	176 / 10,188	18		
+MMRN1	multimerin 1	4q22.1	protein_coding	16 / 986 (1.62%)	326 / 10,188	17		
+KIAA0195	KIAA0195	17q25.1	protein_coding	16 / 986 (1.62%)	290 / 10,188	17		
+COL4A1	collagen, type IV, alpha 1	13q34	protein_coding	16 / 986 (1.62%)	429 / 10,188	17		
+NTRK2	neurotrophic tyrosine kinase, receptor, type 2	9q21.33	protein_coding	16 / 986 (1.62%)	277 / 10,188	18		
+CTNND2	catenin (cadherin-associated protein), delta 2	5p15.2	protein_coding	16 / 986 (1.62%)	577 / 10,188	17		
+PXDN	peroxidasin	2p25.3	protein_coding	16 / 986 (1.62%)	496 / 10,188	16		
+COL4A3	collagen, type IV, alpha 3 (Goodpasture antigen)	2q36.3	protein_coding	16 / 986 (1.62%)	353 / 10,188	20		
+CGNL1	cingulin-like 1	15q21.3	protein_coding	16 / 986 (1.62%)	270 / 10,188	17		
+PCSK5	proprotein convertase subtilisin/kexin type 5	9q21.13	protein_coding	16 / 986 (1.62%)	402 / 10,188	17		
+COL27A1	collagen, type XXVII, alpha 1	9q32	protein_coding	16 / 986 (1.62%)	359 / 10,188	17		
+CLIP1	CAP-GLY domain containing linker protein 1	12q24.31	protein_coding	16 / 986 (1.62%)	257 / 10,188	18	Cancer Gene Census	
+PKD1P6	polycystic kidney disease 1 (autosomal dominant) pseudogene 6	16p13.11	processed_transcript	16 / 986 (1.62%)	222 / 10,188	6		
+KIAA0100	KIAA0100	17q11.2	protein_coding	16 / 986 (1.62%)	371 / 10,188	18		
+PTPRM	protein tyrosine phosphatase, receptor type, M	18p11.23	protein_coding	16 / 986 (1.62%)	377 / 10,188	17		
+ITGB2	integrin, beta 2 (complement component 3 receptor 3 and 4 subunit)	21q22.3	protein_coding	16 / 986 (1.62%)	233 / 10,188	17		
+SYMPK	symplekin	19q13.32	protein_coding	16 / 986 (1.62%)	248 / 10,188	16		
+BNC2	basonuclin 2	9p22.3, 9p22.2	protein_coding	16 / 986 (1.62%)	384 / 10,188	16		
+GPRASP2	G protein-coupled receptor associated sorting protein 2	Xq22.1	protein_coding	16 / 986 (1.62%)	213 / 10,188	17		
+ARHGAP24	Rho GTPase activating protein 24	4q21.23, 4q21.3	protein_coding	16 / 986 (1.62%)	198 / 10,188	17		
+PLCG1	phospholipase C, gamma 1	20q12	protein_coding	16 / 986 (1.62%)	233 / 10,188	17	Cancer Gene Census	
+CDH6	cadherin 6, type 2, K-cadherin (fetal kidney)	5p13.3	protein_coding	16 / 986 (1.62%)	389 / 10,188	17		
+RBM33	RNA binding motif protein 33	7q36.3	protein_coding	16 / 986 (1.62%)	227 / 10,188	16		
+ABCB1	ATP-binding cassette, sub-family B (MDR/TAP), member 1	7q21.12	protein_coding	16 / 986 (1.62%)	441 / 10,188	16		
+DDX5	DEAD (Asp-Glu-Ala-Asp) box helicase 5	17q23.3	protein_coding	16 / 986 (1.62%)	146 / 10,188	19	Cancer Gene Census	
+TPTE	transmembrane phosphatase with tensin homology	21p11.2	protein_coding	16 / 986 (1.62%)	612 / 10,188	18		
+CKAP5	cytoskeleton associated protein 5	11p11.2	protein_coding	16 / 986 (1.62%)	299 / 10,188	16		
+PAXBP1	PAX3 and PAX7 binding protein 1	21q22.11	protein_coding	16 / 986 (1.62%)	233 / 10,188	16		
+KCNU1	potassium channel, subfamily U, member 1	8p11.23	protein_coding	16 / 986 (1.62%)	388 / 10,188	16		
+SNCAIP	synuclein, alpha interacting protein	5q23.2	protein_coding	16 / 986 (1.62%)	326 / 10,188	16		
+RARB	retinoic acid receptor, beta	3p24.2	protein_coding	16 / 986 (1.62%)	181 / 10,188	16		
+TDRD5	tudor domain containing 5	1q25.2	protein_coding	16 / 986 (1.62%)	373 / 10,188	16		
+STAG3	stromal antigen 3	7q22.1	protein_coding	16 / 986 (1.62%)	290 / 10,188	15		
+STXBP5	syntaxin binding protein 5 (tomosyn)	6q24.3	protein_coding	16 / 986 (1.62%)	217 / 10,188	17		
+CPT1C	carnitine palmitoyltransferase 1C	19q13.33	protein_coding	16 / 986 (1.62%)	249 / 10,188	17		
+PCDHB1	protocadherin beta 1	5q31.3	protein_coding	16 / 986 (1.62%)	311 / 10,188	16		
+TP53BP2	tumor protein p53 binding protein 2	1q41	protein_coding	16 / 986 (1.62%)	240 / 10,188	16		
+KIF21A	kinesin family member 21A	12q12	protein_coding	16 / 986 (1.62%)	382 / 10,188	18		
+BCAS1	breast carcinoma amplified sequence 1	20q13.2	protein_coding	16 / 986 (1.62%)	197 / 10,188	16		
+GREB1	growth regulation by estrogen in breast cancer 1	2p25.1	protein_coding	16 / 986 (1.62%)	466 / 10,188	17		
+PDXDC1	pyridoxal-dependent decarboxylase domain containing 1	16p13.11	protein_coding	16 / 986 (1.62%)	244 / 10,188	17		
+FAP	fibroblast activation protein, alpha	2q24.2	protein_coding	16 / 986 (1.62%)	260 / 10,188	15		
+MAPKBP1	mitogen-activated protein kinase binding protein 1	15q15.1	protein_coding	16 / 986 (1.62%)	292 / 10,188	18		
+UBC	ubiquitin C	12q24.31	protein_coding	16 / 986 (1.62%)	162 / 10,188	17		
+PCDHB2	protocadherin beta 2	5q31.3	protein_coding	16 / 986 (1.62%)	427 / 10,188	16		
+ADAMTS16	ADAM metallopeptidase with thrombospondin type 1 motif, 16	5p15.32	protein_coding	16 / 986 (1.62%)	529 / 10,188	17		
+PCDH9	protocadherin 9	13q21.32	protein_coding	16 / 986 (1.62%)	464 / 10,188	17		
+L1CAM	L1 cell adhesion molecule	Xq28	protein_coding	16 / 986 (1.62%)	348 / 10,188	16		
+MORC1	MORC family CW-type zinc finger 1	3q13.13	protein_coding	16 / 986 (1.62%)	434 / 10,188	17		
+DOCK3	dedicator of cytokinesis 3	3p21.2	protein_coding	16 / 986 (1.62%)	495 / 10,188	18		
+ATP2B2	ATPase, Ca++ transporting, plasma membrane 2	3p25.3	protein_coding	16 / 986 (1.62%)	432 / 10,188	19		
+IL1RAP	interleukin 1 receptor accessory protein	3q28	protein_coding	16 / 986 (1.62%)	158 / 10,188	17		
+ZNF608	zinc finger protein 608	5q23.2	protein_coding	16 / 986 (1.62%)	265 / 10,188	19		
+CROCCP2	ciliary rootlet coiled-coil, rootletin pseudogene 2	1p36.13	lincRNA	16 / 986 (1.62%)	259 / 10,188	17		
+ZNF521	zinc finger protein 521	18q11.2	protein_coding	16 / 986 (1.62%)	483 / 10,188	19	Cancer Gene Census	
+ZNF407	zinc finger protein 407	18q22.3	protein_coding	16 / 986 (1.62%)	383 / 10,188	16		
+ZBBX	zinc finger, B-box domain containing	3q26.1	protein_coding	16 / 986 (1.62%)	347 / 10,188	16		
+NCL	nucleolin	2q37.1	protein_coding	16 / 986 (1.62%)	150 / 10,188	17		
+CUX1	cut-like homeobox 1	7q22.1	protein_coding	16 / 986 (1.62%)	398 / 10,188	16	Cancer Gene Census	
+CARD11	caspase recruitment domain family, member 11	7p22.2	protein_coding	16 / 986 (1.62%)	441 / 10,188	16	Cancer Gene Census	
+ADGRL4	adhesion G protein-coupled receptor L4	1p31.1	protein_coding	16 / 986 (1.62%)	340 / 10,188	17		
+HDX	highly divergent homeobox	Xq21.1	protein_coding	16 / 986 (1.62%)	216 / 10,188	17		
+DNM3	dynamin 3	1q24.3	protein_coding	16 / 986 (1.62%)	277 / 10,188	20		
+CEP95	centrosomal protein 95kDa	17q23.3	protein_coding	16 / 986 (1.62%)	142 / 10,188	19		
+DOCK5	dedicator of cytokinesis 5	8p21.2	protein_coding	16 / 986 (1.62%)	334 / 10,188	17		
+KIRREL	kin of IRRE like (Drosophila)	1q23.1	protein_coding	16 / 986 (1.62%)	237 / 10,188	15		
+BRIP1	BRCA1 interacting protein C-terminal helicase 1	17q23.2	protein_coding	16 / 986 (1.62%)	248 / 10,188	17	Cancer Gene Census	
+MYOM3	myomesin 3	1p36.11	protein_coding	16 / 986 (1.62%)	376 / 10,188	16		
+GPRASP1	G protein-coupled receptor associated sorting protein 1	Xq22.1	protein_coding	16 / 986 (1.62%)	306 / 10,188	19		
+RASAL2	RAS protein activator like 2	1q25.2	protein_coding	16 / 986 (1.62%)	304 / 10,188	17		
+TBC1D8	TBC1 domain family, member 8 (with GRAM domain)	2q11.2	protein_coding	16 / 986 (1.62%)	220 / 10,188	17		
+SALL4	spalt-like transcription factor 4	20q13.2	protein_coding	16 / 986 (1.62%)	351 / 10,188	17		
+PDZRN4	PDZ domain containing ring finger 4	12q12	protein_coding	16 / 986 (1.62%)	386 / 10,188	17		
+ZNF217	zinc finger protein 217	20q13.2	protein_coding	16 / 986 (1.62%)	275 / 10,188	16		
+NLRC4	NLR family, CARD domain containing 4	2p22.3	protein_coding	16 / 986 (1.62%)	263 / 10,188	17		
+PPFIA1	protein tyrosine phosphatase, receptor type, f polypeptide (PTPRF), interacting protein (liprin), alpha 1	11q13.3	protein_coding	16 / 986 (1.62%)	241 / 10,188	25		
+IFT172	intraflagellar transport 172	2p23.3	protein_coding	16 / 986 (1.62%)	309 / 10,188	18		
+ATP9A	ATPase, class II, type 9A	20q13.2	protein_coding	16 / 986 (1.62%)	301 / 10,188	16		
+CCDC144A	coiled-coil domain containing 144A	17p11.2	protein_coding	16 / 986 (1.62%)	248 / 10,188	21		
+PCDHA8	protocadherin alpha 8	5q31.3	protein_coding	16 / 986 (1.62%)	415 / 10,188	16		
+FLAD1	flavin adenine dinucleotide synthetase 1	1q21.3	protein_coding	16 / 986 (1.62%)	166 / 10,188	16		
+ATP11A	ATPase, class VI, type 11A	13q34	protein_coding	16 / 986 (1.62%)	284 / 10,188	18		
+GUCY2F	guanylate cyclase 2F, retinal	Xq22.3, Xq23	protein_coding	16 / 986 (1.62%)	290 / 10,188	18		
+FRMPD3	FERM and PDZ domain containing 3	Xq22.3	protein_coding	16 / 986 (1.62%)	340 / 10,188	9		
+INTS6	integrator complex subunit 6	13q14.3	protein_coding	16 / 986 (1.62%)	166 / 10,188	19		
+RASGRF1	Ras protein-specific guanine nucleotide-releasing factor 1	15q25.1	protein_coding	16 / 986 (1.62%)	355 / 10,188	22		
+RGPD4	RANBP2-like and GRIP domain containing 4	2q12.3	protein_coding	16 / 986 (1.62%)	495 / 10,188	18		
+RPTOR	regulatory associated protein of MTOR, complex 1	17q25.3	protein_coding	16 / 986 (1.62%)	292 / 10,188	17		
+DOPEY1	dopey family member 1	6q14.1	protein_coding	16 / 986 (1.62%)	358 / 10,188	16		
+PRDM10	PR domain containing 10	11q24.3	protein_coding	16 / 986 (1.62%)	256 / 10,188	16		
+PRKD3	protein kinase D3	2p22.2	protein_coding	16 / 986 (1.62%)	208 / 10,188	19		
+CASR	calcium-sensing receptor	3q13.33, 3q21.1	protein_coding	16 / 986 (1.62%)	404 / 10,188	16		
+SHROOM4	shroom family member 4	Xp11.22	protein_coding	16 / 986 (1.62%)	306 / 10,188	18		
+RIC1	RAB6A GEF complex partner 1	9p24.1	protein_coding	16 / 986 (1.62%)	208 / 10,188	17		
+ADAMTS7	ADAM metallopeptidase with thrombospondin type 1 motif, 7	15q25.1	protein_coding	16 / 986 (1.62%)	300 / 10,188	16		
+SCAF4	SR-related CTD-associated factor 4	21q22.11	protein_coding	16 / 986 (1.62%)	314 / 10,188	17		
+GBF1	golgi brefeldin A resistant guanine nucleotide exchange factor 1	10q24.32	protein_coding	16 / 986 (1.62%)	291 / 10,188	16		
+PCDHA4	protocadherin alpha 4	5q31.3	protein_coding	16 / 986 (1.62%)	405 / 10,188	19		
+PTCHD4	patched domain containing 4	6p12.3	protein_coding	16 / 986 (1.62%)	293 / 10,188	16		
+ALPK1	alpha-kinase 1	4q25	protein_coding	16 / 986 (1.62%)	306 / 10,188	17		
+MAT2A	methionine adenosyltransferase II, alpha	2p11.2	protein_coding	16 / 986 (1.62%)	127 / 10,188	15		
+FMR1	fragile X mental retardation 1	Xq27.3	protein_coding	16 / 986 (1.62%)	242 / 10,188	17		
+COL4A2	collagen, type IV, alpha 2	13q34	protein_coding	16 / 986 (1.62%)	389 / 10,188	16		
+ADAMTS17	ADAM metallopeptidase with thrombospondin type 1 motif, 17	15q26.3	protein_coding	16 / 986 (1.62%)	262 / 10,188	17		
+ITGA1	integrin, alpha 1	5q11.2	protein_coding	16 / 986 (1.62%)	223 / 10,188	18		
+ITGA11	integrin, alpha 11	15q23	protein_coding	16 / 986 (1.62%)	259 / 10,188	17		
+FANCI	Fanconi anemia, complementation group I	15q26.1	protein_coding	16 / 986 (1.62%)	243 / 10,188	17		
+ADGRL2	adhesion G protein-coupled receptor L2	1p31.1	protein_coding	16 / 986 (1.62%)	450 / 10,188	17		
+SLCO1C1	solute carrier organic anion transporter family, member 1C1	12p12.2	protein_coding	16 / 986 (1.62%)	277 / 10,188	18		
+MYH2	myosin, heavy chain 2, skeletal muscle, adult	17p13.1	protein_coding	16 / 986 (1.62%)	691 / 10,188	17		
+OAS2	2'-5'-oligoadenylate synthetase 2, 69/71kDa	12q24.13	protein_coding	16 / 986 (1.62%)	233 / 10,188	19		
+LAMC1	laminin, gamma 1 (formerly LAMB2)	1q25.3	protein_coding	16 / 986 (1.62%)	303 / 10,188	16		
+MEGF10	multiple EGF-like-domains 10	5q23.2	protein_coding	16 / 986 (1.62%)	308 / 10,188	17		
+RAPGEF1	Rap guanine nucleotide exchange factor (GEF) 1	9q34.13	protein_coding	16 / 986 (1.62%)	250 / 10,188	16		
+ABCC4	ATP-binding cassette, sub-family C (CFTR/MRP), member 4	13q32.1	protein_coding	16 / 986 (1.62%)	269 / 10,188	16		
+NUMA1	nuclear mitotic apparatus protein 1	11q13.4	protein_coding	16 / 986 (1.62%)	331 / 10,188	21	Cancer Gene Census	
+DLG2	discs, large homolog 2 (Drosophila)	11q14.1	protein_coding	16 / 986 (1.62%)	462 / 10,188	19		
+GTF2IRD2	GTF2I repeat domain containing 2	7q11.23	protein_coding	16 / 986 (1.62%)	182 / 10,188	16		
+TOPAZ1	testis and ovary specific PAZ domain containing 1	3p21.31	protein_coding	16 / 986 (1.62%)	126 / 10,188	18		
+AKAP4	A kinase (PRKA) anchor protein 4	Xp11.22	protein_coding	16 / 986 (1.62%)	260 / 10,188	16		
+TFAP2A	transcription factor AP-2 alpha (activating enhancer binding protein 2 alpha)	6p24.3	protein_coding	16 / 986 (1.62%)	208 / 10,188	17		
+KIFC1	kinesin family member C1	6p21.32	protein_coding	16 / 986 (1.62%)	200 / 10,188	16		
+ACIN1	apoptotic chromatin condensation inducer 1	14q11.2	protein_coding	16 / 986 (1.62%)	277 / 10,188	16		
+CEP295	centrosomal protein 295kDa	11q21	protein_coding	16 / 986 (1.62%)	252 / 10,188	17		
+RGPD3	RANBP2-like and GRIP domain containing 3	2q12.2	protein_coding	16 / 986 (1.62%)	393 / 10,188	17		
+MROH5	maestro heat-like repeat family member 5	8q24.3	polymorphic_pseudogene	16 / 986 (1.62%)	287 / 10,188	18		
+ABCB11	ATP-binding cassette, sub-family B (MDR/TAP), member 11	2q31.1	protein_coding	16 / 986 (1.62%)	324 / 10,188	21		
+IARS	isoleucyl-tRNA synthetase	9q22.31	protein_coding	16 / 986 (1.62%)	200 / 10,188	16		
+CDH20	cadherin 20, type 2	18q21.33	protein_coding	16 / 986 (1.62%)	296 / 10,188	17		
+ITGB4	integrin, beta 4	17q25.1	protein_coding	16 / 986 (1.62%)	365 / 10,188	16		
+MAP3K13	mitogen-activated protein kinase kinase kinase 13	3q27.2	protein_coding	16 / 986 (1.62%)	240 / 10,188	17	Cancer Gene Census	
+MAGEC3	melanoma antigen family C3	Xq27.2	protein_coding	16 / 986 (1.62%)	404 / 10,188	16		
+TANC1	tetratricopeptide repeat, ankyrin repeat and coiled-coil containing 1	2q24.2	protein_coding	16 / 986 (1.62%)	351 / 10,188	17		
+RTTN	rotatin	18q22.2	protein_coding	16 / 986 (1.62%)	357 / 10,188	17		
+PTPN14	protein tyrosine phosphatase, non-receptor type 14	1q32.3, 1q41	protein_coding	16 / 986 (1.62%)	402 / 10,188	18		
+TGS1	trimethylguanosine synthase 1	8q12.1	protein_coding	16 / 986 (1.62%)	146 / 10,188	19		
+PITRM1	pitrilysin metallopeptidase 1	10p15.2	protein_coding	16 / 986 (1.62%)	212 / 10,188	18		
+KIAA1429	KIAA1429	8q22.1	protein_coding	16 / 986 (1.62%)	320 / 10,188	19		
+ABCB4	ATP-binding cassette, sub-family B (MDR/TAP), member 4	7q21.12	protein_coding	16 / 986 (1.62%)	331 / 10,188	19		
+PHLDB2	pleckstrin homology-like domain, family B, member 2	3q13.2	protein_coding	16 / 986 (1.62%)	365 / 10,188	18		
+INTS4	integrator complex subunit 4	11q14.1	protein_coding	16 / 986 (1.62%)	199 / 10,188	20		
+SLC4A2	solute carrier family 4 (anion exchanger), member 2	7q36.1	protein_coding	16 / 986 (1.62%)	246 / 10,188	17		
+CEP152	centrosomal protein 152kDa	15q21.1	protein_coding	16 / 986 (1.62%)	241 / 10,188	23		
+LIMA1	LIM domain and actin binding 1	12q13.12	protein_coding	16 / 986 (1.62%)	180 / 10,188	15		
+SP3	Sp3 transcription factor	2q31.1	protein_coding	16 / 986 (1.62%)	155 / 10,188	14		
+NES	nestin	1q23.1	protein_coding	16 / 986 (1.62%)	353 / 10,188	20		
+SPTBN5	spectrin, beta, non-erythrocytic 5	15q15.1	protein_coding	16 / 986 (1.62%)	422 / 10,188	15		
+CFAP54	cilia and flagella associated 54	12q23.1	protein_coding	16 / 986 (1.62%)	391 / 10,188	16		
+INADL	InaD-like (Drosophila)	1p31.3	protein_coding	16 / 986 (1.62%)	375 / 10,188	18		
+ACE	angiotensin I converting enzyme	17q23.3	protein_coding	16 / 986 (1.62%)	317 / 10,188	16		
+ASPH	aspartate beta-hydroxylase	8q12.3	protein_coding	16 / 986 (1.62%)	325 / 10,188	18		
+ANAPC1	anaphase promoting complex subunit 1	2q13	protein_coding	16 / 986 (1.62%)	259 / 10,188	15		
+KIAA0825	KIAA0825	5q15	protein_coding	16 / 986 (1.62%)	160 / 10,188	16		
+FAM47A	family with sequence similarity 47, member A	Xp21.1	protein_coding	16 / 986 (1.62%)	500 / 10,188	16		
+FAM21A	family with sequence similarity 21, member A	10q11.23	protein_coding	16 / 986 (1.62%)	252 / 10,188	16		
+ARHGAP21	Rho GTPase activating protein 21	10p12.1	protein_coding	16 / 986 (1.62%)	360 / 10,188	16		
+CFAP61	cilia and flagella associated protein 61	20p11.23	protein_coding	16 / 986 (1.62%)	384 / 10,188	16		
+DSE	dermatan sulfate epimerase	6q22.1	protein_coding	16 / 986 (1.62%)	231 / 10,188	19		
+PHKA1	phosphorylase kinase, alpha 1 (muscle)	Xq13.1	protein_coding	16 / 986 (1.62%)	269 / 10,188	16		
+ZNF469	zinc finger protein 469	16q24.2	protein_coding	16 / 986 (1.62%)	218 / 10,188	16		
+MAGED1	melanoma antigen family D1	Xp11.22	protein_coding	16 / 986 (1.62%)	203 / 10,188	16		
+COL1A1	collagen, type I, alpha 1	17q21.33	protein_coding	16 / 986 (1.62%)	317 / 10,188	20	Cancer Gene Census	
+INSRR	insulin receptor-related receptor	1q23.1	protein_coding	16 / 986 (1.62%)	373 / 10,188	16		
+DIAPH2	diaphanous-related formin 2	Xq21.33	protein_coding	16 / 986 (1.62%)	266 / 10,188	17		
+RP11-407N17.3	RP11-407N17.3	14q21.1	protein_coding	16 / 986 (1.62%)	272 / 10,188	17		
+NLRP7	NLR family, pyrin domain containing 7	19q13.42	protein_coding	16 / 986 (1.62%)	419 / 10,188	19		
+FSIP2	fibrous sheath interacting protein 2	2q32.1	protein_coding	16 / 986 (1.62%)	461 / 10,188	17		
+ZNF831	zinc finger protein 831	20q13.32	protein_coding	16 / 986 (1.62%)	629 / 10,188	16		
+GRIA1	glutamate receptor, ionotropic, AMPA 1	5q33.2	protein_coding	16 / 986 (1.62%)	430 / 10,188	18		
+ABCA4	ATP-binding cassette, sub-family A (ABC1), member 4	1p22.1	protein_coding	16 / 986 (1.62%)	479 / 10,188	20		
+KDM4C	lysine (K)-specific demethylase 4C	9p24.1	protein_coding	16 / 986 (1.62%)	232 / 10,188	17		
+ADAMTS19	ADAM metallopeptidase with thrombospondin type 1 motif, 19	5q23.3	protein_coding	16 / 986 (1.62%)	389 / 10,188	16		
+SPICE1	spindle and centriole associated protein 1	3q13.2	protein_coding	16 / 986 (1.62%)	173 / 10,188	17		
+MEIS2	Meis homeobox 2	15q14	protein_coding	16 / 986 (1.62%)	246 / 10,188	17		
+RAPGEF2	Rap guanine nucleotide exchange factor (GEF) 2	4q32.1	protein_coding	16 / 986 (1.62%)	288 / 10,188	20		
+ITGA10	integrin, alpha 10	1q21.1	protein_coding	16 / 986 (1.62%)	293 / 10,188	16		
+FLRT2	fibronectin leucine rich transmembrane protein 2	14q31.3	protein_coding	16 / 986 (1.62%)	493 / 10,188	16		
+FRG2C	FSHD region gene 2 family, member C	3p12.3	protein_coding	16 / 986 (1.62%)	280 / 10,188	16		
+ADGRE3	adhesion G protein-coupled receptor E3	19p13.12	protein_coding	15 / 986 (1.52%)	204 / 10,188	15		
+IGF1R	insulin-like growth factor 1 receptor	15q26.3	protein_coding	15 / 986 (1.52%)	333 / 10,188	18		
+GNAS	GNAS complex locus	20q13.32	protein_coding	15 / 986 (1.52%)	350 / 10,188	16	Cancer Gene Census	
+ADAMTS9	ADAM metallopeptidase with thrombospondin type 1 motif, 9	3p14.1	protein_coding	15 / 986 (1.52%)	416 / 10,188	16		
+MOV10L1	Mov10 RISC complex RNA helicase like 1	22q13.33	protein_coding	15 / 986 (1.52%)	290 / 10,188	15		
+SNTG1	syntrophin, gamma 1	8q11.21	protein_coding	15 / 986 (1.52%)	314 / 10,188	16		
+FAM208A	family with sequence similarity 208, member A	3p14.3	protein_coding	15 / 986 (1.52%)	247 / 10,188	16		
+UBE4B	ubiquitination factor E4B	1p36.22	protein_coding	15 / 986 (1.52%)	290 / 10,188	15		
+PCDHA1	protocadherin alpha 1	5q31.3	protein_coding	15 / 986 (1.52%)	430 / 10,188	15		
+SLC30A5	solute carrier family 30 (zinc transporter), member 5	5q13.1, 5q13.2	protein_coding	15 / 986 (1.52%)	131 / 10,188	14		
+GOLGA6L17P	golgin A6 family-like 17, pseudogene	15q25.2	transcribed_unprocessed_pseudogene	15 / 986 (1.52%)	135 / 10,188	12		
+PCDHGB6	protocadherin gamma subfamily B, 6	5q31.3	protein_coding	15 / 986 (1.52%)	251 / 10,188	15		
+GPR158	G protein-coupled receptor 158	10p12.1	protein_coding	15 / 986 (1.52%)	520 / 10,188	17		
+POLR1A	polymerase (RNA) I polypeptide A, 194kDa	2p11.2	protein_coding	15 / 986 (1.52%)	327 / 10,188	16		
+DENND3	DENN/MADD domain containing 3	8q24.3	protein_coding	15 / 986 (1.52%)	325 / 10,188	16		
+SLITRK4	SLIT and NTRK-like family, member 4	Xq27.3	protein_coding	15 / 986 (1.52%)	368 / 10,188	18		
+UPF3B	UPF3 regulator of nonsense transcripts homolog B (yeast)	Xq24	protein_coding	15 / 986 (1.52%)	158 / 10,188	17		
+ZFAT	zinc finger and AT hook domain containing	8q24.22	protein_coding	15 / 986 (1.52%)	334 / 10,188	16		
+MAML2	mastermind-like 2 (Drosophila)	11q21	protein_coding	15 / 986 (1.52%)	240 / 10,188	15	Cancer Gene Census	
+EPB41L2	erythrocyte membrane protein band 4.1-like 2	6q23.1, 6q23.2	protein_coding	15 / 986 (1.52%)	243 / 10,188	14		
+PHF8	PHD finger protein 8	Xp11.22	protein_coding	15 / 986 (1.52%)	225 / 10,188	18		
+UBE3C	ubiquitin protein ligase E3C	7q36.3	protein_coding	15 / 986 (1.52%)	279 / 10,188	16		
+GRIA4	glutamate receptor, ionotropic, AMPA 4	11q22.3	protein_coding	15 / 986 (1.52%)	434 / 10,188	15		
+WDR7	WD repeat domain 7	18q21.31	protein_coding	15 / 986 (1.52%)	301 / 10,188	16		
+SLC8A1	solute carrier family 8 (sodium/calcium exchanger), member 1	2p22.1	protein_coding	15 / 986 (1.52%)	428 / 10,188	16		
+UNC13B	unc-13 homolog B (C. elegans)	9p13.3	protein_coding	15 / 986 (1.52%)	281 / 10,188	18		
+VIL1	villin 1	2q35	protein_coding	15 / 986 (1.52%)	194 / 10,188	16		
+DDR2	discoidin domain receptor tyrosine kinase 2	1q23.3	protein_coding	15 / 986 (1.52%)	239 / 10,188	18		
+CASZ1	castor zinc finger 1	1p36.22	protein_coding	15 / 986 (1.52%)	369 / 10,188	15		
+SIPA1L3	signal-induced proliferation-associated 1 like 3	19q13.13, 19q13.2	protein_coding	15 / 986 (1.52%)	397 / 10,188	16		
+SMC1B	structural maintenance of chromosomes 1B	22q13.31	protein_coding	15 / 986 (1.52%)	219 / 10,188	15		
+NPAS4	neuronal PAS domain protein 4	11q13.2	protein_coding	15 / 986 (1.52%)	293 / 10,188	15		
+ADGRG2	adhesion G protein-coupled receptor G2	Xp22.13	protein_coding	15 / 986 (1.52%)	243 / 10,188	18		
+SPIDR	scaffolding protein involved in DNA repair	8q11.21	protein_coding	15 / 986 (1.52%)	218 / 10,188	15		
+NUP210	nucleoporin 210kDa	3p25.1	protein_coding	15 / 986 (1.52%)	369 / 10,188	17		
+EFCAB5	EF-hand calcium binding domain 5	17q11.2	protein_coding	15 / 986 (1.52%)	263 / 10,188	16		
+KIAA0226	KIAA0226	3q29	protein_coding	15 / 986 (1.52%)	238 / 10,188	16		
+ITSN1	intersectin 1 (SH3 domain protein)	21q22.11	protein_coding	15 / 986 (1.52%)	343 / 10,188	18		
+PCDHB13	protocadherin beta 13	5q31.3	protein_coding	15 / 986 (1.52%)	401 / 10,188	16		
+DUOX1	dual oxidase 1	15q21.1	protein_coding	15 / 986 (1.52%)	279 / 10,188	16		
+OTUD4	OTU deubiquitinase 4	4q31.21	protein_coding	15 / 986 (1.52%)	270 / 10,188	14		
+JAK3	Janus kinase 3	19p13.11	protein_coding	15 / 986 (1.52%)	269 / 10,188	19	Cancer Gene Census	
+CEP192	centrosomal protein 192kDa	18p11.21	protein_coding	15 / 986 (1.52%)	363 / 10,188	20		
+PREX1	phosphatidylinositol-3,4,5-trisphosphate-dependent Rac exchange factor 1	20q13.13	protein_coding	15 / 986 (1.52%)	384 / 10,188	16		
+NOTCH3	notch 3	19p13.12	protein_coding	15 / 986 (1.52%)	408 / 10,188	15		
+FMN1	formin 1	15q13.3	protein_coding	15 / 986 (1.52%)	245 / 10,188	17		
+LINGO2	leucine rich repeat and Ig domain containing 2	9p21.2, 9p21.1	protein_coding	15 / 986 (1.52%)	279 / 10,188	15		
+TARBP1	TAR (HIV-1) RNA binding protein 1	1q42.2	protein_coding	15 / 986 (1.52%)	231 / 10,188	16		
+SRRM1	serine/arginine repetitive matrix 1	1p36.11	protein_coding	15 / 986 (1.52%)	218 / 10,188	9		
+ADCY2	adenylate cyclase 2 (brain)	5p15.31	protein_coding	15 / 986 (1.52%)	441 / 10,188	15		
+NACAD	NAC alpha domain containing	7p13	protein_coding	15 / 986 (1.52%)	119 / 10,188	13		
+GBE1	glucan (1,4-alpha-), branching enzyme 1	3p12.2	protein_coding	15 / 986 (1.52%)	152 / 10,188	14		
+TSC2	tuberous sclerosis 2	16p13.3	protein_coding	15 / 986 (1.52%)	324 / 10,188	15	Cancer Gene Census	
+FAM171B	family with sequence similarity 171, member B	2q32.1	protein_coding	15 / 986 (1.52%)	218 / 10,188	15		
+OXR1	oxidation resistance 1	8q23.1	protein_coding	15 / 986 (1.52%)	229 / 10,188	19		
+DUOX2	dual oxidase 2	15q21.1	protein_coding	15 / 986 (1.52%)	343 / 10,188	16		
+KDM3A	lysine (K)-specific demethylase 3A	2p11.2	protein_coding	15 / 986 (1.52%)	196 / 10,188	15		
+ADD2	adducin 2 (beta)	2p13.3	protein_coding	15 / 986 (1.52%)	294 / 10,188	17		
+ATP8B2	ATPase, aminophospholipid transporter, class I, type 8B, member 2	1q21.3	protein_coding	15 / 986 (1.52%)	281 / 10,188	15		
+UBA1	ubiquitin-like modifier activating enzyme 1	Xp11.3	protein_coding	15 / 986 (1.52%)	177 / 10,188	15		
+NRXN1	neurexin 1	2p16.3	protein_coding	15 / 986 (1.52%)	740 / 10,188	15		
+MBD5	methyl-CpG binding domain protein 5	2q23.1	protein_coding	15 / 986 (1.52%)	383 / 10,188	15		
+ZNF611	zinc finger protein 611	19q13.41	protein_coding	15 / 986 (1.52%)	225 / 10,188	14		
+MAST2	microtubule associated serine/threonine kinase 2	1p34.1	protein_coding	15 / 986 (1.52%)	279 / 10,188	15		
+KCNQ3	potassium channel, voltage gated KQT-like subfamily Q, member 3	8q24.22	protein_coding	15 / 986 (1.52%)	363 / 10,188	15		
+CUL9	cullin 9	6p21.1	protein_coding	15 / 986 (1.52%)	413 / 10,188	17		
+CBLB	Cbl proto-oncogene B, E3 ubiquitin protein ligase	3q13.11	protein_coding	15 / 986 (1.52%)	265 / 10,188	16	Cancer Gene Census	
+SEMA5B	sema domain, seven thrombospondin repeats (type 1 and type 1-like), transmembrane domain (TM) and short cytoplasmic domain, (semaphorin) 5B	3q21.1	protein_coding	15 / 986 (1.52%)	373 / 10,188	15		
+DICER1	dicer 1, ribonuclease type III	14q32.13	protein_coding	15 / 986 (1.52%)	344 / 10,188	20	Cancer Gene Census	
+SUV420H1	suppressor of variegation 4-20 homolog 1 (Drosophila)	11q13.2	protein_coding	15 / 986 (1.52%)	235 / 10,188	15		
+ARPP21	cAMP-regulated phosphoprotein, 21kDa	3p22.3	protein_coding	15 / 986 (1.52%)	359 / 10,188	15		
+ACSBG1	acyl-CoA synthetase bubblegum family member 1	15q25.1	protein_coding	15 / 986 (1.52%)	210 / 10,188	16		
+CELSR3	cadherin, EGF LAG seven-pass G-type receptor 3	3p21.31	protein_coding	15 / 986 (1.52%)	444 / 10,188	16		
+MAGI3	membrane associated guanylate kinase, WW and PDZ domain containing 3	1p13.2	protein_coding	15 / 986 (1.52%)	263 / 10,188	18		
+ERN2	endoplasmic reticulum to nucleus signaling 2	16p12.2	protein_coding	15 / 986 (1.52%)	300 / 10,188	15		
+DNM1	dynamin 1	9q34.11	protein_coding	15 / 986 (1.52%)	221 / 10,188	15		
+ALK	anaplastic lymphoma receptor tyrosine kinase	2p23.2, 2p23.1	protein_coding	15 / 986 (1.52%)	419 / 10,188	17	Cancer Gene Census	
+FRMPD2	FERM and PDZ domain containing 2	10q11.22	protein_coding	15 / 986 (1.52%)	379 / 10,188	16		
+SLITRK3	SLIT and NTRK-like family, member 3	3q26.1	protein_coding	15 / 986 (1.52%)	459 / 10,188	20		
+PCDHA13	protocadherin alpha 13	5q31.3	protein_coding	15 / 986 (1.52%)	401 / 10,188	17		
+KCNA4	potassium channel, voltage gated shaker related subfamily A, member 4	11p14.1	protein_coding	15 / 986 (1.52%)	374 / 10,188	16		
+SORBS1	sorbin and SH3 domain containing 1	10q24.1	protein_coding	15 / 986 (1.52%)	251 / 10,188	15		
+RGS9	regulator of G-protein signaling 9	17q24.1	protein_coding	15 / 986 (1.52%)	220 / 10,188	16		
+VWDE	von Willebrand factor D and EGF domains	7p21.3	protein_coding	15 / 986 (1.52%)	153 / 10,188	18		
+BZRAP1	benzodiazepine receptor (peripheral) associated protein 1	17q22	protein_coding	15 / 986 (1.52%)	367 / 10,188	16		
+NLRP5	NLR family, pyrin domain containing 5	19q13.43	protein_coding	15 / 986 (1.52%)	509 / 10,188	15		
+MLK4	MLK4	1q42.2	protein_coding	15 / 986 (1.52%)	277 / 10,188	15		
+PEAK1	pseudopodium-enriched atypical kinase 1	15q24.3	protein_coding	15 / 986 (1.52%)	327 / 10,188	16		
+ZNF711	zinc finger protein 711	Xq21.1	protein_coding	15 / 986 (1.52%)	274 / 10,188	15		
+AMPD1	adenosine monophosphate deaminase 1	1p13.2	protein_coding	15 / 986 (1.52%)	266 / 10,188	13		
+PC	pyruvate carboxylase	11q13.2	protein_coding	15 / 986 (1.52%)	243 / 10,188	18		
+KCNMA1	potassium channel, calcium activated large conductance subfamily M alpha, member 1	10q22.3	protein_coding	15 / 986 (1.52%)	385 / 10,188	16		
+DUSP27	dual specificity phosphatase 27 (putative)	1q24.1	protein_coding	15 / 986 (1.52%)	436 / 10,188	15		
+CACNA1H	calcium channel, voltage-dependent, T type, alpha 1H subunit	16p13.3	protein_coding	15 / 986 (1.52%)	454 / 10,188	16		
+ROCK2	Rho-associated, coiled-coil containing protein kinase 2	2p25.1	protein_coding	15 / 986 (1.52%)	293 / 10,188	15		
+DYNC1I1	dynein, cytoplasmic 1, intermediate chain 1	7q21.3	protein_coding	15 / 986 (1.52%)	235 / 10,188	15		
+KIF20B	kinesin family member 20B	10q23.31	protein_coding	15 / 986 (1.52%)	283 / 10,188	18		
+ATP11B	ATPase, class VI, type 11B	3q26.33	protein_coding	15 / 986 (1.52%)	230 / 10,188	17		
+HEPH	hephaestin	Xq12	protein_coding	15 / 986 (1.52%)	392 / 10,188	19		
+HEATR5A	HEAT repeat containing 5A	14q12	protein_coding	15 / 986 (1.52%)	238 / 10,188	18		
+NWD2	NACHT and WD repeat domain containing 2	4p14	protein_coding	15 / 986 (1.52%)	132 / 10,188	18		
+PBRM1	polybromo 1	3p21.1	protein_coding	15 / 986 (1.52%)	484 / 10,188	16	Cancer Gene Census	
+NLRP11	NLR family, pyrin domain containing 11	19q13.42, 19q13.43	protein_coding	15 / 986 (1.52%)	345 / 10,188	18		
+NCAM1	neural cell adhesion molecule 1	11q23.2	protein_coding	15 / 986 (1.52%)	374 / 10,188	16		
+KCNH6	potassium channel, voltage gated eag related subfamily H, member 6	17q23.3	protein_coding	15 / 986 (1.52%)	322 / 10,188	17		
+LRRC16A	leucine rich repeat containing 16A	6p22.2	protein_coding	15 / 986 (1.52%)	266 / 10,188	19		
+PLA2R1	phospholipase A2 receptor 1, 180kDa	2q24.2	protein_coding	15 / 986 (1.52%)	288 / 10,188	16		
+BNC1	basonuclin 1	15q25.2	protein_coding	15 / 986 (1.52%)	277 / 10,188	15		
+MIB1	mindbomb E3 ubiquitin protein ligase 1	18q11.2	protein_coding	15 / 986 (1.52%)	224 / 10,188	18		
+RBM26	RNA binding motif protein 26	13q31.1	protein_coding	15 / 986 (1.52%)	184 / 10,188	15		
+CTNNA3	catenin (cadherin-associated protein), alpha 3	10q21.3	protein_coding	15 / 986 (1.52%)	371 / 10,188	15		
+ROCK1	Rho-associated, coiled-coil containing protein kinase 1	18q11.1	protein_coding	15 / 986 (1.52%)	305 / 10,188	18		
+CR2	complement component (3d/Epstein Barr virus) receptor 2	1q32.2	protein_coding	15 / 986 (1.52%)	356 / 10,188	16		
+CACNA2D3	calcium channel, voltage-dependent, alpha 2/delta subunit 3	3p21.1, 3p14.3	protein_coding	15 / 986 (1.52%)	383 / 10,188	19		
+DAB1	Dab, reelin signal transducer, homolog 1 (Drosophila)	1p32.2, 1p32.1	protein_coding	15 / 986 (1.52%)	292 / 10,188	14		
+PCDHA2	protocadherin alpha 2	5q31.3	protein_coding	15 / 986 (1.52%)	449 / 10,188	16		
+VWA3B	von Willebrand factor A domain containing 3B	2q11.2	protein_coding	15 / 986 (1.52%)	355 / 10,188	16		
+GPAM	glycerol-3-phosphate acyltransferase, mitochondrial	10q25.2	protein_coding	15 / 986 (1.52%)	198 / 10,188	17		
+NXF1	nuclear RNA export factor 1	11q12.3	protein_coding	15 / 986 (1.52%)	197 / 10,188	15		
+PTPRH	protein tyrosine phosphatase, receptor type, H	19q13.42	protein_coding	15 / 986 (1.52%)	318 / 10,188	15		
+ABCC3	ATP-binding cassette, sub-family C (CFTR/MRP), member 3	17q21.33	protein_coding	15 / 986 (1.52%)	325 / 10,188	15		
+STAT5A	signal transducer and activator of transcription 5A	17q21.2	protein_coding	15 / 986 (1.52%)	140 / 10,188	18		
+ABCB5	ATP-binding cassette, sub-family B (MDR/TAP), member 5	7p21.1	protein_coding	15 / 986 (1.52%)	480 / 10,188	17		
+MYPN	myopalladin	10q21.3	protein_coding	15 / 986 (1.52%)	362 / 10,188	19		
+DISP1	dispatched homolog 1 (Drosophila)	1q41	protein_coding	15 / 986 (1.52%)	304 / 10,188	20		
+BAZ1B	bromodomain adjacent to zinc finger domain, 1B	7q11.23	protein_coding	15 / 986 (1.52%)	256 / 10,188	21		
+PPL	periplakin	16p13.3	protein_coding	15 / 986 (1.52%)	314 / 10,188	15		
+EPB41L3	erythrocyte membrane protein band 4.1-like 3	18p11.31	protein_coding	15 / 986 (1.52%)	446 / 10,188	15		
+PTPRN2	protein tyrosine phosphatase, receptor type, N polypeptide 2	7q36.3	protein_coding	15 / 986 (1.52%)	405 / 10,188	14		
+NPC1	Niemann-Pick disease, type C1	18q11.2	protein_coding	15 / 986 (1.52%)	274 / 10,188	17		
+DIP2B	DIP2 disco-interacting protein 2 homolog B (Drosophila)	12q13.12	protein_coding	15 / 986 (1.52%)	296 / 10,188	18		
+AKAP11	A kinase (PRKA) anchor protein 11	13q14.11	protein_coding	15 / 986 (1.52%)	294 / 10,188	17		
+GNB2L1	guanine nucleotide binding protein (G protein), beta polypeptide 2-like 1	5q35.3	protein_coding	15 / 986 (1.52%)	133 / 10,188	17		
+SH3KBP1	SH3-domain kinase binding protein 1	Xp22.12	protein_coding	15 / 986 (1.52%)	196 / 10,188	16		
+ATAD5	ATPase family, AAA domain containing 5	17q11.2	protein_coding	15 / 986 (1.52%)	292 / 10,188	15		
+ASCC2	activating signal cointegrator 1 complex subunit 2	22q12.2	protein_coding	15 / 986 (1.52%)	166 / 10,188	15		
+CEP70	centrosomal protein 70kDa	3q22.3	protein_coding	15 / 986 (1.52%)	150 / 10,188	17		
+OGDHL	oxoglutarate dehydrogenase-like	10q11.23	protein_coding	15 / 986 (1.52%)	350 / 10,188	16		
+HEATR5B	HEAT repeat containing 5B	2p22.2	protein_coding	15 / 986 (1.52%)	335 / 10,188	15		
+GBA3	glucosidase, beta, acid 3 (gene/pseudogene)	4p15.2	polymorphic_pseudogene	15 / 986 (1.52%)	229 / 10,188	15		
+HERC2P3	hect domain and RLD 2 pseudogene 3	15q11.1, 15q11.2	transcribed_unprocessed_pseudogene	15 / 986 (1.52%)	524 / 10,188	17		
+KIAA0368	KIAA0368	9q31.3	protein_coding	15 / 986 (1.52%)	251 / 10,188	16		
+GPC5	glypican 5	13q31.3	protein_coding	15 / 986 (1.52%)	327 / 10,188	17		
+EVPL	envoplakin	17q25.1	protein_coding	15 / 986 (1.52%)	395 / 10,188	17		
+GTF3C1	general transcription factor IIIC, polypeptide 1, alpha 220kDa	16p12.1	protein_coding	15 / 986 (1.52%)	447 / 10,188	16		
+PRPF8	pre-mRNA processing factor 8	17p13.3	protein_coding	15 / 986 (1.52%)	352 / 10,188	15		
+TXNIP	thioredoxin interacting protein	1q21.1	protein_coding	15 / 986 (1.52%)	158 / 10,188	17		
+DEPDC5	DEP domain containing 5	22q12.2, 22q12.3	protein_coding	15 / 986 (1.52%)	313 / 10,188	18		
+SLX4	SLX4 structure-specific endonuclease subunit	16p13.3	protein_coding	15 / 986 (1.52%)	381 / 10,188	16		
+DPCR1	diffuse panbronchiolitis critical region 1	6p21.33	protein_coding	15 / 986 (1.52%)	156 / 10,188	16		
+DOCK8	dedicator of cytokinesis 8	9p24.3	protein_coding	15 / 986 (1.52%)	398 / 10,188	19		
+STARD9	StAR-related lipid transfer (START) domain containing 9	15q15.2	protein_coding	15 / 986 (1.52%)	100 / 10,188	18		
+XPOT	exportin, tRNA	12q14.2	protein_coding	15 / 986 (1.52%)	190 / 10,188	15		
+ATP2A1	ATPase, Ca++ transporting, cardiac muscle, fast twitch 1	16p11.2	protein_coding	15 / 986 (1.52%)	260 / 10,188	16		
+PTPN13	protein tyrosine phosphatase, non-receptor type 13 (APO-1/CD95 (Fas)-associated phosphatase)	4q21.3	protein_coding	15 / 986 (1.52%)	373 / 10,188	21	Cancer Gene Census	
+ABCC1	ATP-binding cassette, sub-family C (CFTR/MRP), member 1	16p13.11	protein_coding	15 / 986 (1.52%)	324 / 10,188	15		
+PTK2	protein tyrosine kinase 2	8q24.3	protein_coding	15 / 986 (1.52%)	230 / 10,188	15		
+ZFYVE16	zinc finger, FYVE domain containing 16	5q14.1	protein_coding	15 / 986 (1.52%)	234 / 10,188	15		
+CUL4B	cullin 4B	Xq24	protein_coding	15 / 986 (1.52%)	198 / 10,188	15		
+RFPL1	ret finger protein-like 1	22q12.2	protein_coding	15 / 986 (1.52%)	185 / 10,188	16		
+CADPS2	Ca++-dependent secretion activator 2	7q31.32	protein_coding	15 / 986 (1.52%)	288 / 10,188	18		
+NYNRIN	NYN domain and retroviral integrase containing	14q12	protein_coding	15 / 986 (1.52%)	360 / 10,188	16		
+SETD5	SET domain containing 5	3p25.3	protein_coding	15 / 986 (1.52%)	294 / 10,188	17		
+CORIN	corin, serine peptidase	4p12	protein_coding	15 / 986 (1.52%)	323 / 10,188	15		
+SEL1L3	sel-1 suppressor of lin-12-like 3 (C. elegans)	4p15.2	protein_coding	15 / 986 (1.52%)	231 / 10,188	16		
+CNTNAP4	contactin associated protein-like 4	16q23.1	protein_coding	15 / 986 (1.52%)	503 / 10,188	17		
+SIDT2	SID1 transmembrane family, member 2	11q23.3	protein_coding	15 / 986 (1.52%)	190 / 10,188	16		
+MYBPC3	myosin binding protein C, cardiac	11p11.2	protein_coding	15 / 986 (1.52%)	246 / 10,188	17		
+ZRANB3	zinc finger, RAN-binding domain containing 3	2q21.3	protein_coding	15 / 986 (1.52%)	207 / 10,188	15		
+MBD6	methyl-CpG binding domain protein 6	12q13.3	protein_coding	15 / 986 (1.52%)	238 / 10,188	15		
+SEMA6A	sema domain, transmembrane domain (TM), and cytoplasmic domain, (semaphorin) 6A	5q23.1	protein_coding	15 / 986 (1.52%)	253 / 10,188	16		
+EPHB2	EPH receptor B2	1p36.12	protein_coding	15 / 986 (1.52%)	322 / 10,188	15		
+GABBR2	gamma-aminobutyric acid (GABA) B receptor, 2	9q22.33	protein_coding	15 / 986 (1.52%)	270 / 10,188	15		
+DCAF4L2	DDB1 and CUL4 associated factor 4-like 2	8q21.3	protein_coding	15 / 986 (1.52%)	450 / 10,188	15		
+AGBL3	ATP/GTP binding protein-like 3	7q33	protein_coding	15 / 986 (1.52%)	97 / 10,188	15		
+RAB11FIP1	RAB11 family interacting protein 1 (class I)	8p11.23	protein_coding	15 / 986 (1.52%)	283 / 10,188	17		
+USO1	USO1 vesicle transport factor	4q21.1	protein_coding	15 / 986 (1.52%)	125 / 10,188	16		
+FGFR2	fibroblast growth factor receptor 2	10q26.13	protein_coding	15 / 986 (1.52%)	312 / 10,188	15	Cancer Gene Census	
+NOL8	nucleolar protein 8	9q22.31	protein_coding	15 / 986 (1.52%)	192 / 10,188	17		
+FAM135A	family with sequence similarity 135, member A	6q13	protein_coding	15 / 986 (1.52%)	258 / 10,188	16		
+NCOA3	nuclear receptor coactivator 3	20q13.12	protein_coding	15 / 986 (1.52%)	294 / 10,188	17		
+PCDH18	protocadherin 18	4q28.3	protein_coding	15 / 986 (1.52%)	432 / 10,188	17		
+TMEM132C	transmembrane protein 132C	12q24.32, 12q24.33	protein_coding	15 / 986 (1.52%)	207 / 10,188	14		
+AARS	alanyl-tRNA synthetase	16q22.1	protein_coding	15 / 986 (1.52%)	171 / 10,188	15		
+RPTN	repetin	1q21.3	protein_coding	15 / 986 (1.52%)	257 / 10,188	15		
+GPATCH8	G patch domain containing 8	17q21.31	protein_coding	15 / 986 (1.52%)	332 / 10,188	16		
+TTC21B	tetratricopeptide repeat domain 21B	2q24.3	protein_coding	15 / 986 (1.52%)	252 / 10,188	17		
+GOLGA4	golgin A4	3p22.2	protein_coding	15 / 986 (1.52%)	312 / 10,188	19		
+BCOR	BCL6 corepressor	Xp11.4	protein_coding	15 / 986 (1.52%)	413 / 10,188	16	Cancer Gene Census	
+SORL1	sortilin-related receptor, L(DLR class) A repeats containing	11q24.1	protein_coding	15 / 986 (1.52%)	485 / 10,188	17		
+ANKRD30B	ankyrin repeat domain 30B	18p11.21	protein_coding	15 / 986 (1.52%)	377 / 10,188	21		
+LAMB3	laminin, beta 3	1q32.2	protein_coding	15 / 986 (1.52%)	282 / 10,188	15		
+MTM1	myotubularin 1	Xq28	protein_coding	15 / 986 (1.52%)	170 / 10,188	19		
+PPRC1	peroxisome proliferator-activated receptor gamma, coactivator-related 1	10q24.32	protein_coding	15 / 986 (1.52%)	268 / 10,188	16		
+GRM8	glutamate receptor, metabotropic 8	7q31.33	protein_coding	15 / 986 (1.52%)	528 / 10,188	15		
+SLITRK1	SLIT and NTRK-like family, member 1	13q31.1	protein_coding	15 / 986 (1.52%)	511 / 10,188	15		
+CCDC80	coiled-coil domain containing 80	3q13.2	protein_coding	15 / 986 (1.52%)	250 / 10,188	15		
+ZFYVE26	zinc finger, FYVE domain containing 26	14q24.1	protein_coding	15 / 986 (1.52%)	396 / 10,188	17		
+PDCD11	programmed cell death 11	10q24.33	protein_coding	15 / 986 (1.52%)	302 / 10,188	15		
+FAM91A1	family with sequence similarity 91, member A1	8q24.13	protein_coding	15 / 986 (1.52%)	201 / 10,188	16		
+RGS22	regulator of G-protein signaling 22	8q22.2	protein_coding	15 / 986 (1.52%)	341 / 10,188	18		
+RAD50	RAD50 homolog (S. cerevisiae)	5q31.1	protein_coding	15 / 986 (1.52%)	232 / 10,188	16		
+ARHGEF6	Rac/Cdc42 guanine nucleotide exchange factor (GEF) 6	Xq26.3	protein_coding	15 / 986 (1.52%)	229 / 10,188	16		
+TRHDE	thyrotropin-releasing hormone degrading enzyme	12q21.1	protein_coding	15 / 986 (1.52%)	458 / 10,188	15		
+SAMD9L	sterile alpha motif domain containing 9-like	7q21.2	protein_coding	15 / 986 (1.52%)	440 / 10,188	20		
+ADAMTS3	ADAM metallopeptidase with thrombospondin type 1 motif, 3	4q13.3	protein_coding	15 / 986 (1.52%)	352 / 10,188	15		
+PTCHD3	patched domain containing 3	10p12.1	protein_coding	15 / 986 (1.52%)	324 / 10,188	16		
+KDM2A	lysine (K)-specific demethylase 2A	11q13.2	protein_coding	15 / 986 (1.52%)	221 / 10,188	16		
+RP11-231C14.4	RP11-231C14.4	16p11.2	protein_coding	15 / 986 (1.52%)	72 / 10,188	8		
+PPEF1	protein phosphatase, EF-hand calcium binding domain 1	Xp22.13	protein_coding	15 / 986 (1.52%)	179 / 10,188	15		
+ZMYM2	zinc finger, MYM-type 2	13q12.11	protein_coding	15 / 986 (1.52%)	231 / 10,188	17	Cancer Gene Census	
+MAST4	microtubule associated serine/threonine kinase family member 4	5q12.3	protein_coding	14 / 986 (1.42%)	402 / 10,188	14		
+PCDHGA9	protocadherin gamma subfamily A, 9	5q31.3	protein_coding	14 / 986 (1.42%)	244 / 10,188	14		
+MTHFD1	methylenetetrahydrofolate dehydrogenase (NADP+ dependent) 1, methenyltetrahydrofolate cyclohydrolase, formyltetrahydrofolate synthetase	14q23.3	protein_coding	14 / 986 (1.42%)	164 / 10,188	16		
+USP40	ubiquitin specific peptidase 40	2q37.1	protein_coding	14 / 986 (1.42%)	207 / 10,188	13		
+URB2	URB2 ribosome biogenesis 2 homolog (S. cerevisiae)	1q42.13	protein_coding	14 / 986 (1.42%)	279 / 10,188	13		
+CAMSAP3	calmodulin regulated spectrin-associated protein family, member 3	19p13.2	protein_coding	14 / 986 (1.42%)	223 / 10,188	14		
+ZNF275	zinc finger protein 275	Xq28	protein_coding	14 / 986 (1.42%)	213 / 10,188	14		
+KTN1	kinectin 1 (kinesin receptor)	14q22.3	protein_coding	14 / 986 (1.42%)	212 / 10,188	14	Cancer Gene Census	
+FAM13A	family with sequence similarity 13, member A	4q22.1	protein_coding	14 / 986 (1.42%)	255 / 10,188	14		
+CCDC88C	coiled-coil domain containing 88C	14q32.11, 14q32.12	protein_coding	14 / 986 (1.42%)	321 / 10,188	16		
+SSH2	slingshot protein phosphatase 2	17q11.2	protein_coding	14 / 986 (1.42%)	310 / 10,188	16		
+MROH7	maestro heat-like repeat family member 7	1p32.3	protein_coding	14 / 986 (1.42%)	293 / 10,188	15		
+ZCCHC6	zinc finger, CCHC domain containing 6	9q21.33	protein_coding	14 / 986 (1.42%)	247 / 10,188	16		
+GALNTL5	polypeptide N-acetylgalactosaminyltransferase-like 5	7q36.1	protein_coding	14 / 986 (1.42%)	169 / 10,188	14		
+ANKFN1	ankyrin-repeat and fibronectin type III domain containing 1	17q22	protein_coding	14 / 986 (1.42%)	267 / 10,188	16		
+EPHA6	EPH receptor A6	3q11.2	protein_coding	14 / 986 (1.42%)	484 / 10,188	16		
+TMC2	transmembrane channel-like 2	20p13	protein_coding	14 / 986 (1.42%)	280 / 10,188	16		
+LDB2	LIM domain binding 2	4p15.32	protein_coding	14 / 986 (1.42%)	231 / 10,188	15		
+KCNA1	potassium channel, voltage gated shaker related subfamily A, member 1	12p13.32	protein_coding	14 / 986 (1.42%)	347 / 10,188	15		
+IL4R	interleukin 4 receptor	16p12.1	protein_coding	14 / 986 (1.42%)	205 / 10,188	15		
+HDAC4	histone deacetylase 4	2q37.3	protein_coding	14 / 986 (1.42%)	334 / 10,188	14		
+ABR	active BCR-related	17p13.3	protein_coding	14 / 986 (1.42%)	205 / 10,188	15		
+MEP1A	meprin A, alpha (PABA peptide hydrolase)	6p12.3	protein_coding	14 / 986 (1.42%)	216 / 10,188	17		
+LRP5	low density lipoprotein receptor-related protein 5	11q13.2	protein_coding	14 / 986 (1.42%)	326 / 10,188	17		
+POSTN	periostin, osteoblast specific factor	13q13.3	protein_coding	14 / 986 (1.42%)	319 / 10,188	14		
+IKBKAP	inhibitor of kappa light polypeptide gene enhancer in B-cells, kinase complex-associated protein	9q31.3	protein_coding	14 / 986 (1.42%)	220 / 10,188	16		
+GNL3L	guanine nucleotide binding protein-like 3 (nucleolar)-like	Xp11.22	protein_coding	14 / 986 (1.42%)	145 / 10,188	14		
+SIM1	single-minded family bHLH transcription factor 1	6q16.3	protein_coding	14 / 986 (1.42%)	346 / 10,188	15		
+LRRC41	leucine rich repeat containing 41	1p34.1, 1p33	protein_coding	14 / 986 (1.42%)	193 / 10,188	14		
+POLR2A	polymerase (RNA) II (DNA directed) polypeptide A, 220kDa	17p13.1	protein_coding	14 / 986 (1.42%)	297 / 10,188	14		
+PLEKHG2	pleckstrin homology domain containing, family G (with RhoGef domain) member 2	19q13.2	protein_coding	14 / 986 (1.42%)	263 / 10,188	16		
+ITIH5	inter-alpha-trypsin inhibitor heavy chain family, member 5	10p14	protein_coding	14 / 986 (1.42%)	364 / 10,188	15		
+MPDZ	multiple PDZ domain protein	9p23	protein_coding	14 / 986 (1.42%)	353 / 10,188	21		
+SEMA5A	sema domain, seven thrombospondin repeats (type 1 and type 1-like), transmembrane domain (TM) and short cytoplasmic domain, (semaphorin) 5A	5p15.31	protein_coding	14 / 986 (1.42%)	391 / 10,188	16		
+FAM179B	family with sequence similarity 179, member B	14q21.2	protein_coding	14 / 986 (1.42%)	326 / 10,188	18		
+SLC9A8	solute carrier family 9, subfamily A (NHE8, cation proton antiporter 8), member 8	20q13.13	protein_coding	14 / 986 (1.42%)	151 / 10,188	14		
+MUSK	muscle, skeletal, receptor tyrosine kinase	9q31.3	protein_coding	14 / 986 (1.42%)	263 / 10,188	14		
+CHD1L	chromodomain helicase DNA binding protein 1-like	1q21.1	protein_coding	14 / 986 (1.42%)	162 / 10,188	14		
+PLXNB2	plexin B2	22q13.33	protein_coding	14 / 986 (1.42%)	410 / 10,188	16		
+USP54	ubiquitin specific peptidase 54	10q22.2	protein_coding	14 / 986 (1.42%)	260 / 10,188	15		
+PDGFRA	platelet-derived growth factor receptor, alpha polypeptide	4q12	protein_coding	14 / 986 (1.42%)	429 / 10,188	14	Cancer Gene Census	
+PRR12	proline rich 12	19q13.33	protein_coding	14 / 986 (1.42%)	278 / 10,188	14		
+ZNF528	zinc finger protein 528	19q13.41	protein_coding	14 / 986 (1.42%)	186 / 10,188	16		
+NLRP4	NLR family, pyrin domain containing 4	19q13.43	protein_coding	14 / 986 (1.42%)	459 / 10,188	15		
+TRIM6	tripartite motif containing 6	11p15.4	protein_coding	14 / 986 (1.42%)	172 / 10,188	15		
+GEMIN5	gem (nuclear organelle) associated protein 5	5q33.2	protein_coding	14 / 986 (1.42%)	228 / 10,188	14		
+PABPC3	poly(A) binding protein, cytoplasmic 3	13q12.13	protein_coding	14 / 986 (1.42%)	265 / 10,188	15		
+DCTN1	dynactin 1	2p13.1	protein_coding	14 / 986 (1.42%)	272 / 10,188	16	Cancer Gene Census	
+GFPT2	glutamine-fructose-6-phosphate transaminase 2	5q35.3	protein_coding	14 / 986 (1.42%)	217 / 10,188	16		
+MARCH10	membrane-associated ring finger (C3HC4) 10, E3 ubiquitin protein ligase	17q23.2	protein_coding	14 / 986 (1.42%)	259 / 10,188	16		
+PCDHA12	protocadherin alpha 12	5q31.3	protein_coding	14 / 986 (1.42%)	432 / 10,188	16		
+MYO1F	myosin IF	19p13.2	protein_coding	14 / 986 (1.42%)	352 / 10,188	15		
+DOCK6	dedicator of cytokinesis 6	19p13.2	protein_coding	14 / 986 (1.42%)	296 / 10,188	15		
+PCDHGB4	protocadherin gamma subfamily B, 4	5q31.3	protein_coding	14 / 986 (1.42%)	277 / 10,188	15		
+HHLA1	HERV-H LTR-associating 1	8q24.22	protein_coding	14 / 986 (1.42%)	94 / 10,188	14		
+RREB1	ras responsive element binding protein 1	6p24.3	protein_coding	14 / 986 (1.42%)	320 / 10,188	14		
+SYCP1	synaptonemal complex protein 1	1p13.2	protein_coding	14 / 986 (1.42%)	289 / 10,188	15		
+PHF2	PHD finger protein 2	9q22.31	protein_coding	14 / 986 (1.42%)	240 / 10,188	15		
+IMPG1	interphotoreceptor matrix proteoglycan 1	6q14.1	protein_coding	14 / 986 (1.42%)	313 / 10,188	15		
+ETS1	v-ets avian erythroblastosis virus E26 oncogene homolog 1	11q24.3	protein_coding	14 / 986 (1.42%)	190 / 10,188	14		
+YTHDF3	YTH N(6)-methyladenosine RNA binding protein 3	8q12.3	protein_coding	14 / 986 (1.42%)	152 / 10,188	17		
+CYP11B2	cytochrome P450, family 11, subfamily B, polypeptide 2	8q24.3	protein_coding	14 / 986 (1.42%)	237 / 10,188	14		
+LAMB2	laminin, beta 2 (laminin S)	3p21.31	protein_coding	14 / 986 (1.42%)	273 / 10,188	14		
+ITGA8	integrin, alpha 8	10p13	protein_coding	14 / 986 (1.42%)	378 / 10,188	18		
+ZNF721	zinc finger protein 721	4p16.3	protein_coding	14 / 986 (1.42%)	208 / 10,188	17		
+CDHR1	cadherin-related family member 1	10q23.1	protein_coding	14 / 986 (1.42%)	240 / 10,188	14		
+FMO1	flavin containing monooxygenase 1	1q24.3	protein_coding	14 / 986 (1.42%)	211 / 10,188	14		
+DMGDH	dimethylglycine dehydrogenase	5q14.1	protein_coding	14 / 986 (1.42%)	209 / 10,188	14		
+TNS3	tensin 3	7p12.3	protein_coding	14 / 986 (1.42%)	339 / 10,188	16		
+RBM12	RNA binding motif protein 12	20q11.22	protein_coding	14 / 986 (1.42%)	188 / 10,188	14		
+CD1E	CD1e molecule	1q23.1	protein_coding	14 / 986 (1.42%)	313 / 10,188	16		
+MTMR4	myotubularin related protein 4	17q22	protein_coding	14 / 986 (1.42%)	242 / 10,188	15		
+FRMD7	FERM domain containing 7	Xq26.2	protein_coding	14 / 986 (1.42%)	223 / 10,188	11		
+IGSF3	immunoglobulin superfamily, member 3	1p13.1	protein_coding	14 / 986 (1.42%)	286 / 10,188	15		
+LRRIQ3	leucine-rich repeats and IQ motif containing 3	1p31.1	protein_coding	14 / 986 (1.42%)	321 / 10,188	13		
+NUP153	nucleoporin 153kDa	6p22.3	protein_coding	14 / 986 (1.42%)	258 / 10,188	16		
+ACVR2A	activin A receptor, type IIA	2q22.3, 2q23.1	protein_coding	14 / 986 (1.42%)	280 / 10,188	12		
+LAMC2	laminin, gamma 2	1q25.3	protein_coding	14 / 986 (1.42%)	246 / 10,188	14		
+GOLGA6L22	golgin A6 family-like 22	15q11.2	protein_coding	14 / 986 (1.42%)	113 / 10,188	5		
+SPTY2D1	SPT2, Suppressor of Ty, domain containing 1 (S. cerevisiae)	11p15.1	protein_coding	14 / 986 (1.42%)	200 / 10,188	16		
+AP4E1	adaptor-related protein complex 4, epsilon 1 subunit	15q21.2	protein_coding	14 / 986 (1.42%)	238 / 10,188	19		
+IL1RAPL1	interleukin 1 receptor accessory protein-like 1	Xp21.3, Xp21.2	protein_coding	14 / 986 (1.42%)	279 / 10,188	17		
+FGFR1	fibroblast growth factor receptor 1	8p11.23	protein_coding	14 / 986 (1.42%)	218 / 10,188	15	Cancer Gene Census	
+ANKRD28	ankyrin repeat domain 28	3p25.1	protein_coding	14 / 986 (1.42%)	178 / 10,188	18		
+MARCH6	membrane-associated ring finger (C3HC4) 6, E3 ubiquitin protein ligase	5p15.2	protein_coding	14 / 986 (1.42%)	217 / 10,188	14		
+ZC3H7A	zinc finger CCCH-type containing 7A	16p13.13	protein_coding	14 / 986 (1.42%)	183 / 10,188	15		
+DCAF6	DDB1 and CUL4 associated factor 6	1q24.2	protein_coding	14 / 986 (1.42%)	210 / 10,188	15		
+KLHL7	kelch-like family member 7	7p15.3	protein_coding	14 / 986 (1.42%)	155 / 10,188	15		
+SERPINE1	serpin peptidase inhibitor, clade E (nexin, plasminogen activator inhibitor type 1), member 1	7q22.1	protein_coding	14 / 986 (1.42%)	154 / 10,188	15		
+GNPTAB	N-acetylglucosamine-1-phosphate transferase, alpha and beta subunits	12q23.2	protein_coding	14 / 986 (1.42%)	228 / 10,188	15		
+PCDHGA2	protocadherin gamma subfamily A, 2	5q31.3	protein_coding	14 / 986 (1.42%)	401 / 10,188	15		
+PRKCE	protein kinase C, epsilon	2p21	protein_coding	14 / 986 (1.42%)	191 / 10,188	15		
+SMARCA2	SWI/SNF related, matrix associated, actin dependent regulator of chromatin, subfamily a, member 2	9p24.3	protein_coding	14 / 986 (1.42%)	324 / 10,188	16		
+DOPEY2	dopey family member 2	21q22.12	protein_coding	14 / 986 (1.42%)	413 / 10,188	16		
+HIST2H2BE	histone cluster 2, H2be	1q21.2	protein_coding	14 / 986 (1.42%)	122 / 10,188	17		
+LTBP4	latent transforming growth factor beta binding protein 4	19q13.2	protein_coding	14 / 986 (1.42%)	286 / 10,188	14		
+PPFIA2	protein tyrosine phosphatase, receptor type, f polypeptide (PTPRF), interacting protein (liprin), alpha 2	12q21.31	protein_coding	14 / 986 (1.42%)	422 / 10,188	16		
+ADAM19	ADAM metallopeptidase domain 19	5q33.3	protein_coding	14 / 986 (1.42%)	281 / 10,188	15		
+MYO6	myosin VI	6q14.1	protein_coding	14 / 986 (1.42%)	249 / 10,188	14		
+UNC45A	unc-45 homolog A (C. elegans)	15q26.1	protein_coding	14 / 986 (1.42%)	205 / 10,188	14		
+ZBED4	zinc finger, BED-type containing 4	22q13.33	protein_coding	14 / 986 (1.42%)	268 / 10,188	19		
+FKBP15	FK506 binding protein 15, 133kDa	9q32	protein_coding	14 / 986 (1.42%)	195 / 10,188	16		
+TMEM132E	transmembrane protein 132E	17q12	protein_coding	14 / 986 (1.42%)	340 / 10,188	15		
+PPARGC1A	peroxisome proliferator-activated receptor gamma, coactivator 1 alpha	4p15.2	protein_coding	14 / 986 (1.42%)	311 / 10,188	17		
+RGS3	regulator of G-protein signaling 3	9q32	protein_coding	14 / 986 (1.42%)	286 / 10,188	14		
+DHX9	DEAH (Asp-Glu-Ala-His) box helicase 9	1q25.3	protein_coding	14 / 986 (1.42%)	263 / 10,188	14		
+EIF5B	eukaryotic translation initiation factor 5B	2q11.2	protein_coding	14 / 986 (1.42%)	214 / 10,188	15		
+PHACTR1	phosphatase and actin regulator 1	6p24.1	protein_coding	14 / 986 (1.42%)	227 / 10,188	14		
+DENND4C	DENN/MADD domain containing 4C	9p22.1	protein_coding	14 / 986 (1.42%)	252 / 10,188	16		
+AGAP7P	ArfGAP with GTPase domain, ankyrin repeat and PH domain 7, pseudogene	10q11.22	unprocessed_pseudogene	14 / 986 (1.42%)	216 / 10,188	11		
+GALNT8	polypeptide N-acetylgalactosaminyltransferase 8	12p13.32	protein_coding	14 / 986 (1.42%)	230 / 10,188	14		
+STAT6	signal transducer and activator of transcription 6, interleukin-4 induced	12q13.3	protein_coding	14 / 986 (1.42%)	152 / 10,188	18	Cancer Gene Census	
+IKBKB	inhibitor of kappa light polypeptide gene enhancer in B-cells, kinase beta	8p11.21	protein_coding	14 / 986 (1.42%)	207 / 10,188	15	Cancer Gene Census	
+MID1	midline 1	Xp22.2	protein_coding	14 / 986 (1.42%)	180 / 10,188	15		
+LRP6	low density lipoprotein receptor-related protein 6	12p13.2	protein_coding	14 / 986 (1.42%)	317 / 10,188	18		
+CCDC171	coiled-coil domain containing 171	9p22.3	protein_coding	14 / 986 (1.42%)	246 / 10,188	17		
+EIF2AK4	eukaryotic translation initiation factor 2 alpha kinase 4	15q15.1	protein_coding	14 / 986 (1.42%)	275 / 10,188	15		
+RFC1	replication factor C (activator 1) 1, 145kDa	4p14	protein_coding	14 / 986 (1.42%)	209 / 10,188	15		
+DGKK	diacylglycerol kinase, kappa	Xp11.22	protein_coding	14 / 986 (1.42%)	349 / 10,188	19		
+NLRC3	NLR family, CARD domain containing 3	16p13.3	protein_coding	14 / 986 (1.42%)	242 / 10,188	15		
+ADGRA3	adhesion G protein-coupled receptor A3	4p15.2	protein_coding	14 / 986 (1.42%)	262 / 10,188	14		
+BAZ1A	bromodomain adjacent to zinc finger domain, 1A	14q13.1, 14q13.2	protein_coding	14 / 986 (1.42%)	238 / 10,188	15		
+JAK1	Janus kinase 1	1p31.3	protein_coding	14 / 986 (1.42%)	294 / 10,188	16	Cancer Gene Census	
+TBC1D25	TBC1 domain family, member 25	Xp11.23	protein_coding	14 / 986 (1.42%)	185 / 10,188	15		
+RP11-383M4.6	RP11-383M4.6	9q21.32	lincRNA	14 / 986 (1.42%)	219 / 10,188	15		
+INTS2	integrator complex subunit 2	17q23.2	protein_coding	14 / 986 (1.42%)	226 / 10,188	17		
+RANBP17	RAN binding protein 17	5q35.1	protein_coding	14 / 986 (1.42%)	272 / 10,188	15	Cancer Gene Census	
+COL9A1	collagen, type IX, alpha 1	6q13	protein_coding	14 / 986 (1.42%)	348 / 10,188	13		
+ABCC8	ATP-binding cassette, sub-family C (CFTR/MRP), member 8	11p15.1	protein_coding	14 / 986 (1.42%)	403 / 10,188	16		
+SOGA1	suppressor of glucose, autophagy associated 1	20q11.23	protein_coding	14 / 986 (1.42%)	237 / 10,188	15		
+AUTS2	autism susceptibility candidate 2	7q11.22	protein_coding	14 / 986 (1.42%)	335 / 10,188	17		
+IDS	iduronate 2-sulfatase	Xq28	protein_coding	14 / 986 (1.42%)	181 / 10,188	14		
+ATP1A1	ATPase, Na+/K+ transporting, alpha 1 polypeptide	1p13.1	protein_coding	14 / 986 (1.42%)	213 / 10,188	14	Cancer Gene Census	
+TRAPPC8	trafficking protein particle complex 8	18q12.1	protein_coding	14 / 986 (1.42%)	242 / 10,188	16		
+PDE6C	phosphodiesterase 6C, cGMP-specific, cone, alpha prime	10q23.33	protein_coding	14 / 986 (1.42%)	210 / 10,188	14		
+CRNKL1	crooked neck pre-mRNA splicing factor 1	20p11.23	protein_coding	14 / 986 (1.42%)	179 / 10,188	14		
+ZBED1	zinc finger, BED-type containing 1	Xp22.33	protein_coding	14 / 986 (1.42%)	221 / 10,188	14		
+MFI2	antigen p97 (melanoma associated) identified by monoclonal antibodies 133.2 and 96.5	3q29	protein_coding	14 / 986 (1.42%)	191 / 10,188	15		
+MKRN3	makorin ring finger protein 3	15q11.2	protein_coding	14 / 986 (1.42%)	344 / 10,188	14		
+ADAMTS2	ADAM metallopeptidase with thrombospondin type 1 motif, 2	5q35.3	protein_coding	14 / 986 (1.42%)	383 / 10,188	14		
+ROBO3	roundabout, axon guidance receptor, homolog 3 (Drosophila)	11q24.2	protein_coding	14 / 986 (1.42%)	298 / 10,188	15		
+ROR1	receptor tyrosine kinase-like orphan receptor 1	1p31.3	protein_coding	14 / 986 (1.42%)	208 / 10,188	14		
+MCF2L2	MCF.2 cell line derived transforming sequence-like 2	3q27.1	protein_coding	14 / 986 (1.42%)	309 / 10,188	16		
+PGM5	phosphoglucomutase 5	9q21.11	protein_coding	14 / 986 (1.42%)	180 / 10,188	14		
+HEATR6	HEAT repeat containing 6	17q23.1	protein_coding	14 / 986 (1.42%)	180 / 10,188	16		
+DENND1B	DENN/MADD domain containing 1B	1q31.3	protein_coding	14 / 986 (1.42%)	183 / 10,188	16		
+ZNF106	zinc finger protein 106	15q15.1	protein_coding	14 / 986 (1.42%)	280 / 10,188	17		
